@@ -56,7 +56,7 @@ real repo and confirmed working (fetch, normalize, build, auto-commit).
 | | Mastodon | Bluesky | Tumblr | Instagram | Twitter/X |
 |---|---|---|---|---|---|
 | Status | ✅ | ✅ | ✅ | ⛔ | ⛔ |
-| Last successful sync (UTC) | 2026-09-10 19:27:35 UTC | 2026-09-10 19:27:36 UTC | 2026-09-10 19:27:36 UTC | never | never |
+| Last successful sync (UTC) | 2026-09-10 19:36:23 UTC | 2026-09-10 19:36:23 UTC | 2026-09-10 19:36:24 UTC | never | never |
 | New posts (last run) | +0 | +0 | +0 | – | – |
 | Known posts | 21 | 21 | 20 | – | – |
 <!-- STATUS:END -->
