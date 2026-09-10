@@ -36,12 +36,29 @@ real repo and confirmed working (fetch, normalize, build, auto-commit).
 - No cross-platform deduplication: one raw post = one canonical post.
   Crossposts (e.g. the same content on Mastodon and Bluesky) currently still
   show up as two separate entries.
-- No `state.json`/incremental sync: `sync` re-fetches the latest 20 posts per
-  platform every time, there is no "new posts only" mode yet.
+- `data/state.json` now tracks per-source sync health (see "Source status"
+  above), but there's still no `last_seen_id`-based incremental fetch:
+  `sync` re-fetches the latest 20 posts per platform every time.
 - Images are mirrored into `public/media/<post-id>/`; `media.url` points at
   the repo-hosted copy and `media.original_url` keeps the platform's CDN URL.
   Video is not mirrored yet (Bluesky serves it as an HLS playlist, Mastodon
   as a direct MP4 -- both still just link out to the original URL).
+
+## Source status
+
+<!-- STATUS:START -->
+| | Mastodon | Bluesky | Tumblr | Instagram | Twitter/X |
+|---|---|---|---|---|---|
+| Status | ✅ | ✅ | ✅ | ⛔ | ⛔ |
+| Last successful sync (UTC) | 2026-09-10 19:27:00 UTC | 2026-09-10 19:27:00 UTC | 2026-09-10 19:27:01 UTC | never | never |
+| New posts (last run) | +0 | +0 | +0 | – | – |
+| Known posts | 21 | 21 | 20 | – | – |
+<!-- STATUS:END -->
+
+A source erroring or going quiet never deletes previously-archived posts --
+importers only ever write raw files, never remove them -- and the "Last
+successful sync" timestamp above keeps showing the last time a source
+*actually* worked even while it's currently failing.
 
 ## Project structure
 

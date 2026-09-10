@@ -27,7 +27,7 @@ jobs:
           git config user.name "MuMaLab Social Archive"
           git config user.email "social-archive@munichmakerlab.de"
 
-          git add raw data public
+          git add raw data public README.md
           git diff --cached --quiet && exit 0
 
           git commit -m "Update social archive"

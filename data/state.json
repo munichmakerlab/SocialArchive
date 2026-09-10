@@ -1,0 +1,49 @@
+{
+  "mastodon": {
+    "status": "ok",
+    "last_attempt": "2026-09-10T19:27:00.747348+00:00",
+    "last_success": "2026-09-10T19:27:00.747348+00:00",
+    "new_posts_last_run": 0,
+    "known_count": 21,
+    "error": null,
+    "warning": null
+  },
+  "bluesky": {
+    "status": "ok",
+    "last_attempt": "2026-09-10T19:27:00.900275+00:00",
+    "last_success": "2026-09-10T19:27:00.900275+00:00",
+    "new_posts_last_run": 0,
+    "known_count": 21,
+    "error": null,
+    "warning": null
+  },
+  "tumblr": {
+    "status": "ok",
+    "last_attempt": "2026-09-10T19:27:01.458933+00:00",
+    "last_success": "2026-09-10T19:27:01.458933+00:00",
+    "new_posts_last_run": 0,
+    "known_count": 20,
+    "error": null,
+    "warning": null
+  },
+  "instagram": {
+    "status": "not_implemented",
+    "last_attempt": null,
+    "last_success": null,
+    "new_posts_last_run": null,
+    "known_count": null,
+    "error": null,
+    "warning": null,
+    "reason": "blocked without login (see FINDINGS.md)"
+  },
+  "twitter": {
+    "status": "not_implemented",
+    "last_attempt": null,
+    "last_success": null,
+    "new_posts_last_run": null,
+    "known_count": null,
+    "error": null,
+    "warning": null,
+    "reason": "blocked without login (see FINDINGS.md)"
+  }
+}

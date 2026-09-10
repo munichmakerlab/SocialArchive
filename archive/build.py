@@ -8,6 +8,8 @@ from archive.media import mirror_images
 from archive.models import Post
 from archive.normalize import normalize_all
 from archive.paths import DATA_DIR, PUBLIC_DIR, RAW_DIR
+from archive.state import load_state
+from archive.status_report import render_status_table, update_readme_status
 
 LATEST_COUNT = 20
 
@@ -32,6 +34,8 @@ def run() -> tuple[list[Post], tuple[int, int, int]]:
     (PUBLIC_DIR / "posts.json").write_text(posts_json)
     (PUBLIC_DIR / "latest.json").write_text(_posts_json(posts[:LATEST_COUNT]))
     (PUBLIC_DIR / "feed.xml").write_text(build_feed_xml(posts))
+
+    update_readme_status(render_status_table(load_state()))
 
     return posts, mirror_stats
 
