@@ -22,10 +22,14 @@ poc/
 
 ## Setup
 
+Dependencies and the `.venv` are managed with [uv](https://docs.astral.sh/uv/)
+(`pyproject.toml` + `uv.lock`).
+
 ```bash
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
-.venv/bin/python poc/<platform>_fetch.py
+uv sync                          # creates/updates .venv from uv.lock
+uv run poc/<platform>_fetch.py   # runs a script inside that .venv
+
+uv add <package>                 # add a new dependency
 ```
 
 Normalizer, Dedup, `posts.json`-Generator und GitHub-Action-Sync folgen erst,

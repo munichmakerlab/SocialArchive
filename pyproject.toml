@@ -1,0 +1,11 @@
+[project]
+name = "mumalabfeed"
+version = "0.1.0"
+description = "MuMaLab social media archive: import/scrape PoC"
+requires-python = ">=3.12"
+dependencies = [
+    "gallery-dl>=1.32.11",
+    "httpx>=0.28.1",
+    "instaloader>=4.15.3",
+    "yt-dlp>=2026.8.19",
+]

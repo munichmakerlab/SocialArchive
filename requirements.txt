@@ -1,4 +1,0 @@
-gallery-dl
-instaloader
-yt-dlp
-httpx
