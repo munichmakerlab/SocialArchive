@@ -1,0 +1,1 @@
+ConnectionException: JSON Query to api/v1/users/web_profile_info/: 429 Too Many Requests when accessing https://www.instagram.com/api/v1/users/web_profile_info/?username=munichmakerlab

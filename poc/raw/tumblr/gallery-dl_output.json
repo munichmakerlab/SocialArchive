@@ -1,0 +1,9 @@
+[
+  [
+    -1,
+    {
+      "error": "AbortExtraction",
+      "message": "Aborting - Rate limit will reset at 20:04:29"
+    }
+  ]
+]

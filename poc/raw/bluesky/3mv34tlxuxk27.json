@@ -1,0 +1,61 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mv34tlxuxk27",
+    "cid": "bafyreifjomga6od5elerc4uyrj6dfwijouzesradkgg7v2zcwnjfciyjsm",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-09T08:33:03.279Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 720,
+          "width": 1280
+        },
+        "presentation": "default",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreibvqt5uvzaqm6co5oozmw2f6jj33anawy7vxc6ty5g4hprtasavc4"
+          },
+          "mimeType": "video/mp4",
+          "size": 57176285
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "One of our member build a small turret orchestra inspired by Portal 2.\n\nEach turret is driven by a solenoid switched through a solid state relay. A Pi plays a MIDI file and the original audio at the same time, triggering each turret based on its assigned note."
+    },
+    "embed": {
+      "cid": "bafkreibvqt5uvzaqm6co5oozmw2f6jj33anawy7vxc6ty5g4hprtasavc4",
+      "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreibvqt5uvzaqm6co5oozmw2f6jj33anawy7vxc6ty5g4hprtasavc4/playlist.m3u8",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreibvqt5uvzaqm6co5oozmw2f6jj33anawy7vxc6ty5g4hprtasavc4/thumbnail.jpg",
+      "aspectRatio": {
+        "height": 720,
+        "width": 1280
+      },
+      "presentation": "default",
+      "$type": "app.bsky.embed.video#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-09T08:33:07.958Z",
+    "labels": []
+  }
+}

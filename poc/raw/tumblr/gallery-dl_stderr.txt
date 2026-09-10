@@ -1,0 +1,2 @@
+[tumblr][info] Daily API rate limit exceeded
+[tumblr][info] Register your own OAuth application and use its credentials to prevent this error: https://gdl-org.github.io/docs/configuration.html#extractor-tumblr-api-key-api-secret
