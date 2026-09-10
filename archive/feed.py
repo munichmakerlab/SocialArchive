@@ -10,6 +10,7 @@ FEED_TITLE = "Munich Maker Lab -- Social Archive"
 FEED_LINK = f"{PUBLIC_BASE_URL}/"
 FEED_SELF_URL = f"{PUBLIC_BASE_URL}/feed.xml"
 FEED_DESCRIPTION = "Archived posts from all MuMaLab social media accounts."
+LOGO_URL = f"{PUBLIC_BASE_URL}/logo.png"
 
 _TITLE_MAX_LEN = 80
 
@@ -65,6 +66,11 @@ def build_feed_xml(posts: list[Post]) -> str:
   <description>{escape(FEED_DESCRIPTION)}</description>
   <language>en-us</language>
   <lastBuildDate>{last_build_date}</lastBuildDate>
+  <image>
+    <url>{escape(LOGO_URL)}</url>
+    <title>{escape(FEED_TITLE)}</title>
+    <link>{escape(FEED_LINK)}</link>
+  </image>
 {items_xml}
 </channel>
 </rss>
