@@ -47,8 +47,8 @@ def sync() -> None:
 def build() -> None:
     from archive.build import print_report, run
 
-    posts, mirror_stats = run()
-    print_report(posts, mirror_stats)
+    posts, mirror_stats, dedup_stats = run()
+    print_report(posts, mirror_stats, dedup_stats)
 
 
 def main() -> None:

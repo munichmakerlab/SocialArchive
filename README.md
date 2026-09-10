@@ -14,8 +14,10 @@ First end-to-end pipeline for the three sources that work without login
 external platform -> archive/importers/*.py -> raw/<platform>/*.json
                                                       |
                                              archive/normalize.py
+                                                      |
+                                            archive/deduplicate.py
                                                       v
-                                       data/posts.json (canonical)
+                                       data/posts.json (canonical, deduped)
                                                       |
                               archive/build.py -> public/{posts,latest}.json, feed.xml
 ```
@@ -33,9 +35,13 @@ The `sync.yml` GitHub Actions workflow has been triggered manually against the
 real repo and confirmed working (fetch, normalize, build, auto-commit).
 
 **Known gaps at this stage:**
-- No cross-platform deduplication: one raw post = one canonical post.
-  Crossposts (e.g. the same content on Mastodon and Bluesky) currently still
-  show up as two separate entries.
+- Cross-platform deduplication (`archive/deduplicate.py`) merges posts that
+  were cross-posted within a 6-hour window and score >=80 on normalized
+  text similarity (`rapidfuzz` token-set ratio), preferring Mastodon as the
+  canonical source, then Bluesky, then Tumblr. A post reworded very
+  differently per platform, or one with no matching text at all (e.g. an
+  image-only crosspost), won't be caught -- that would need image-hash or
+  semantic matching, not implemented yet.
 - `data/state.json` now tracks per-source sync health (see "Source status"
   above), but there's still no `last_seen_id`-based incremental fetch:
   `sync` re-fetches the latest 20 posts per platform every time.
@@ -67,9 +73,10 @@ archive/
 ├── importers/{mastodon,bluesky,tumblr}.py  # fetch -> raw/<platform>/*.json
 ├── models.py       # canonical Post schema (pydantic)
 ├── normalize.py     # raw/*.json -> Post
+├── deduplicate.py    # merges cross-platform duplicate Posts (Mastodon > Bluesky > Tumblr)
 ├── media.py          # mirrors post images into public/media/<post-id>/
 ├── feed.py          # RSS 2.0 generator
-└── build.py          # normalize_all() -> mirror_images() -> data/posts.json + public/*
+└── build.py          # normalize_all() -> deduplicate() -> mirror_images() -> data/posts.json + public/*
 
 raw/<platform>/       # unmodified raw data per platform
 data/posts.json       # generated, canonical data set

@@ -6,21 +6,12 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 10 Sep 2026 19:27:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 19:35:47 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
-  <item>
-    <title>One of our members supports theatre projects with custom technical gadgets.…</title>
-    <guid isPermaLink="false">bluesky-3mv6nvze7222w</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mv6nvze7222w</link>
-    <pubDate>Thu, 10 Sep 2026 18:16:37 +0000</pubDate>
-    <description><![CDATA[<p>One of our members supports theatre projects with custom technical gadgets. This unusual-looking device recently received an update: it is a remote-controlled vehicle equipped with moving-head LED lights for creating special effects.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mv6nvze7222w/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mv6nvze7222w/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mv6nvze7222w/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mv6nvze7222w/03.jpg" type="image/jpeg"/>
-  </item>
   <item>
     <title>One of our members supports theatre projects with custom technical gadgets.…</title>
     <guid isPermaLink="false">mastodon-117248110375493670</guid>
@@ -29,15 +20,6 @@
     <description><![CDATA[<p>One of our members supports theatre projects with custom technical gadgets. This unusual-looking device recently received an update: it is a remote-controlled vehicle equipped with moving-head LED lights for creating special effects.</p><p>A particularly useful feature is its direct support for DMX, the protocol commonly used to control lighting equipment in theatre productions.</p><p><a href="https://chaos.social/tags/theatre" class="mention hashtag" rel="tag">#<span>theatre</span></a> <a href="https://chaos.social/tags/stageeffects" class="mention hashtag" rel="tag">#<span>stageeffects</span></a> <a href="https://chaos.social/tags/dmx" class="mention hashtag" rel="tag">#<span>dmx</span></a> <a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a></p>]]></description>
     <category>theatre</category><category>stageeffects</category><category>dmx</category><category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117248110375493670/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117248110375493670/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117248110375493670/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117248110375493670/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>One of our member build a small turret orchestra inspired by Portal 2. Each…</title>
-    <guid isPermaLink="false">bluesky-3mv34tlxuxk27</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mv34tlxuxk27</link>
-    <pubDate>Wed, 09 Sep 2026 08:33:03 +0000</pubDate>
-    <description><![CDATA[<p>One of our member build a small turret orchestra inspired by Portal 2.</p><p>Each turret is driven by a solenoid switched through a solid state relay. A Pi plays a MIDI file and the original audio at the same time, triggering each turret based on its assigned note.</p>]]></description>
-    
-    <enclosure url="https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreibvqt5uvzaqm6co5oozmw2f6jj33anawy7vxc6ty5g4hprtasavc4/playlist.m3u8" type="video/mp4"/>
   </item>
   <item>
     <title>One of our member build a small turret orchestra inspired by Portal 2. Each…</title>
@@ -52,64 +34,28 @@
     <title>One of our members built a 3D printed Battle/Death Racer. If you haven't heard…</title>
     <guid isPermaLink="false">mastodon-117208589338269532</guid>
     <link>https://chaos.social/@munichmakerlab/117208589338269532</link>
-    <pubDate>Thu, 03 Sep 2026 18:45:41 +0000</pubDate>
+    <pubDate>Thu, 03 Sep 2026 18:45:26 +0000</pubDate>
     <description><![CDATA[<p>One of our members built a 3D printed Battle/Death Racer. If you haven&#39;t heard of them: Death Racers are small motorized vehicles where the goal is to knock the hat off the other rider&#39;s figure. The more racers, the better the duels.</p><p>Now he just needs a few more makers to build their own so the battles can finally begin.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/3dprinting" class="mention hashtag" rel="tag">#<span>3dprinting</span></a> <a href="https://chaos.social/tags/deathracing" class="mention hashtag" rel="tag">#<span>deathracing</span></a> <a href="https://chaos.social/tags/robotcombat" class="mention hashtag" rel="tag">#<span>robotcombat</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>3dprinting</category><category>deathracing</category><category>robotcombat</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117208589338269532/00.jpg" type="image/jpeg"/>
   </item>
   <item>
-    <title>One of our members built a 3D printed Battle/Death Racer. If you haven't heard…</title>
-    <guid isPermaLink="false">bluesky-3mun4b47yuk2q</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mun4b47yuk2q</link>
-    <pubDate>Thu, 03 Sep 2026 18:45:26 +0000</pubDate>
-    <description><![CDATA[<p>One of our members built a 3D printed Battle/Death Racer. If you haven't heard of them: Death Racers are small motorized vehicles where the goal is to knock the hat off the other rider's figure.</p><p>Now he just needs a few more makers to build their own so the battles can finally begin.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mun4b47yuk2q/00.jpg" type="image/jpeg"/>
-  </item>
-  <item>
     <title>September is here, which means traditional festivities, delicious food, and…</title>
     <guid isPermaLink="false">mastodon-117190947292518199</guid>
     <link>https://chaos.social/@munichmakerlab/117190947292518199</link>
-    <pubDate>Mon, 31 Aug 2026 15:59:04 +0000</pubDate>
+    <pubDate>Mon, 31 Aug 2026 15:55:43 +0000</pubDate>
     <description><![CDATA[<p>September is here, which means traditional festivities, delicious food, and plenty of time to work on your latest projects! Check out our lineup of workshops, meetups, and community sessions coming up this month.</p><p>We also host Open Community Days every Thursday at 18:00.</p><p>For full details and event registration, visit munichmakerlab.de/events</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/oktoberfest" class="mention hashtag" rel="tag">#<span>oktoberfest</span></a> <a href="https://chaos.social/tags/septemberevents" class="mention hashtag" rel="tag">#<span>septemberevents</span></a> <a href="https://chaos.social/tags/munichevents" class="mention hashtag" rel="tag">#<span>munichevents</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>oktoberfest</category><category>septemberevents</category><category>munichevents</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117190947292518199/00.png" type="image/jpeg"/>
   </item>
   <item>
-    <title>Check out our lineup of workshops, meetups, and community sessions coming up…</title>
-    <guid isPermaLink="false">bluesky-3mufbeuh6322r</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mufbeuh6322r</link>
-    <pubDate>Mon, 31 Aug 2026 15:55:43 +0000</pubDate>
-    <description><![CDATA[<p>Check out our lineup of workshops, meetups, and community sessions coming up this month.</p><p>For details and event registration, visit munichmakerlab.de/events</p><p>#hackerspace #makerspace #openworkshop #MunichMakerLab #Kreativquartier #Kreativlabor #DIYMunich #oktoberfest #septemberevents #munichevents</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mufbeuh6322r/00.jpg" type="image/jpeg"/>
-  </item>
-  <item>
     <title>Look who just came around the corner, it's Wall-E!This little robot is one of…</title>
     <guid isPermaLink="false">mastodon-117151057855799551</guid>
     <link>https://chaos.social/@munichmakerlab/117151057855799551</link>
-    <pubDate>Mon, 24 Aug 2026 14:54:40 +0000</pubDate>
+    <pubDate>Mon, 24 Aug 2026 14:54:00 +0000</pubDate>
     <description><![CDATA[<p>Look who just came around the corner, it&#39;s Wall-E!<br />This little robot is one of our members&#39; projects, and he is currently working on his autonomous capabilities so he can drive around without external help.<br /><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/robotics" class="mention hashtag" rel="tag">#<span>robotics</span></a> <a href="https://chaos.social/tags/autonomy" class="mention hashtag" rel="tag">#<span>autonomy</span></a> <a href="https://chaos.social/tags/makers" class="mention hashtag" rel="tag">#<span>makers</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>robotics</category><category>autonomy</category><category>makers</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117151057855799551/00.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>Look who just came around the corner, it's Wall-E! This little robot is one of…</title>
-    <guid isPermaLink="false">bluesky-3mttko2kei22p</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mttko2kei22p</link>
-    <pubDate>Mon, 24 Aug 2026 14:54:00 +0000</pubDate>
-    <description><![CDATA[<p>Look who just came around the corner, it's Wall-E!</p><p>This little robot is one of our members' projects, and he is currently working on his autonomous capabilities so he can drive around without external help.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mttko2kei22p/00.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>We got a new table saw and had the chance to test its additional safety…</title>
-    <guid isPermaLink="false">bluesky-3mtj7ramyhc2f</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mtj7ramyhc2f</link>
-    <pubDate>Thu, 20 Aug 2026 12:12:18 +0000</pubDate>
-    <description><![CDATA[<p>We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.</p><p>No wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon.</p>]]></description>
-    
-    <enclosure url="https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreidzp5tbtmvenjnl6gd64vx4uwom4a34nirefq7djpe3mfa35ch5ya/playlist.m3u8" type="video/mp4"/>
   </item>
   <item>
     <title>We got a new table saw and had the chance to test its additional safety…</title>
@@ -122,30 +68,12 @@
   </item>
   <item>
     <title>As mentioned in previous posts, our Munich Maker Lab logo often serves as a…</title>
-    <guid isPermaLink="false">bluesky-3mt5aik2cjk27</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mt5aik2cjk27</link>
-    <pubDate>Sat, 15 Aug 2026 17:53:23 +0000</pubDate>
-    <description><![CDATA[<p>As mentioned in previous posts, our Munich Maker Lab logo often serves as a test for different production methods, from 3D printing to screen printing and embroidery, but this one was not on our bingo card: the Munich Maker Lab logo as a tufted rug.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mt5aik2cjk27/00.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>As mentioned in previous posts, our Munich Maker Lab logo often serves as a…</title>
     <guid isPermaLink="false">mastodon-117100798707311931</guid>
     <link>https://chaos.social/@munichmakerlab/117100798707311931</link>
     <pubDate>Sat, 15 Aug 2026 17:53:06 +0000</pubDate>
     <description><![CDATA[<p>As mentioned in previous posts, our Munich Maker Lab logo often serves as a test for different production methods, from 3D printing to screen printing and embroidery, but this one was not on our bingo card: the Munich Maker Lab logo as a tufted rug.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117100798707311931/00.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>The last stained glass workshop brought another round of impressive results,…</title>
-    <guid isPermaLink="false">bluesky-3msx6i7metk2x</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3msx6i7metk2x</link>
-    <pubDate>Thu, 13 Aug 2026 08:01:26 +0000</pubDate>
-    <description><![CDATA[<p>The last stained glass workshop brought another round of impressive results, with participants creating beautiful pieces despite having no prior experience in glass art.</p><p>Expanding the workshop capacity worked out really well, allowing more people to get hands-on time and complete their own projects.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msx6i7metk2x/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msx6i7metk2x/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msx6i7metk2x/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msx6i7metk2x/03.jpg" type="image/jpeg"/>
   </item>
   <item>
     <title>The last stained glass workshop brought another round of impressive results,…</title>
@@ -158,15 +86,6 @@
   </item>
   <item>
     <title>As part of our electronics workshop, participants can turn leftover electronic…</title>
-    <guid isPermaLink="false">bluesky-3msfeprmaac2g</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3msfeprmaac2g</link>
-    <pubDate>Thu, 06 Aug 2026 06:05:07 +0000</pubDate>
-    <description><![CDATA[<p>As part of our electronics workshop, participants can turn leftover electronic components into creative tiny creatures. This little wizard even got a staff with a working lantern.</p>]]></description>
-    
-    <enclosure url="https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreig2akx4btn6dx6ggrzd7tuidw5jsybmeaodr23v6goupaenf3gqiq/playlist.m3u8" type="video/mp4"/>
-  </item>
-  <item>
-    <title>As part of our electronics workshop, participants can turn leftover electronic…</title>
     <guid isPermaLink="false">mastodon-117047050813873227</guid>
     <link>https://chaos.social/@munichmakerlab/117047050813873227</link>
     <pubDate>Thu, 06 Aug 2026 06:04:18 +0000</pubDate>
@@ -176,30 +95,12 @@
   </item>
   <item>
     <title>Some impressions from our last hands-on soldering workshop. We do not run this…</title>
-    <guid isPermaLink="false">bluesky-3msahm3lqws23</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3msahm3lqws23</link>
-    <pubDate>Tue, 04 Aug 2026 07:13:26 +0000</pubDate>
-    <description><![CDATA[<p>Some impressions from our last hands-on soldering workshop.</p><p>We do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msahm3lqws23/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msahm3lqws23/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msahm3lqws23/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3msahm3lqws23/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>Some impressions from our last hands-on soldering workshop. We do not run this…</title>
     <guid isPermaLink="false">mastodon-117035995654120260</guid>
     <link>https://chaos.social/@munichmakerlab/117035995654120260</link>
     <pubDate>Tue, 04 Aug 2026 07:12:50 +0000</pubDate>
     <description><![CDATA[<p>Some impressions from our last hands-on soldering workshop.</p><p>We do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/soldering" class="mention hashtag" rel="tag">#<span>soldering</span></a> <a href="https://chaos.social/tags/workshop" class="mention hashtag" rel="tag">#<span>workshop</span></a> <a href="https://chaos.social/tags/halloween" class="mention hashtag" rel="tag">#<span>halloween</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>soldering</category><category>workshop</category><category>halloween</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117035995654120260/00.jpeg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117035995654120260/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117035995654120260/02.jpeg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117035995654120260/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>Since a while, we have a lent screen printing machine in the lab, and one of…</title>
-    <guid isPermaLink="false">bluesky-3ms4of5vf4k2k</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3ms4of5vf4k2k</link>
-    <pubDate>Sun, 02 Aug 2026 19:04:10 +0000</pubDate>
-    <description><![CDATA[<p>Since a while, we have a lent screen printing machine in the lab, and one of our members is currently doing a lot of experiments with it.</p><p>Here are some impressions from the first self-made Munich Maker Lab screen and the first prints.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3ms4of5vf4k2k/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3ms4of5vf4k2k/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3ms4of5vf4k2k/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3ms4of5vf4k2k/03.jpg" type="image/jpeg"/>
   </item>
   <item>
     <title>Since a while, we have a lent screen printing machine in the lab and one of our…</title>
@@ -214,19 +115,10 @@
     <title>“Goodbye Windows, welcome Linux”Linux Installation Workshop To mark Digital…</title>
     <guid isPermaLink="false">mastodon-117016549101103313</guid>
     <link>https://chaos.social/@munichmakerlab/117016549101103313</link>
-    <pubDate>Fri, 31 Jul 2026 20:47:19 +0000</pubDate>
+    <pubDate>Fri, 31 Jul 2026 20:46:58 +0000</pubDate>
     <description><![CDATA[<p>“Goodbye Windows, welcome Linux”<br />Linux Installation Workshop</p><p>To mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.</p><p>Date: August 2, 2026<br />Time: 14:00 – 18:00<br />Location: Munich Maker Lab, Dachauer Str. 112h, 80636 Munich<br />More details:  <span class="h-card" translate="no"><a href="https://social.computertruhe.de/@muenchen" class="u-url mention">@<span>muenchen</span></a></span> </p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/linux" class="mention hashtag" rel="tag">#<span>linux</span></a> <a href="https://chaos.social/tags/digitalindependence" class="mention hashtag" rel="tag">#<span>digitalindependence</span></a> <a href="https://chaos.social/tags/foss" class="mention hashtag" rel="tag">#<span>foss</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>linux</category><category>digitalindependence</category><category>foss</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117016549101103313/00.png" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>Linux Installation Workshop To mark Digital Independence Day, Computertruhe…</title>
-    <guid isPermaLink="false">bluesky-3mrxt75alfs2o</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mrxt75alfs2o</link>
-    <pubDate>Fri, 31 Jul 2026 20:46:58 +0000</pubDate>
-    <description><![CDATA[<p>Linux Installation Workshop</p><p>To mark Digital Independence Day, Computertruhe Munich is hosting a hands-on workshop to install Linux Mint on your laptop.</p><p>Date: August 2, 2026</p><p>Time: 14:00 – 18:00</p><p>Location: Munich Maker Lab, Dachauer Str. 112h, 80636 Munich</p><p>More details: computertruhe.de</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrxt75alfs2o/00.jpg" type="image/jpeg"/>
   </item>
   <item>
     <title>August is almost here, and so are our community events! We have plenty of great…</title>
@@ -241,82 +133,37 @@
     <title>One of our members has kindly lent an embroidery machine to the lab. Here it is…</title>
     <guid isPermaLink="false">mastodon-116999306653587443</guid>
     <link>https://chaos.social/@munichmakerlab/116999306653587443</link>
-    <pubDate>Tue, 28 Jul 2026 19:42:20 +0000</pubDate>
+    <pubDate>Tue, 28 Jul 2026 19:41:34 +0000</pubDate>
     <description><![CDATA[<p>One of our members has kindly lent an embroidery machine to the lab.</p><p>Here it is in action...</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/embroidery" class="mention hashtag" rel="tag">#<span>embroidery</span></a> <a href="https://chaos.social/tags/textileart" class="mention hashtag" rel="tag">#<span>textileart</span></a> <a href="https://chaos.social/tags/makers" class="mention hashtag" rel="tag">#<span>makers</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>embroidery</category><category>textileart</category><category>makers</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-116999306653587443/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116999306653587443/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116999306653587443/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116999306653587443/03.jpg" type="image/jpeg"/>
   </item>
   <item>
-    <title>One of our members has kindly lent an embroidery machine to the lab. Here it is…</title>
-    <guid isPermaLink="false">bluesky-3mrq65gt6ok2q</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mrq65gt6ok2q</link>
-    <pubDate>Tue, 28 Jul 2026 19:41:34 +0000</pubDate>
-    <description><![CDATA[<p>One of our members has kindly lent an embroidery machine to the lab.</p><p>Here it is in action...</p><p>#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #embroidery #textileart #makers</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrq65gt6ok2q/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrq65gt6ok2q/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrq65gt6ok2q/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrq65gt6ok2q/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
     <title>Some impressions from our setup for the Kreativ Labor Open a few weeks ago,…</title>
     <guid isPermaLink="false">mastodon-116985589427601237</guid>
     <link>https://chaos.social/@munichmakerlab/116985589427601237</link>
-    <pubDate>Sun, 26 Jul 2026 09:33:52 +0000</pubDate>
+    <pubDate>Sun, 26 Jul 2026 09:32:03 +0000</pubDate>
     <description><![CDATA[<p>Some impressions from our setup for the Kreativ Labor Open a few weeks ago, with some colorful DIY lighting.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/diylighting" class="mention hashtag" rel="tag">#<span>diylighting</span></a> <a href="https://chaos.social/tags/eventsetup" class="mention hashtag" rel="tag">#<span>eventsetup</span></a> <a href="https://chaos.social/tags/lightdesign" class="mention hashtag" rel="tag">#<span>lightdesign</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>diylighting</category><category>eventsetup</category><category>lightdesign</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-116985589427601237/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116985589427601237/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116985589427601237/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116985589427601237/03.jpg" type="image/jpeg"/>
   </item>
   <item>
-    <title>Some impressions from our setup for the Kreativ Labor Open a few weeks ago,…</title>
-    <guid isPermaLink="false">bluesky-3mrk35plvrc2g</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mrk35plvrc2g</link>
-    <pubDate>Sun, 26 Jul 2026 09:32:03 +0000</pubDate>
-    <description><![CDATA[<p>Some impressions from our setup for the Kreativ Labor Open a few weeks ago, with some colorful DIY lighting.</p><p>#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #diylighting #eventsetup #lightdesign</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrk35plvrc2g/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrk35plvrc2g/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrk35plvrc2g/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mrk35plvrc2g/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
     <title>Some impressions from our last Open Doors Day, with a wide range of offerings…</title>
     <guid isPermaLink="false">mastodon-116962205524822716</guid>
     <link>https://chaos.social/@munichmakerlab/116962205524822716</link>
-    <pubDate>Wed, 22 Jul 2026 06:27:02 +0000</pubDate>
+    <pubDate>Wed, 22 Jul 2026 06:25:45 +0000</pubDate>
     <description><![CDATA[<p>Some impressions from our last Open Doors Day, with a wide range of offerings and lots of demo projects on display.</p><p>It was a great chance to show what the lab is about, share ideas, and give visitors a look at what we build and explore together.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/opendoorsday" class="mention hashtag" rel="tag">#<span>opendoorsday</span></a> <a href="https://chaos.social/tags/demostuff" class="mention hashtag" rel="tag">#<span>demostuff</span></a> <a href="https://chaos.social/tags/communityevent" class="mention hashtag" rel="tag">#<span>communityevent</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>opendoorsday</category><category>demostuff</category><category>communityevent</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-116962205524822716/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116962205524822716/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116962205524822716/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116962205524822716/03.jpg" type="image/jpeg"/>
   </item>
   <item>
-    <title>Some impressions from our last Open Doors Day, with a wide range of offerings…</title>
-    <guid isPermaLink="false">bluesky-3mr7ouu5w3k22</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mr7ouu5w3k22</link>
-    <pubDate>Wed, 22 Jul 2026 06:25:45 +0000</pubDate>
-    <description><![CDATA[<p>Some impressions from our last Open Doors Day, with a wide range of offerings and lots of demo projects on display.</p><p>It was a great chance to show what the lab is about, share ideas, and give visitors a look at what we build and explore together.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mr7ouu5w3k22/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mr7ouu5w3k22/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mr7ouu5w3k22/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mr7ouu5w3k22/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
     <title>One of our members recently joined a stained glass workshop to learn the…</title>
     <guid isPermaLink="false">mastodon-116941207640274932</guid>
     <link>https://chaos.social/@munichmakerlab/116941207640274932</link>
-    <pubDate>Sat, 18 Jul 2026 13:27:00 +0000</pubDate>
+    <pubDate>Sat, 18 Jul 2026 13:26:40 +0000</pubDate>
     <description><![CDATA[<p>One of our members recently joined a stained glass workshop to learn the basics, and quickly turned that knowledge into her own creations.</p><p>She designed and built two beautiful pieces after the course, each with its own distinct style.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/stainedglass" class="mention hashtag" rel="tag">#<span>stainedglass</span></a> <a href="https://chaos.social/tags/glassart" class="mention hashtag" rel="tag">#<span>glassart</span></a> <a href="https://chaos.social/tags/handmade" class="mention hashtag" rel="tag">#<span>handmade</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>stainedglass</category><category>glassart</category><category>handmade</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-116941207640274932/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116941207640274932/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116941207640274932/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116941207640274932/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>One of our members recently joined a stained glass workshop to learn the…</title>
-    <guid isPermaLink="false">bluesky-3mqwejtinps2d</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mqwejtinps2d</link>
-    <pubDate>Sat, 18 Jul 2026 13:26:40 +0000</pubDate>
-    <description><![CDATA[<p>One of our members recently joined a stained glass workshop to learn the basics, and quickly turned that knowledge into her own creations.</p><p>She designed and built two beautiful pieces after the course, each with its own distinct style.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqwejtinps2d/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqwejtinps2d/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqwejtinps2d/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqwejtinps2d/03.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>Some great pieces made in one of our Tiffany stained glass workshops, now on…</title>
-    <guid isPermaLink="false">bluesky-3mqrrrj25cc2l</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mqrrrj25cc2l</link>
-    <pubDate>Thu, 16 Jul 2026 17:40:17 +0000</pubDate>
-    <description><![CDATA[<p>Some great pieces made in one of our Tiffany stained glass workshops, now on display in our demonstration shelf alongside many other fine things built at the lab.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqrrrj25cc2l/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqrrrj25cc2l/01.jpg" type="image/jpeg"/>
   </item>
   <item>
     <title>Some great pieces made in one of our Tiffany stained glass workshops, now on…</title>
@@ -331,28 +178,10 @@
     <title>One of our members got tired of cutting screws to the right length by hand, so…</title>
     <guid isPermaLink="false">mastodon-116891422602892901</guid>
     <link>https://chaos.social/@munichmakerlab/116891422602892901</link>
-    <pubDate>Thu, 09 Jul 2026 18:26:00 +0000</pubDate>
+    <pubDate>Thu, 09 Jul 2026 18:25:39 +0000</pubDate>
     <description><![CDATA[<p>One of our members got tired of cutting screws to the right length by hand, so they  printed and built a handy jig for the Dremel to do it precisely.<br />3D model source:: <a href="https://cults3d.com/de/modell-3d/werkzeuge/dremel-miter-saw-fixture" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">cults3d.com/de/modell-3d/werkz</span><span class="invisible">euge/dremel-miter-saw-fixture</span></a></p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/3dprinting" class="mention hashtag" rel="tag">#<span>3dprinting</span></a> <a href="https://chaos.social/tags/dremel" class="mention hashtag" rel="tag">#<span>dremel</span></a> <a href="https://chaos.social/tags/diyhacks" class="mention hashtag" rel="tag">#<span>diyhacks</span></a></p>]]></description>
     <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>3dprinting</category><category>dremel</category><category>diyhacks</category>
     <enclosure url="https://posts.munichmakerlab.de/media/mastodon-116891422602892901/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-116891422602892901/01.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>One of our members got tired of cutting screws to the right length by hand, so…</title>
-    <guid isPermaLink="false">bluesky-3mqab26a3h22c</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mqab26a3h22c</link>
-    <pubDate>Thu, 09 Jul 2026 18:25:39 +0000</pubDate>
-    <description><![CDATA[<p>One of our members got tired of cutting screws to the right length by hand, so they printed and built a handy jig for the Dremel to do it precisely.</p><p>3D model source: cults3d.com/de/modell-3d...</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqab26a3h22c/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mqab26a3h22c/01.jpg" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>Soil discovery at the Kreativlabor site In 2016, TUM researchers found high…</title>
-    <guid isPermaLink="false">bluesky-3mq2xzbkt5s2d</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mq2xzbkt5s2d</link>
-    <pubDate>Tue, 07 Jul 2026 16:00:46 +0000</pubDate>
-    <description><![CDATA[<p>Soil discovery at the Kreativlabor site</p><p>In 2016, TUM researchers found high concentrations of semiconductor and precious metals here.</p><p>A perfect makerspace habitat.</p><p>See the soil model on site and explore the layers yourself.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mq2xzbkt5s2d/00.jpg" type="image/jpeg"/>
   </item>
   <item>
     <title>Soil discovery at the Kreativlabor site – a scientific report In 2016,…</title>

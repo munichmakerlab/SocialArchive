@@ -3,6 +3,7 @@
 import json
 from collections import Counter
 
+from archive.deduplicate import deduplicate
 from archive.feed import build_feed_xml
 from archive.media import mirror_images
 from archive.models import Post
@@ -20,8 +21,9 @@ def _posts_json(posts: list[Post]) -> str:
     )
 
 
-def run() -> tuple[list[Post], tuple[int, int, int]]:
-    posts = normalize_all()
+def run() -> tuple[list[Post], tuple[int, int, int], tuple[int, int]]:
+    source_posts = normalize_all()
+    posts = deduplicate(source_posts)
     posts.sort(key=lambda p: p.published_at, reverse=True)
 
     mirror_stats = mirror_images(posts)
@@ -37,15 +39,21 @@ def run() -> tuple[list[Post], tuple[int, int, int]]:
 
     update_readme_status(render_status_table(load_state()))
 
-    return posts, mirror_stats
+    dedup_stats = (len(source_posts), len(posts))
+    return posts, mirror_stats, dedup_stats
 
 
-def print_report(posts: list[Post], mirror_stats: tuple[int, int, int]) -> None:
+def print_report(posts: list[Post], mirror_stats: tuple[int, int, int], dedup_stats: tuple[int, int]) -> None:
     downloaded, skipped, failed = mirror_stats
+    source_count, canonical_count = dedup_stats
     per_source = Counter(s.platform for p in posts for s in p.sources)
     print("MuMaLab Social Archive Build\n")
     for platform in sorted(per_source):
         print(f"{platform.capitalize()}\n  {per_source[platform]} posts")
+    print(
+        f"\nDeduplication\n  {source_count} source posts -> {canonical_count} canonical posts "
+        f"({source_count - canonical_count} cross-platform merges)"
+    )
     print(f"\nArchive\n  {len(posts)} canonical posts")
     print(f"  {sum(len(p.media) for p in posts)} media references")
     print(
@@ -53,11 +61,10 @@ def print_report(posts: list[Post], mirror_stats: tuple[int, int, int]) -> None:
         f"{skipped} already present, {failed} failed"
     )
     print(
-        "\nNote: no cross-platform deduplication yet -- 1 raw source post = "
-        "1 canonical post. Instagram/Twitter not included (blocked without login)."
+        "\nNote: Instagram/Twitter not included (blocked without login, see FINDINGS.md)."
     )
 
 
 if __name__ == "__main__":
-    posts, mirror_stats = run()
-    print_report(posts, mirror_stats)
+    posts, mirror_stats, dedup_stats = run()
+    print_report(posts, mirror_stats, dedup_stats)
