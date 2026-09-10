@@ -25,7 +25,7 @@ jobs:
       - name: Commit archive updates
         run: |
           git config user.name "MuMaLab Social Archive"
-          git config user.email "archive@users.noreply.github.com"
+          git config user.email "social-archive@munichmakerlab.de"
 
           git add raw data public
           git diff --cached --quiet && exit 0
