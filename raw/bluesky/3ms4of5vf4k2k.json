@@ -1,0 +1,140 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3ms4of5vf4k2k",
+    "cid": "bafyreigwjhz57skf73oglgxhzogitqldaffq5cuhpq27dmek3wyojiqssm",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-02T19:04:10.628Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 2666
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidxp5ppbegzo73o6lvlie7y4njmpz47vc27haev6vuvjopoz3t5ka"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1985510
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2666,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigndwwstc2z72l4deedc3a3ehgthuu7ofytv6ns6txejva65libku"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1995979
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigvvdyaypt7vxjkebctxp3uaefvzq6lyumxyw2jby5isciyjvnjs4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1975172
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibguz35mqyc4ckaxreajhj5oombxah4zo3eyqxu5a724bikeflnge"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1949165
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Since a while, we have a lent screen printing machine in the lab, and one of our members is currently doing a lot of experiments with it.\n\nHere are some impressions from the first self-made Munich Maker Lab screen and the first prints."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidxp5ppbegzo73o6lvlie7y4njmpz47vc27haev6vuvjopoz3t5ka",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidxp5ppbegzo73o6lvlie7y4njmpz47vc27haev6vuvjopoz3t5ka",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 2666
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigndwwstc2z72l4deedc3a3ehgthuu7ofytv6ns6txejva65libku",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigndwwstc2z72l4deedc3a3ehgthuu7ofytv6ns6txejva65libku",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2666,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigvvdyaypt7vxjkebctxp3uaefvzq6lyumxyw2jby5isciyjvnjs4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigvvdyaypt7vxjkebctxp3uaefvzq6lyumxyw2jby5isciyjvnjs4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibguz35mqyc4ckaxreajhj5oombxah4zo3eyqxu5a724bikeflnge",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibguz35mqyc4ckaxreajhj5oombxah4zo3eyqxu5a724bikeflnge",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-08-02T19:04:57.972Z",
+    "labels": []
+  }
+}

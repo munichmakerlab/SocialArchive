@@ -1,0 +1,68 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mun4b47yuk2q",
+    "cid": "bafyreiagq7e2ev2ekddmxzhtlxdcnkxxj75csxzeaykyqhi46rvhs55dlu",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-03T18:45:26.446Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreialj5g7dbs4fkxvkzlj3cvjndsw5fbbeojygfgkfibvnlqyy36x5y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1996586
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "One of our members built a 3D printed Battle/Death Racer. If you haven't heard of them: Death Racers are small motorized vehicles where the goal is to knock the hat off the other rider's figure.\n\nNow he just needs a few more makers to build their own so the battles can finally begin."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreialj5g7dbs4fkxvkzlj3cvjndsw5fbbeojygfgkfibvnlqyy36x5y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreialj5g7dbs4fkxvkzlj3cvjndsw5fbbeojygfgkfibvnlqyy36x5y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-03T18:45:40.332Z",
+    "labels": []
+  }
+}

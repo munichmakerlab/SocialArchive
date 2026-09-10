@@ -1,0 +1,36 @@
+name: Update social archive
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v3
+        with:
+          python-version: '3.12'
+
+      - run: uv sync
+
+      - run: uv run python -m archive sync
+      - run: uv run python -m archive build
+
+      - name: Commit archive updates
+        run: |
+          git config user.name "MuMaLab Social Archive"
+          git config user.email "archive@users.noreply.github.com"
+
+          git add raw data public
+          git diff --cached --quiet && exit 0
+
+          git commit -m "Update social archive"
+          git push

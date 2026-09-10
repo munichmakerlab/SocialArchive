@@ -1,0 +1,140 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3msahm3lqws23",
+    "cid": "bafyreieao2xnip32ml6rax7hifcowcla4lfx5xxh3u2xbmeoy3rtm7ek2m",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-04T07:13:26.178Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2240,
+              "width": 3360
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiajuokh7ai5azmusmrqyd2ukgtvf3tectqnvylu2vl4k6id2utcgq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1823381
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1888,
+              "width": 3360
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiczoouk4om545lq4oh35j2ome5nsyarorlxjlts4qqbiokhtvjlxa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1805389
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1620
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicxssh2vdzqpgqzbunrds2p2gbesrr2xnhfd7rsipytilsjvogbwm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 617447
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1620
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiclmynk4lbdifpocjwsavuuutlcodn6j4rcyjgt6ouhww5azghk3q"
+              },
+              "mimeType": "image/jpeg",
+              "size": 749246
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Some impressions from our last hands-on soldering workshop.\n\nWe do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiajuokh7ai5azmusmrqyd2ukgtvf3tectqnvylu2vl4k6id2utcgq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiajuokh7ai5azmusmrqyd2ukgtvf3tectqnvylu2vl4k6id2utcgq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2240,
+            "width": 3360
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiczoouk4om545lq4oh35j2ome5nsyarorlxjlts4qqbiokhtvjlxa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiczoouk4om545lq4oh35j2ome5nsyarorlxjlts4qqbiokhtvjlxa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1888,
+            "width": 3360
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicxssh2vdzqpgqzbunrds2p2gbesrr2xnhfd7rsipytilsjvogbwm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicxssh2vdzqpgqzbunrds2p2gbesrr2xnhfd7rsipytilsjvogbwm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1620
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiclmynk4lbdifpocjwsavuuutlcodn6j4rcyjgt6ouhww5azghk3q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiclmynk4lbdifpocjwsavuuutlcodn6j4rcyjgt6ouhww5azghk3q",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1620
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-08-04T07:13:48.372Z",
+    "labels": []
+  }
+}

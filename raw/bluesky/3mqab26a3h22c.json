@@ -1,0 +1,106 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mqab26a3h22c",
+    "cid": "bafyreibu5rguv2s367v7od4bnfppjhtjhqthgp2er45ixu3ikbqrzzvetu",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-09T18:25:39.267Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1440,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifslctoekswiih3zjvtigx4pgvkh5uv2nwyigvz2cq56b4qctyfwu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 545638
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1440,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreie6dlkjvnpdpzzw3xcskwpdxogrwzx7vg3vor4b4dnqe2olin6qo4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 578065
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://cults3d.com/de/modell-3d/werkzeuge/dremel-miter-saw-fixture"
+            }
+          ],
+          "index": {
+            "byteEnd": 193,
+            "byteStart": 166
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "One of our members got tired of cutting screws to the right length by hand, so they printed and built a handy jig for the Dremel to do it precisely.\n3D model source: cults3d.com/de/modell-3d..."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifslctoekswiih3zjvtigx4pgvkh5uv2nwyigvz2cq56b4qctyfwu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifslctoekswiih3zjvtigx4pgvkh5uv2nwyigvz2cq56b4qctyfwu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1440,
+            "width": 1080
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreie6dlkjvnpdpzzw3xcskwpdxogrwzx7vg3vor4b4dnqe2olin6qo4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreie6dlkjvnpdpzzw3xcskwpdxogrwzx7vg3vor4b4dnqe2olin6qo4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1440,
+            "width": 1080
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-07-09T18:25:49.834Z",
+    "labels": []
+  }
+}

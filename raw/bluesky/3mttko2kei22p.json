@@ -1,0 +1,68 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mttko2kei22p",
+    "cid": "bafyreiasq6u75jy5ephgsf7anhyqaqw26opaqrsqad5l2w7i5qbi374oxu",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-24T14:54:00.082Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifndfqjim2aidkt5ix6xrth6amcda4pbai2iku42hcdy2kimejd2y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1938492
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Look who just came around the corner, it's Wall-E!\nThis little robot is one of our members' projects, and he is currently working on his autonomous capabilities so he can drive around without external help."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifndfqjim2aidkt5ix6xrth6amcda4pbai2iku42hcdy2kimejd2y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifndfqjim2aidkt5ix6xrth6amcda4pbai2iku42hcdy2kimejd2y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-08-24T14:54:37.773Z",
+    "labels": []
+  }
+}

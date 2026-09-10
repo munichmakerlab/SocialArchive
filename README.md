@@ -7,31 +7,63 @@ unabhängig von den externen Plattformen dauerhaft sichern und als
 
 ## Stand
 
-Aktuell nur ein PoC (siehe [`FINDINGS.md`](FINDINGS.md)): pro Plattform wurde
-geprüft, welche Tools/APIs ohne Login welche Rohdaten liefern.
+Erste End-to-End-Pipeline für die drei Quellen, die ohne Login funktionieren
+(Mastodon, Bluesky, Tumblr):
 
 ```
-poc/
-├── mastodon_fetch.py    # native Mastodon API
-├── bluesky_fetch.py     # public AT-Proto AppView API
-├── tumblr_fetch.py      # legacy /api/read/json + gallery-dl Vergleich
-├── instagram_fetch.py   # Instaloader + gallery-dl (beide ohne Login blockiert)
-├── twitter_fetch.py     # gallery-dl (ohne Login blockiert)
-└── raw/<platform>/      # unveränderte Roh-Beispiele je Plattform
+external platform -> archive/importers/*.py -> raw/<platform>/*.json
+                                                      |
+                                             archive/normalize.py
+                                                      v
+                                       data/posts.json (kanonisch)
+                                                      |
+                              archive/build.py -> public/{posts,latest}.json, feed.xml
+```
+
+```bash
+uv run python -m archive sync   # fetch raw posts from each source into raw/
+uv run python -m archive build  # normalize raw/ -> data/posts.json + public/*
+```
+
+Instagram und Twitter/X haben (noch) keinen Importer: der PoC hat gezeigt,
+dass ohne Login/Session aktuell keine echten Posts erreichbar sind (siehe
+[`FINDINGS.md`](FINDINGS.md)).
+
+**Bewusste Lücken in diesem Stand:**
+- Keine Cross-Platform-Deduplizierung: ein Raw-Post = ein kanonischer Post.
+  Crossposts (z. B. derselbe Inhalt auf Mastodon und Bluesky) erscheinen
+  aktuell noch als zwei separate Einträge.
+- Kein `state.json`/inkrementeller Sync: `sync` holt jedes Mal die letzten
+  20 Posts pro Plattform neu, es gibt noch keinen "nur neue Posts"-Modus.
+- Medien werden noch nicht lokal gespiegelt, `media.url` zeigt aktuell auf
+  die Original-CDN-URLs der Plattformen.
+- `.github/workflows/sync.yml` existiert, wurde aber noch nicht in einem
+  echten Repo/Actions-Lauf getestet.
+
+## Projektstruktur
+
+```
+archive/
+├── importers/{mastodon,bluesky,tumblr}.py  # fetch -> raw/<platform>/*.json
+├── models.py       # kanonisches Post-Schema (pydantic)
+├── normalize.py     # raw/*.json -> Post
+├── feed.py          # RSS 2.0 Generator
+└── build.py          # normalize_all() -> data/posts.json + public/*
+
+raw/<platform>/       # unveränderte Rohdaten je Plattform
+data/posts.json       # generierter, kanonischer Datenbestand
+public/               # statischer Output (posts.json, latest.json, feed.xml)
+
+poc/                  # eingefrorenes PoC-Experiment, siehe FINDINGS.md
 ```
 
 ## Setup
 
-Dependencies and the `.venv` are managed with [uv](https://docs.astral.sh/uv/)
+Dependencies und `.venv` werden mit [uv](https://docs.astral.sh/uv/) verwaltet
 (`pyproject.toml` + `uv.lock`).
 
 ```bash
-uv sync                          # creates/updates .venv from uv.lock
-uv run poc/<platform>_fetch.py   # runs a script inside that .venv
-
-uv add <package>                 # add a new dependency
+uv sync              # erstellt/aktualisiert .venv aus uv.lock
+uv run <script.py>   # führt ein Script im .venv aus
+uv add <package>      # neue Abhängigkeit hinzufügen
 ```
-
-Normalizer, Dedup, `posts.json`-Generator und GitHub-Action-Sync folgen erst,
-nachdem die PoC-Ergebnisse aus `FINDINGS.md` in ein gemeinsames Schema
-überführt wurden.

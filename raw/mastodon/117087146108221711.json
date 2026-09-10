@@ -1,0 +1,190 @@
+{
+  "id": "117087146108221711",
+  "created_at": "2026-08-13T08:01:04.395Z",
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "language": "en",
+  "uri": "https://chaos.social/users/munichmakerlab/statuses/117087146108221711",
+  "url": "https://chaos.social/@munichmakerlab/117087146108221711",
+  "replies_count": 0,
+  "reblogs_count": 1,
+  "favourites_count": 2,
+  "quotes_count": 1,
+  "edited_at": null,
+  "content": "<p>The last stained glass workshop brought another round of impressive results, with participants creating beautiful pieces despite having no prior experience in glass art.</p><p>Expanding the workshop capacity worked out really well, allowing more people to get hands-on time and complete their own projects.</p><p>The next course is already fully booked, but Hannah is currently offering these workshops on a regular basis, so more opportunities are coming up soon.</p>",
+  "reblog": null,
+  "application": {
+    "name": "Web",
+    "website": null
+  },
+  "account": {
+    "id": "111578979164883551",
+    "username": "munichmakerlab",
+    "acct": "munichmakerlab",
+    "display_name": "Munich Maker Lab e.V.",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2023-12-14T00:00:00.000Z",
+    "note": "",
+    "url": "https://chaos.social/@munichmakerlab",
+    "uri": "https://chaos.social/users/munichmakerlab",
+    "avatar": "https://assets.chaos.social/accounts/avatars/111/578/979/164/883/551/original/dfe4e7379752954d.png",
+    "avatar_static": "https://assets.chaos.social/accounts/avatars/111/578/979/164/883/551/original/dfe4e7379752954d.png",
+    "avatar_description": "",
+    "header": "https://assets.chaos.social/accounts/headers/111/578/979/164/883/551/original/5a2df68a7b6e77dc.jpg",
+    "header_static": "https://assets.chaos.social/accounts/headers/111/578/979/164/883/551/original/5a2df68a7b6e77dc.jpg",
+    "header_description": "",
+    "followers_count": 192,
+    "following_count": 10,
+    "statuses_count": 139,
+    "last_status_at": "2026-09-09",
+    "hide_collections": false,
+    "show_media": true,
+    "show_media_replies": true,
+    "show_featured": true,
+    "noindex": false,
+    "feature_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "denied"
+    },
+    "emojis": [],
+    "roles": [],
+    "fields": [
+      {
+        "name": "Website",
+        "value": "<a href=\"https://munichmakerlab.de\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">munichmakerlab.de</span><span class=\"invisible\"></span></a>",
+        "verified_at": "2024-04-02T08:21:25.228+00:00"
+      },
+      {
+        "name": "Wiki",
+        "value": "<a href=\"https://wiki.munichmakerlab.de\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">wiki.munichmakerlab.de</span><span class=\"invisible\"></span></a>",
+        "verified_at": null
+      }
+    ]
+  },
+  "media_attachments": [
+    {
+      "id": "117087143249434166",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/117/087/143/249/434/166/original/f4c73f2e63f40dd2.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/087/143/249/434/166/small/f4c73f2e63f40dd2.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 3325,
+          "height": 2494,
+          "size": "3325x2494",
+          "aspect": 1.3331996792301524
+        },
+        "small": {
+          "width": 554,
+          "height": 416,
+          "size": "554x416",
+          "aspect": 1.3317307692307692
+        }
+      },
+      "description": null,
+      "blurhash": "UBJRKrD4MdoM?vaLwcadEbF1J9tlI.THTdR-"
+    },
+    {
+      "id": "117087143189754965",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/117/087/143/189/754/965/original/d4434cf82ed9217b.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/087/143/189/754/965/small/d4434cf82ed9217b.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 2494,
+          "height": 3325,
+          "size": "2494x3325",
+          "aspect": 0.7500751879699248
+        },
+        "small": {
+          "width": 416,
+          "height": 554,
+          "size": "416x554",
+          "aspect": 0.7509025270758123
+        }
+      },
+      "description": null,
+      "blurhash": "ULKUWcIByCW-~qoeoft7%zax-Ws;oyjsxuof"
+    },
+    {
+      "id": "117087143193054126",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/117/087/143/193/054/126/original/c5b17199d8dcbe64.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/087/143/193/054/126/small/c5b17199d8dcbe64.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 2088,
+          "height": 2784,
+          "size": "2088x2784",
+          "aspect": 0.75
+        },
+        "small": {
+          "width": 415,
+          "height": 554,
+          "size": "415x554",
+          "aspect": 0.7490974729241877
+        }
+      },
+      "description": null,
+      "blurhash": "UXIF0h_M$^M}?wWCM^f7t6V@NGt7RNaft8fk"
+    },
+    {
+      "id": "117087143228240290",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/117/087/143/228/240/290/original/3d1fbabdb138d92f.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/087/143/228/240/290/small/3d1fbabdb138d92f.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 2494,
+          "height": 3326,
+          "size": "2494x3326",
+          "aspect": 0.7498496692723993
+        },
+        "small": {
+          "width": 415,
+          "height": 554,
+          "size": "415x554",
+          "aspect": 0.7490974729241877
+        }
+      },
+      "description": null,
+      "blurhash": "UXJI5{_N$Qah^,t7kSk9wFaKS7WBtlbIi_jZ"
+    }
+  ],
+  "mentions": [],
+  "tags": [],
+  "emojis": [],
+  "tagged_collections": [],
+  "quote": null,
+  "card": null,
+  "poll": null,
+  "quote_approval": {
+    "automatic": [
+      "public"
+    ],
+    "manual": [],
+    "current_user": "denied"
+  }
+}

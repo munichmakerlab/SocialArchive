@@ -1,0 +1,68 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mt5aik2cjk27",
+    "cid": "bafyreiefk5yw2mwng2pl66zfzjqaftcuzhn7gvpc5urrkx6w3tx3rkno7q",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-15T17:53:23.344Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigcxxkbsewsi4jt44ozxqgxwbhbpfmhrg42wvl632zzu7pmlirdh4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1947362
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "As mentioned in previous posts, our Munich Maker Lab logo often serves as a test for different production methods, from 3D printing to screen printing and embroidery, but this one was not on our bingo card: the Munich Maker Lab logo as a tufted rug."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigcxxkbsewsi4jt44ozxqgxwbhbpfmhrg42wvl632zzu7pmlirdh4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigcxxkbsewsi4jt44ozxqgxwbhbpfmhrg42wvl632zzu7pmlirdh4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-08-15T17:53:38.073Z",
+    "labels": []
+  }
+}

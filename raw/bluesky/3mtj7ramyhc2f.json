@@ -1,0 +1,61 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mtj7ramyhc2f",
+    "cid": "bafyreibs7yf5ui6m6fmtslgb3pmxmaekxdestni4slg4i2dhybwexuljne",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-20T12:12:18.586Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 720,
+          "width": 1280
+        },
+        "presentation": "default",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreidzp5tbtmvenjnl6gd64vx4uwom4a34nirefq7djpe3mfa35ch5ya"
+          },
+          "mimeType": "video/mp4",
+          "size": 3127419
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.\n\nNo wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon."
+    },
+    "embed": {
+      "cid": "bafkreidzp5tbtmvenjnl6gd64vx4uwom4a34nirefq7djpe3mfa35ch5ya",
+      "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreidzp5tbtmvenjnl6gd64vx4uwom4a34nirefq7djpe3mfa35ch5ya/playlist.m3u8",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreidzp5tbtmvenjnl6gd64vx4uwom4a34nirefq7djpe3mfa35ch5ya/thumbnail.jpg",
+      "aspectRatio": {
+        "height": 720,
+        "width": 1280
+      },
+      "presentation": "default",
+      "$type": "app.bsky.embed.video#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-08-20T12:12:21.264Z",
+    "labels": []
+  }
+}

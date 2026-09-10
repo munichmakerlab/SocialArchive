@@ -1,0 +1,68 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mq2xzbkt5s2d",
+    "cid": "bafyreiacsniwqy426i7pnrlekysvu7t5j5uw5cmj5eexjtteox5fesjggq",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-07T16:00:46.827Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic5n4k6x57lqm7jnj4wbnj6jxljoxup5rsvgv5vgo727anfn4b2uy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1988100
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Soil discovery at the Kreativlabor site\n\nIn 2016, TUM researchers found high concentrations of semiconductor and precious metals here.\n\nA perfect makerspace habitat.\n\nSee the soil model on site and explore the layers yourself."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic5n4k6x57lqm7jnj4wbnj6jxljoxup5rsvgv5vgo727anfn4b2uy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic5n4k6x57lqm7jnj4wbnj6jxljoxup5rsvgv5vgo727anfn4b2uy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-07-07T16:01:02.122Z",
+    "labels": []
+  }
+}

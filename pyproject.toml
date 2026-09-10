@@ -7,5 +7,6 @@ dependencies = [
     "gallery-dl>=1.32.11",
     "httpx>=0.28.1",
     "instaloader>=4.15.3",
+    "pydantic>=2.13.5",
     "yt-dlp>=2026.8.19",
 ]

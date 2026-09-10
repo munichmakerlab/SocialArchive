@@ -1,0 +1,202 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mufbeuh6322r",
+    "cid": "bafyreieq665fc5gjnrp6i72vqf6fbbg3upw6ev2hmrsdbmicne2oiwdzoy",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-31T15:55:43.308Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiegdruxdcnyydabqb2wpu2ndg3dmutaaytb3i5ofszw3wz72pxxgq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1559454
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://munichmakerlab.de/events"
+            }
+          ],
+          "index": {
+            "byteEnd": 156,
+            "byteStart": 132
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "hackerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 170,
+            "byteStart": 158
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "makerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 182,
+            "byteStart": 171
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "openworkshop"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 183
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MunichMakerLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 197
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Kreativquartier"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 213
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Kreativlabor"
+            }
+          ],
+          "index": {
+            "byteEnd": 243,
+            "byteStart": 230
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DIYMunich"
+            }
+          ],
+          "index": {
+            "byteEnd": 254,
+            "byteStart": 244
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "oktoberfest"
+            }
+          ],
+          "index": {
+            "byteEnd": 267,
+            "byteStart": 255
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "septemberevents"
+            }
+          ],
+          "index": {
+            "byteEnd": 284,
+            "byteStart": 268
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "munichevents"
+            }
+          ],
+          "index": {
+            "byteEnd": 298,
+            "byteStart": 285
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Check out our lineup of workshops, meetups, and community sessions coming up this month.\n\nFor details and event registration, visit munichmakerlab.de/events\n\n#hackerspace #makerspace #openworkshop #MunichMakerLab #Kreativquartier #Kreativlabor #DIYMunich #oktoberfest #septemberevents #munichevents"
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiegdruxdcnyydabqb2wpu2ndg3dmutaaytb3i5ofszw3wz72pxxgq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiegdruxdcnyydabqb2wpu2ndg3dmutaaytb3i5ofszw3wz72pxxgq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1920
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-08-31T15:55:50.508Z",
+    "labels": []
+  }
+}

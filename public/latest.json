@@ -1,0 +1,675 @@
+[
+  {
+    "id": "bluesky-3mv34tlxuxk27",
+    "published_at": "2026-09-09T08:33:03.279000Z",
+    "updated_at": "2026-09-09T08:33:03.279000Z",
+    "text": "One of our member build a small turret orchestra inspired by Portal 2.\n\nEach turret is driven by a solenoid switched through a solid state relay. A Pi plays a MIDI file and the original audio at the same time, triggering each turret based on its assigned note.",
+    "html": "<p>One of our member build a small turret orchestra inspired by Portal 2.</p><p>Each turret is driven by a solenoid switched through a solid state relay. A Pi plays a MIDI file and the original audio at the same time, triggering each turret based on its assigned note.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mv34tlxuxk27",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mv34tlxuxk27"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreibvqt5uvzaqm6co5oozmw2f6jj33anawy7vxc6ty5g4hprtasavc4/playlist.m3u8",
+        "original_url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreibvqt5uvzaqm6co5oozmw2f6jj33anawy7vxc6ty5g4hprtasavc4/playlist.m3u8",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117240146027825683",
+    "published_at": "2026-09-09T08:30:57.924000Z",
+    "updated_at": "2026-09-09T08:30:57.924000Z",
+    "text": "One of our member build a small turret orchestra inspired by Portal 2.\nEach turret is driven by a solenoid switched through a solid state relay. Conductive copper strips and 3D printed spring contacts make the units hot-swappable, while a Pi plays a MIDI file and the original audio at the same time, triggering each turret based on its assigned note.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #portal2 #midi #raspberrypi",
+    "html": "<p>One of our member build a small turret orchestra inspired by Portal 2.</p><p>Each turret is driven by a solenoid switched through a solid state relay. Conductive copper strips and 3D printed spring contacts make the units hot-swappable, while a Pi plays a MIDI file and the original audio at the same time, triggering each turret based on its assigned note.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/portal2\" class=\"mention hashtag\" rel=\"tag\">#<span>portal2</span></a> <a href=\"https://chaos.social/tags/midi\" class=\"mention hashtag\" rel=\"tag\">#<span>midi</span></a> <a href=\"https://chaos.social/tags/raspberrypi\" class=\"mention hashtag\" rel=\"tag\">#<span>raspberrypi</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117240146027825683",
+        "url": "https://chaos.social/@munichmakerlab/117240146027825683"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://assets.chaos.social/media_attachments/files/117/240/142/294/303/647/original/679dd09b4921ef2b.mp4",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/240/142/294/303/647/original/679dd09b4921ef2b.mp4",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "portal2",
+      "midi",
+      "raspberrypi"
+    ]
+  },
+  {
+    "id": "mastodon-117208589338269532",
+    "published_at": "2026-09-03T18:45:41.031000Z",
+    "updated_at": "2026-09-03T18:45:41.031000Z",
+    "text": "One of our members built a 3D printed Battle/Death Racer. If you haven't heard of them: Death Racers are small motorized vehicles where the goal is to knock the hat off the other rider's figure. The more racers, the better the duels.\nNow he just needs a few more makers to build their own so the battles can finally begin.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #3dprinting #deathracing #robotcombat",
+    "html": "<p>One of our members built a 3D printed Battle/Death Racer. If you haven&#39;t heard of them: Death Racers are small motorized vehicles where the goal is to knock the hat off the other rider&#39;s figure. The more racers, the better the duels.</p><p>Now he just needs a few more makers to build their own so the battles can finally begin.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a> <a href=\"https://chaos.social/tags/deathracing\" class=\"mention hashtag\" rel=\"tag\">#<span>deathracing</span></a> <a href=\"https://chaos.social/tags/robotcombat\" class=\"mention hashtag\" rel=\"tag\">#<span>robotcombat</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117208589338269532",
+        "url": "https://chaos.social/@munichmakerlab/117208589338269532"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/208/588/921/663/486/original/5cfddc385ec9577a.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/208/588/921/663/486/original/5cfddc385ec9577a.jpg",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "3dprinting",
+      "deathracing",
+      "robotcombat"
+    ]
+  },
+  {
+    "id": "bluesky-3mun4b47yuk2q",
+    "published_at": "2026-09-03T18:45:26.446000Z",
+    "updated_at": "2026-09-03T18:45:26.446000Z",
+    "text": "One of our members built a 3D printed Battle/Death Racer. If you haven't heard of them: Death Racers are small motorized vehicles where the goal is to knock the hat off the other rider's figure.\n\nNow he just needs a few more makers to build their own so the battles can finally begin.",
+    "html": "<p>One of our members built a 3D printed Battle/Death Racer. If you haven't heard of them: Death Racers are small motorized vehicles where the goal is to knock the hat off the other rider's figure.</p><p>Now he just needs a few more makers to build their own so the battles can finally begin.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mun4b47yuk2q",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mun4b47yuk2q"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreialj5g7dbs4fkxvkzlj3cvjndsw5fbbeojygfgkfibvnlqyy36x5y",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreialj5g7dbs4fkxvkzlj3cvjndsw5fbbeojygfgkfibvnlqyy36x5y",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117190947292518199",
+    "published_at": "2026-08-31T15:59:04.776000Z",
+    "updated_at": "2026-08-31T15:59:04.776000Z",
+    "text": "September is here, which means traditional festivities, delicious food, and plenty of time to work on your latest projects! Check out our lineup of workshops, meetups, and community sessions coming up this month.\nWe also host Open Community Days every Thursday at 18:00.\nFor full details and event registration, visit munichmakerlab.de/events\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #oktoberfest #septemberevents #munichevents",
+    "html": "<p>September is here, which means traditional festivities, delicious food, and plenty of time to work on your latest projects! Check out our lineup of workshops, meetups, and community sessions coming up this month.</p><p>We also host Open Community Days every Thursday at 18:00.</p><p>For full details and event registration, visit munichmakerlab.de/events</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/oktoberfest\" class=\"mention hashtag\" rel=\"tag\">#<span>oktoberfest</span></a> <a href=\"https://chaos.social/tags/septemberevents\" class=\"mention hashtag\" rel=\"tag\">#<span>septemberevents</span></a> <a href=\"https://chaos.social/tags/munichevents\" class=\"mention hashtag\" rel=\"tag\">#<span>munichevents</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117190947292518199",
+        "url": "https://chaos.social/@munichmakerlab/117190947292518199"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/190/945/082/464/083/original/00bb114bebc46646.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/190/945/082/464/083/original/00bb114bebc46646.png",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "oktoberfest",
+      "septemberevents",
+      "munichevents"
+    ]
+  },
+  {
+    "id": "bluesky-3mufbeuh6322r",
+    "published_at": "2026-08-31T15:55:43.308000Z",
+    "updated_at": "2026-08-31T15:55:43.308000Z",
+    "text": "Check out our lineup of workshops, meetups, and community sessions coming up this month.\n\nFor details and event registration, visit munichmakerlab.de/events\n\n#hackerspace #makerspace #openworkshop #MunichMakerLab #Kreativquartier #Kreativlabor #DIYMunich #oktoberfest #septemberevents #munichevents",
+    "html": "<p>Check out our lineup of workshops, meetups, and community sessions coming up this month.</p><p>For details and event registration, visit munichmakerlab.de/events</p><p>#hackerspace #makerspace #openworkshop #MunichMakerLab #Kreativquartier #Kreativlabor #DIYMunich #oktoberfest #septemberevents #munichevents</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mufbeuh6322r",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mufbeuh6322r"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiegdruxdcnyydabqb2wpu2ndg3dmutaaytb3i5ofszw3wz72pxxgq",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiegdruxdcnyydabqb2wpu2ndg3dmutaaytb3i5ofszw3wz72pxxgq",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117151057855799551",
+    "published_at": "2026-08-24T14:54:40.278000Z",
+    "updated_at": "2026-08-24T14:54:40.278000Z",
+    "text": "Look who just came around the corner, it's Wall-E!This little robot is one of our members' projects, and he is currently working on his autonomous capabilities so he can drive around without external help.#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #robotics #autonomy #makers",
+    "html": "<p>Look who just came around the corner, it&#39;s Wall-E!<br />This little robot is one of our members&#39; projects, and he is currently working on his autonomous capabilities so he can drive around without external help.<br /><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/robotics\" class=\"mention hashtag\" rel=\"tag\">#<span>robotics</span></a> <a href=\"https://chaos.social/tags/autonomy\" class=\"mention hashtag\" rel=\"tag\">#<span>autonomy</span></a> <a href=\"https://chaos.social/tags/makers\" class=\"mention hashtag\" rel=\"tag\">#<span>makers</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117151057855799551",
+        "url": "https://chaos.social/@munichmakerlab/117151057855799551"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/151/056/391/949/851/original/dbf8faa851218e09.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/151/056/391/949/851/original/dbf8faa851218e09.jpg",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "robotics",
+      "autonomy",
+      "makers"
+    ]
+  },
+  {
+    "id": "bluesky-3mttko2kei22p",
+    "published_at": "2026-08-24T14:54:00.082000Z",
+    "updated_at": "2026-08-24T14:54:00.082000Z",
+    "text": "Look who just came around the corner, it's Wall-E!\nThis little robot is one of our members' projects, and he is currently working on his autonomous capabilities so he can drive around without external help.",
+    "html": "<p>Look who just came around the corner, it's Wall-E!</p><p>This little robot is one of our members' projects, and he is currently working on his autonomous capabilities so he can drive around without external help.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mttko2kei22p",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mttko2kei22p"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifndfqjim2aidkt5ix6xrth6amcda4pbai2iku42hcdy2kimejd2y",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifndfqjim2aidkt5ix6xrth6amcda4pbai2iku42hcdy2kimejd2y",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "bluesky-3mtj7ramyhc2f",
+    "published_at": "2026-08-20T12:12:18.586000Z",
+    "updated_at": "2026-08-20T12:12:18.586000Z",
+    "text": "We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.\n\nNo wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon.",
+    "html": "<p>We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.</p><p>No wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mtj7ramyhc2f",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mtj7ramyhc2f"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreidzp5tbtmvenjnl6gd64vx4uwom4a34nirefq7djpe3mfa35ch5ya/playlist.m3u8",
+        "original_url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreidzp5tbtmvenjnl6gd64vx4uwom4a34nirefq7djpe3mfa35ch5ya/playlist.m3u8",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117127770057980489",
+    "published_at": "2026-08-20T12:12:16.681000Z",
+    "updated_at": "2026-08-20T12:12:16.681000Z",
+    "text": "We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.\nNo wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #sawstop #tablesaw #safety",
+    "html": "<p>We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.</p><p>No wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/sawstop\" class=\"mention hashtag\" rel=\"tag\">#<span>sawstop</span></a> <a href=\"https://chaos.social/tags/tablesaw\" class=\"mention hashtag\" rel=\"tag\">#<span>tablesaw</span></a> <a href=\"https://chaos.social/tags/safety\" class=\"mention hashtag\" rel=\"tag\">#<span>safety</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117127770057980489",
+        "url": "https://chaos.social/@munichmakerlab/117127770057980489"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://assets.chaos.social/media_attachments/files/117/127/755/118/365/421/original/23f0505563e3ce17.mp4",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/127/755/118/365/421/original/23f0505563e3ce17.mp4",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "sawstop",
+      "tablesaw",
+      "safety"
+    ]
+  },
+  {
+    "id": "bluesky-3mt5aik2cjk27",
+    "published_at": "2026-08-15T17:53:23.344000Z",
+    "updated_at": "2026-08-15T17:53:23.344000Z",
+    "text": "As mentioned in previous posts, our Munich Maker Lab logo often serves as a test for different production methods, from 3D printing to screen printing and embroidery, but this one was not on our bingo card: the Munich Maker Lab logo as a tufted rug.",
+    "html": "<p>As mentioned in previous posts, our Munich Maker Lab logo often serves as a test for different production methods, from 3D printing to screen printing and embroidery, but this one was not on our bingo card: the Munich Maker Lab logo as a tufted rug.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mt5aik2cjk27",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mt5aik2cjk27"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigcxxkbsewsi4jt44ozxqgxwbhbpfmhrg42wvl632zzu7pmlirdh4",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigcxxkbsewsi4jt44ozxqgxwbhbpfmhrg42wvl632zzu7pmlirdh4",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117100798707311931",
+    "published_at": "2026-08-15T17:53:06.538000Z",
+    "updated_at": "2026-08-15T17:53:06.538000Z",
+    "text": "As mentioned in previous posts, our Munich Maker Lab logo often serves as a test for different production methods, from 3D printing to screen printing and embroidery, but this one was not on our bingo card: the Munich Maker Lab logo as a tufted rug.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich",
+    "html": "<p>As mentioned in previous posts, our Munich Maker Lab logo often serves as a test for different production methods, from 3D printing to screen printing and embroidery, but this one was not on our bingo card: the Munich Maker Lab logo as a tufted rug.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117100798707311931",
+        "url": "https://chaos.social/@munichmakerlab/117100798707311931"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/100/796/634/084/878/original/1531dad5571bc2b5.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/100/796/634/084/878/original/1531dad5571bc2b5.jpg",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich"
+    ]
+  },
+  {
+    "id": "bluesky-3msx6i7metk2x",
+    "published_at": "2026-08-13T08:01:26.452000Z",
+    "updated_at": "2026-08-13T08:01:26.452000Z",
+    "text": "The last stained glass workshop brought another round of impressive results, with participants creating beautiful pieces despite having no prior experience in glass art.\nExpanding the workshop capacity worked out really well, allowing more people to get hands-on time and complete their own projects.",
+    "html": "<p>The last stained glass workshop brought another round of impressive results, with participants creating beautiful pieces despite having no prior experience in glass art.</p><p>Expanding the workshop capacity worked out really well, allowing more people to get hands-on time and complete their own projects.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3msx6i7metk2x",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3msx6i7metk2x"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiemb7smugyjteesqy4wrlllcgkxmfrr2enumgpraxet6mqmy2wu2a",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiemb7smugyjteesqy4wrlllcgkxmfrr2enumgpraxet6mqmy2wu2a",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreihbgicc4ghgc4a533xanbnz2jh5kfjzoskmwr33wpqesygmgvrvfe",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreihbgicc4ghgc4a533xanbnz2jh5kfjzoskmwr33wpqesygmgvrvfe",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigxcq4px67ow44ag7ceu57z36wh35betidlat7njbbvmyqgh5jopa",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigxcq4px67ow44ag7ceu57z36wh35betidlat7njbbvmyqgh5jopa",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic4njnphpik5tasnr6cuodw3ox746jzl7bjp7o4qdsbctgypptqvu",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic4njnphpik5tasnr6cuodw3ox746jzl7bjp7o4qdsbctgypptqvu",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117087146108221711",
+    "published_at": "2026-08-13T08:01:04.395000Z",
+    "updated_at": "2026-08-13T08:01:04.395000Z",
+    "text": "The last stained glass workshop brought another round of impressive results, with participants creating beautiful pieces despite having no prior experience in glass art.\nExpanding the workshop capacity worked out really well, allowing more people to get hands-on time and complete their own projects.\nThe next course is already fully booked, but Hannah is currently offering these workshops on a regular basis, so more opportunities are coming up soon.",
+    "html": "<p>The last stained glass workshop brought another round of impressive results, with participants creating beautiful pieces despite having no prior experience in glass art.</p><p>Expanding the workshop capacity worked out really well, allowing more people to get hands-on time and complete their own projects.</p><p>The next course is already fully booked, but Hannah is currently offering these workshops on a regular basis, so more opportunities are coming up soon.</p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117087146108221711",
+        "url": "https://chaos.social/@munichmakerlab/117087146108221711"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/087/143/249/434/166/original/f4c73f2e63f40dd2.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/087/143/249/434/166/original/f4c73f2e63f40dd2.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/087/143/189/754/965/original/d4434cf82ed9217b.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/087/143/189/754/965/original/d4434cf82ed9217b.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/087/143/193/054/126/original/c5b17199d8dcbe64.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/087/143/193/054/126/original/c5b17199d8dcbe64.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/087/143/228/240/290/original/3d1fbabdb138d92f.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/087/143/228/240/290/original/3d1fbabdb138d92f.jpg",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "bluesky-3msfeprmaac2g",
+    "published_at": "2026-08-06T06:05:07.405000Z",
+    "updated_at": "2026-08-06T06:05:07.405000Z",
+    "text": "As part of our electronics workshop, participants can turn leftover electronic components into creative tiny creatures. This little wizard even got a staff with a working lantern.",
+    "html": "<p>As part of our electronics workshop, participants can turn leftover electronic components into creative tiny creatures. This little wizard even got a staff with a working lantern.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3msfeprmaac2g",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3msfeprmaac2g"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreig2akx4btn6dx6ggrzd7tuidw5jsybmeaodr23v6goupaenf3gqiq/playlist.m3u8",
+        "original_url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreig2akx4btn6dx6ggrzd7tuidw5jsybmeaodr23v6goupaenf3gqiq/playlist.m3u8",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117047050813873227",
+    "published_at": "2026-08-06T06:04:18.758000Z",
+    "updated_at": "2026-08-06T06:04:18.758000Z",
+    "text": "As part of our electronics workshop, participants can turn leftover electronic components into creative tiny creatures. This little wizard even got a staff with a working lantern.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #electronics #soldering #upcycling",
+    "html": "<p>As part of our electronics workshop, participants can turn leftover electronic components into creative tiny creatures. This little wizard even got a staff with a working lantern.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/electronics\" class=\"mention hashtag\" rel=\"tag\">#<span>electronics</span></a> <a href=\"https://chaos.social/tags/soldering\" class=\"mention hashtag\" rel=\"tag\">#<span>soldering</span></a> <a href=\"https://chaos.social/tags/upcycling\" class=\"mention hashtag\" rel=\"tag\">#<span>upcycling</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117047050813873227",
+        "url": "https://chaos.social/@munichmakerlab/117047050813873227"
+      }
+    ],
+    "media": [
+      {
+        "type": "gif",
+        "url": "https://assets.chaos.social/media_attachments/files/117/047/049/556/241/218/original/0db429bbbac86952.mp4",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/047/049/556/241/218/original/0db429bbbac86952.mp4",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "electronics",
+      "soldering",
+      "upcycling"
+    ]
+  },
+  {
+    "id": "bluesky-3msahm3lqws23",
+    "published_at": "2026-08-04T07:13:26.178000Z",
+    "updated_at": "2026-08-04T07:13:26.178000Z",
+    "text": "Some impressions from our last hands-on soldering workshop.\n\nWe do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.",
+    "html": "<p>Some impressions from our last hands-on soldering workshop.</p><p>We do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3msahm3lqws23",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3msahm3lqws23"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiajuokh7ai5azmusmrqyd2ukgtvf3tectqnvylu2vl4k6id2utcgq",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiajuokh7ai5azmusmrqyd2ukgtvf3tectqnvylu2vl4k6id2utcgq",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiczoouk4om545lq4oh35j2ome5nsyarorlxjlts4qqbiokhtvjlxa",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiczoouk4om545lq4oh35j2ome5nsyarorlxjlts4qqbiokhtvjlxa",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicxssh2vdzqpgqzbunrds2p2gbesrr2xnhfd7rsipytilsjvogbwm",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicxssh2vdzqpgqzbunrds2p2gbesrr2xnhfd7rsipytilsjvogbwm",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiclmynk4lbdifpocjwsavuuutlcodn6j4rcyjgt6ouhww5azghk3q",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiclmynk4lbdifpocjwsavuuutlcodn6j4rcyjgt6ouhww5azghk3q",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117035995654120260",
+    "published_at": "2026-08-04T07:12:50.675000Z",
+    "updated_at": "2026-08-04T07:12:50.675000Z",
+    "text": "Some impressions from our last hands-on soldering workshop.\nWe do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #soldering #workshop #halloween",
+    "html": "<p>Some impressions from our last hands-on soldering workshop.</p><p>We do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/soldering\" class=\"mention hashtag\" rel=\"tag\">#<span>soldering</span></a> <a href=\"https://chaos.social/tags/workshop\" class=\"mention hashtag\" rel=\"tag\">#<span>workshop</span></a> <a href=\"https://chaos.social/tags/halloween\" class=\"mention hashtag\" rel=\"tag\">#<span>halloween</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117035995654120260",
+        "url": "https://chaos.social/@munichmakerlab/117035995654120260"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/035/987/477/220/817/original/26b3facaabf0a92c.jpeg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/987/477/220/817/original/26b3facaabf0a92c.jpeg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/035/989/413/934/020/original/bdb3f814b3785086.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/989/413/934/020/original/bdb3f814b3785086.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/035/989/460/959/624/original/fe2e33e3de9566bf.jpeg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/989/460/959/624/original/fe2e33e3de9566bf.jpeg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/035/989/418/948/508/original/8775b713fc7ad847.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/989/418/948/508/original/8775b713fc7ad847.jpg",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "soldering",
+      "workshop",
+      "halloween"
+    ]
+  },
+  {
+    "id": "bluesky-3ms4of5vf4k2k",
+    "published_at": "2026-08-02T19:04:10.628000Z",
+    "updated_at": "2026-08-02T19:04:10.628000Z",
+    "text": "Since a while, we have a lent screen printing machine in the lab, and one of our members is currently doing a lot of experiments with it.\n\nHere are some impressions from the first self-made Munich Maker Lab screen and the first prints.",
+    "html": "<p>Since a while, we have a lent screen printing machine in the lab, and one of our members is currently doing a lot of experiments with it.</p><p>Here are some impressions from the first self-made Munich Maker Lab screen and the first prints.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3ms4of5vf4k2k",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3ms4of5vf4k2k"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidxp5ppbegzo73o6lvlie7y4njmpz47vc27haev6vuvjopoz3t5ka",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidxp5ppbegzo73o6lvlie7y4njmpz47vc27haev6vuvjopoz3t5ka",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigndwwstc2z72l4deedc3a3ehgthuu7ofytv6ns6txejva65libku",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigndwwstc2z72l4deedc3a3ehgthuu7ofytv6ns6txejva65libku",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigvvdyaypt7vxjkebctxp3uaefvzq6lyumxyw2jby5isciyjvnjs4",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigvvdyaypt7vxjkebctxp3uaefvzq6lyumxyw2jby5isciyjvnjs4",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibguz35mqyc4ckaxreajhj5oombxah4zo3eyqxu5a724bikeflnge",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibguz35mqyc4ckaxreajhj5oombxah4zo3eyqxu5a724bikeflnge",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117027466560531564",
+    "published_at": "2026-08-02T19:03:46.771000Z",
+    "updated_at": "2026-08-02T19:03:46.771000Z",
+    "text": "Since a while, we have a lent screen printing machine in the lab and one of our members is currently doing a lot of experiments with it.\nHere are some impressions from the first self-made Munich Maker Lab screen and the first prints.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #screenprinting #printmaking #makers",
+    "html": "<p>Since a while, we have a lent screen printing machine in the lab and one of our members is currently doing a lot of experiments with it.</p><p>Here are some impressions from the first self-made Munich Maker Lab screen and the first prints.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/screenprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>screenprinting</span></a> <a href=\"https://chaos.social/tags/printmaking\" class=\"mention hashtag\" rel=\"tag\">#<span>printmaking</span></a> <a href=\"https://chaos.social/tags/makers\" class=\"mention hashtag\" rel=\"tag\">#<span>makers</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117027466560531564",
+        "url": "https://chaos.social/@munichmakerlab/117027466560531564"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/027/465/466/319/271/original/35cca6b42286b20b.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/465/466/319/271/original/35cca6b42286b20b.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/027/460/127/542/219/original/22229de3dbbea3ec.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/460/127/542/219/original/22229de3dbbea3ec.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/027/460/125/279/482/original/d303eaf338988b61.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/460/125/279/482/original/d303eaf338988b61.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://assets.chaos.social/media_attachments/files/117/027/462/101/208/602/original/fd2c4167cfb410ef.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/462/101/208/602/original/fd2c4167cfb410ef.jpg",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "screenprinting",
+      "printmaking",
+      "makers"
+    ]
+  }
+]

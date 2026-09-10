@@ -1,0 +1,154 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mrxblb57ds2t",
+    "cid": "bafyreidjzibvudsh34ypjmkppwvtutrocntwec4qfjxkb63oocroexl4zq",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-31T15:31:38.352Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifvi2t3ouihspqzexr2obrv232emw5reoh6n3hguckwtudcuytjle"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1133882
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "makerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 228,
+            "byteStart": 217
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "openworkshop"
+            }
+          ],
+          "index": {
+            "byteEnd": 242,
+            "byteStart": 229
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MunichMakerLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 258,
+            "byteStart": 243
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MuMaLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 267,
+            "byteStart": 259
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "community"
+            }
+          ],
+          "index": {
+            "byteEnd": 278,
+            "byteStart": 268
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "events"
+            }
+          ],
+          "index": {
+            "byteEnd": 286,
+            "byteStart": 279
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "munich"
+            }
+          ],
+          "index": {
+            "byteEnd": 294,
+            "byteStart": 287
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "August is almost here, and so are our\ncommunity events!\n\nWe have plenty of great events coming up this month.\nJoin our Slack or stop by during one of our open days\nto learn more, meet the community and get involved.\n\n#makerspace #openworkshop #MunichMakerLab\n#MuMaLab #community #events #munich"
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifvi2t3ouihspqzexr2obrv232emw5reoh6n3hguckwtudcuytjle",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifvi2t3ouihspqzexr2obrv232emw5reoh6n3hguckwtudcuytjle",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1920
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "indexedAt": "2026-07-31T15:31:23.070Z",
+    "labels": []
+  }
+}

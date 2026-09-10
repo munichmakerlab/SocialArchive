@@ -1,0 +1,61 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3msfeprmaac2g",
+    "cid": "bafyreig6nwju7w7eugdzbkibeyvv377ghlux7bkxgycbongb5fcbn5zk5m",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-06T06:05:07.405Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        },
+        "presentation": "default",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreig2akx4btn6dx6ggrzd7tuidw5jsybmeaodr23v6goupaenf3gqiq"
+          },
+          "mimeType": "video/mp4",
+          "size": 4024325
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "As part of our electronics workshop, participants can turn leftover electronic components into creative tiny creatures. This little wizard even got a staff with a working lantern."
+    },
+    "embed": {
+      "cid": "bafkreig2akx4btn6dx6ggrzd7tuidw5jsybmeaodr23v6goupaenf3gqiq",
+      "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreig2akx4btn6dx6ggrzd7tuidw5jsybmeaodr23v6goupaenf3gqiq/playlist.m3u8",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreig2akx4btn6dx6ggrzd7tuidw5jsybmeaodr23v6goupaenf3gqiq/thumbnail.jpg",
+      "aspectRatio": {
+        "height": 1920,
+        "width": 1080
+      },
+      "presentation": "default",
+      "$type": "app.bsky.embed.video#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-08-06T06:05:07.263Z",
+    "labels": []
+  }
+}

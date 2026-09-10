@@ -1,0 +1,92 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mqrrrj25cc2l",
+    "cid": "bafyreibaikzr4dilpfvk63svdf66ca2waza76w6z4mzzdi6rd7mtbrjiqu",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-16T17:40:17.759Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicwragcmro4v3dq25svrqt26xibjnsdcgblnukbtkuylxuhzgovhm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1995775
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreie4shya7tlplpch3fn2mcohd6tem7nqg6atpf6nubiohku2chhp2y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1863379
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Some great pieces made in one of our Tiffany stained glass workshops, now on display in our demonstration shelf alongside many other fine things built at the lab."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicwragcmro4v3dq25svrqt26xibjnsdcgblnukbtkuylxuhzgovhm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicwragcmro4v3dq25svrqt26xibjnsdcgblnukbtkuylxuhzgovhm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreie4shya7tlplpch3fn2mcohd6tem7nqg6atpf6nubiohku2chhp2y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreie4shya7tlplpch3fn2mcohd6tem7nqg6atpf6nubiohku2chhp2y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "indexedAt": "2026-07-16T17:40:42.666Z",
+    "labels": []
+  }
+}

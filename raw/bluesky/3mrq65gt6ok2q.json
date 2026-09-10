@@ -1,0 +1,274 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mrq65gt6ok2q",
+    "cid": "bafyreihwsvnt2dtjfiiovh7wv6bnimphaxg66sxlvgkdhqiohdnq2n6lge",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-28T19:41:34.996Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreie44uyanj4e3iaddpvwdhgewioeybgvoz6aaxhalqfbmb2s3eguzq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1807153
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreif2gsud6svpaofdy22d6rl3hdm6owrq52yruad3q6byepsrzapcsa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1993044
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibkplgfs6y6lrzmuiazp6y5rnxa2agv3x3qw3nau7s24vy2t5pyde"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1743471
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2666,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiesglkhluzu6bcvzolgsb4as273skcxv4kopxnjhpvfjii5the5mq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1844573
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "hackerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 107,
+            "byteStart": 95
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "makerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 119,
+            "byteStart": 108
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "openworkshop"
+            }
+          ],
+          "index": {
+            "byteEnd": 133,
+            "byteStart": 120
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MunichMakerLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 149,
+            "byteStart": 134
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MuMaLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 158,
+            "byteStart": 150
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Kreativquartier"
+            }
+          ],
+          "index": {
+            "byteEnd": 175,
+            "byteStart": 159
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Kreativlabor"
+            }
+          ],
+          "index": {
+            "byteEnd": 189,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DIYMunich"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 190
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "embroidery"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "textileart"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 213
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "makers"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 225
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "One of our members has kindly lent an embroidery machine to the lab.\n\nHere it is in action...\n\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #embroidery #textileart #makers"
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreie44uyanj4e3iaddpvwdhgewioeybgvoz6aaxhalqfbmb2s3eguzq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreie44uyanj4e3iaddpvwdhgewioeybgvoz6aaxhalqfbmb2s3eguzq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreif2gsud6svpaofdy22d6rl3hdm6owrq52yruad3q6byepsrzapcsa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreif2gsud6svpaofdy22d6rl3hdm6owrq52yruad3q6byepsrzapcsa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibkplgfs6y6lrzmuiazp6y5rnxa2agv3x3qw3nau7s24vy2t5pyde",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibkplgfs6y6lrzmuiazp6y5rnxa2agv3x3qw3nau7s24vy2t5pyde",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiesglkhluzu6bcvzolgsb4as273skcxv4kopxnjhpvfjii5the5mq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiesglkhluzu6bcvzolgsb4as273skcxv4kopxnjhpvfjii5the5mq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2666,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-07-28T19:42:18.574Z",
+    "labels": []
+  }
+}

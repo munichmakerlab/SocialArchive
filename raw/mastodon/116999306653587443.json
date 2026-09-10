@@ -1,0 +1,235 @@
+{
+  "id": "116999306653587443",
+  "created_at": "2026-07-28T19:42:20.694Z",
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "language": "en",
+  "uri": "https://chaos.social/users/munichmakerlab/statuses/116999306653587443",
+  "url": "https://chaos.social/@munichmakerlab/116999306653587443",
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 7,
+  "quotes_count": 0,
+  "edited_at": null,
+  "content": "<p>One of our members has kindly lent an embroidery machine to the lab.</p><p>Here it is in action...</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/embroidery\" class=\"mention hashtag\" rel=\"tag\">#<span>embroidery</span></a> <a href=\"https://chaos.social/tags/textileart\" class=\"mention hashtag\" rel=\"tag\">#<span>textileart</span></a> <a href=\"https://chaos.social/tags/makers\" class=\"mention hashtag\" rel=\"tag\">#<span>makers</span></a></p>",
+  "reblog": null,
+  "application": {
+    "name": "Web",
+    "website": null
+  },
+  "account": {
+    "id": "111578979164883551",
+    "username": "munichmakerlab",
+    "acct": "munichmakerlab",
+    "display_name": "Munich Maker Lab e.V.",
+    "locked": false,
+    "bot": false,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2023-12-14T00:00:00.000Z",
+    "note": "",
+    "url": "https://chaos.social/@munichmakerlab",
+    "uri": "https://chaos.social/users/munichmakerlab",
+    "avatar": "https://assets.chaos.social/accounts/avatars/111/578/979/164/883/551/original/dfe4e7379752954d.png",
+    "avatar_static": "https://assets.chaos.social/accounts/avatars/111/578/979/164/883/551/original/dfe4e7379752954d.png",
+    "avatar_description": "",
+    "header": "https://assets.chaos.social/accounts/headers/111/578/979/164/883/551/original/5a2df68a7b6e77dc.jpg",
+    "header_static": "https://assets.chaos.social/accounts/headers/111/578/979/164/883/551/original/5a2df68a7b6e77dc.jpg",
+    "header_description": "",
+    "followers_count": 192,
+    "following_count": 10,
+    "statuses_count": 139,
+    "last_status_at": "2026-09-09",
+    "hide_collections": false,
+    "show_media": true,
+    "show_media_replies": true,
+    "show_featured": true,
+    "noindex": false,
+    "feature_approval": {
+      "automatic": [
+        "public"
+      ],
+      "manual": [],
+      "current_user": "denied"
+    },
+    "emojis": [],
+    "roles": [],
+    "fields": [
+      {
+        "name": "Website",
+        "value": "<a href=\"https://munichmakerlab.de\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">munichmakerlab.de</span><span class=\"invisible\"></span></a>",
+        "verified_at": "2024-04-02T08:21:25.228+00:00"
+      },
+      {
+        "name": "Wiki",
+        "value": "<a href=\"https://wiki.munichmakerlab.de\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">wiki.munichmakerlab.de</span><span class=\"invisible\"></span></a>",
+        "verified_at": null
+      }
+    ]
+  },
+  "media_attachments": [
+    {
+      "id": "116999306242930838",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/116/999/306/242/930/838/original/68b9aeed23f2b360.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/116/999/306/242/930/838/small/68b9aeed23f2b360.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 1620,
+          "height": 1080,
+          "size": "1620x1080",
+          "aspect": 1.5
+        },
+        "small": {
+          "width": 588,
+          "height": 392,
+          "size": "588x392",
+          "aspect": 1.5
+        }
+      },
+      "description": null,
+      "blurhash": "UAIrKe0LMx-p_NMxx]og^j~qE2M|_3MxM{xa"
+    },
+    {
+      "id": "116999304092768056",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/116/999/304/092/768/056/original/7749029b7c8c8db7.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/116/999/304/092/768/056/small/7749029b7c8c8db7.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 2494,
+          "height": 3325,
+          "size": "2494x3325",
+          "aspect": 0.7500751879699248
+        },
+        "small": {
+          "width": 416,
+          "height": 554,
+          "size": "416x554",
+          "aspect": 0.7509025270758123
+        }
+      },
+      "description": null,
+      "blurhash": "UQIXgT%3M{o~4.rrayRP4T%NozX9b_xaRjV@"
+    },
+    {
+      "id": "116999304225739869",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/116/999/304/225/739/869/original/f6a19d7ff27fc176.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/116/999/304/225/739/869/small/f6a19d7ff27fc176.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 3325,
+          "height": 2494,
+          "size": "3325x2494",
+          "aspect": 1.3331996792301524
+        },
+        "small": {
+          "width": 554,
+          "height": 416,
+          "size": "554x416",
+          "aspect": 1.3317307692307692
+        }
+      },
+      "description": null,
+      "blurhash": "UEH.A;H[?b_N4:IURQRjIn_NMy4UDPxuozt7"
+    },
+    {
+      "id": "116999304319773548",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/116/999/304/319/773/548/original/fb24288f84860fda.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/116/999/304/319/773/548/small/fb24288f84860fda.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 2494,
+          "height": 3325,
+          "size": "2494x3325",
+          "aspect": 0.7500751879699248
+        },
+        "small": {
+          "width": 416,
+          "height": 554,
+          "size": "416x554",
+          "aspect": 0.7509025270758123
+        }
+      },
+      "description": null,
+      "blurhash": "UPKB8l%gIpxbMeM{tkWB%haeRPkC_MWVIAt7"
+    }
+  ],
+  "mentions": [],
+  "tags": [
+    {
+      "name": "hackerspace",
+      "url": "https://chaos.social/tags/hackerspace"
+    },
+    {
+      "name": "makerspace",
+      "url": "https://chaos.social/tags/makerspace"
+    },
+    {
+      "name": "openworkshop",
+      "url": "https://chaos.social/tags/openworkshop"
+    },
+    {
+      "name": "munichmakerlab",
+      "url": "https://chaos.social/tags/munichmakerlab"
+    },
+    {
+      "name": "mumalab",
+      "url": "https://chaos.social/tags/mumalab"
+    },
+    {
+      "name": "kreativquartier",
+      "url": "https://chaos.social/tags/kreativquartier"
+    },
+    {
+      "name": "kreativlabor",
+      "url": "https://chaos.social/tags/kreativlabor"
+    },
+    {
+      "name": "diymunich",
+      "url": "https://chaos.social/tags/diymunich"
+    },
+    {
+      "name": "embroidery",
+      "url": "https://chaos.social/tags/embroidery"
+    },
+    {
+      "name": "textileart",
+      "url": "https://chaos.social/tags/textileart"
+    },
+    {
+      "name": "makers",
+      "url": "https://chaos.social/tags/makers"
+    }
+  ],
+  "emojis": [],
+  "tagged_collections": [],
+  "quote": null,
+  "card": null,
+  "poll": null,
+  "quote_approval": {
+    "automatic": [
+      "public"
+    ],
+    "manual": [],
+    "current_user": "denied"
+  }
+}

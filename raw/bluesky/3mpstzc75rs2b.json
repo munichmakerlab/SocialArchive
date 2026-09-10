@@ -1,0 +1,174 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mpstzc75rs2b",
+    "cid": "bafyreide4xrottz6k2hamliu57yyclxjbr4rcjhp57zzh5riaq4b3j4mqy",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-04T10:27:54.521Z",
+      "embed": {
+        "$type": "app.bsky.embed.gallery",
+        "items": [
+          {
+            "$type": "app.bsky.embed.gallery#image",
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiez7j2hvf3g7tbkt7qs3omgxbkeeyw4zpauk5jtj3jju6326xedqq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1988351
+            }
+          },
+          {
+            "$type": "app.bsky.embed.gallery#image",
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiercvettbwte27qavoee2gaxg73oztt73af5zq5snwczyfew5doje"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1948033
+            }
+          },
+          {
+            "$type": "app.bsky.embed.gallery#image",
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihevzlyj47fzbf3d23cmmms5kpbv4v257tw7imc3q3my5yqyqkeiy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1839464
+            }
+          },
+          {
+            "$type": "app.bsky.embed.gallery#image",
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreieivvqdotcrns54gzcftcg6rt3xmjd43wkdb3lihxm3hzmqesvicm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1973432
+            }
+          },
+          {
+            "$type": "app.bsky.embed.gallery#image",
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibru5wj27nebjgfwmqcp2qo3uegtwb5dal7hstchuma3hz7b7wm2y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1989026
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "The Electric Tree just hit a milestone: The main visual part is done. Old PCBs, breadboards and opened-up devices, mounted on the wall for everyone to see."
+    },
+    "embed": {
+      "items": [
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiez7j2hvf3g7tbkt7qs3omgxbkeeyw4zpauk5jtj3jju6326xedqq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiez7j2hvf3g7tbkt7qs3omgxbkeeyw4zpauk5jtj3jju6326xedqq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiercvettbwte27qavoee2gaxg73oztt73af5zq5snwczyfew5doje",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiercvettbwte27qavoee2gaxg73oztt73af5zq5snwczyfew5doje",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreihevzlyj47fzbf3d23cmmms5kpbv4v257tw7imc3q3my5yqyqkeiy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreihevzlyj47fzbf3d23cmmms5kpbv4v257tw7imc3q3my5yqyqkeiy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreieivvqdotcrns54gzcftcg6rt3xmjd43wkdb3lihxm3hzmqesvicm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreieivvqdotcrns54gzcftcg6rt3xmjd43wkdb3lihxm3hzmqesvicm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibru5wj27nebjgfwmqcp2qo3uegtwb5dal7hstchuma3hz7b7wm2y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibru5wj27nebjgfwmqcp2qo3uegtwb5dal7hstchuma3hz7b7wm2y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        }
+      ],
+      "$type": "app.bsky.embed.gallery#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-07-04T10:28:42.723Z",
+    "labels": []
+  }
+}
