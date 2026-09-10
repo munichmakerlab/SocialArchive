@@ -5,6 +5,22 @@ Central, platform-independent archive of Munich Maker Lab's social media posts
 history independently of the external platforms and serve it as
 `posts.json`/RSS.
 
+## Source status
+
+<!-- STATUS:START -->
+| | Mastodon | Bluesky | Tumblr | Instagram | Twitter/X |
+|---|---|---|---|---|---|
+| Status | ✅ | ✅ | ✅ | ⛔ | ⛔ |
+| Last successful sync (UTC) | 2026-09-10 19:36:23 UTC | 2026-09-10 19:36:23 UTC | 2026-09-10 19:36:24 UTC | never | never |
+| New posts (last run) | +0 | +0 | +0 | – | – |
+| Known posts | 21 | 21 | 20 | – | – |
+<!-- STATUS:END -->
+
+A source erroring or going quiet never deletes previously-archived posts --
+importers only ever write raw files, never remove them -- and the "Last
+successful sync" timestamp above keeps showing the last time a source
+*actually* worked even while it's currently failing.
+
 ## Status
 
 First end-to-end pipeline for the three sources that work without login
@@ -49,22 +65,6 @@ real repo and confirmed working (fetch, normalize, build, auto-commit).
   the repo-hosted copy and `media.original_url` keeps the platform's CDN URL.
   Video is not mirrored yet (Bluesky serves it as an HLS playlist, Mastodon
   as a direct MP4 -- both still just link out to the original URL).
-
-## Source status
-
-<!-- STATUS:START -->
-| | Mastodon | Bluesky | Tumblr | Instagram | Twitter/X |
-|---|---|---|---|---|---|
-| Status | ✅ | ✅ | ✅ | ⛔ | ⛔ |
-| Last successful sync (UTC) | 2026-09-10 19:36:23 UTC | 2026-09-10 19:36:23 UTC | 2026-09-10 19:36:24 UTC | never | never |
-| New posts (last run) | +0 | +0 | +0 | – | – |
-| Known posts | 21 | 21 | 20 | – | – |
-<!-- STATUS:END -->
-
-A source erroring or going quiet never deletes previously-archived posts --
-importers only ever write raw files, never remove them -- and the "Last
-successful sync" timestamp above keeps showing the last time a source
-*actually* worked even while it's currently failing.
 
 ## Project structure
 
