@@ -1,0 +1,140 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mv6nvze7222w",
+    "cid": "bafyreic252kpf6aljf6juagyoqqhvp577cmnzqxjnw53ds5wodpqzmlbwe",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-10T18:16:37.124Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3999,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicfpo7k3bnh4to2y47ny4oiybhexcxrhywqnda5l4zlo7r2ty5hsu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1968475
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3999,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiekqq3xjqk55ie3xqadfejvhl4xof62ray27nl4vhajbyt4v3t3zm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1717311
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3598,
+              "width": 2406
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaio2atoh3y5qhalpamo2jqufnqtjybdj5fxdapb5lnxqc43hsy4e"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1980844
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3999,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigj4uw2de4rqii3tuqld537k5inos7dacmhqd5mnahyv6cg5wfdmi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1779255
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "One of our members supports theatre projects with custom technical gadgets. This unusual-looking device recently received an update: it is a remote-controlled vehicle equipped with moving-head LED lights for creating special effects."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicfpo7k3bnh4to2y47ny4oiybhexcxrhywqnda5l4zlo7r2ty5hsu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicfpo7k3bnh4to2y47ny4oiybhexcxrhywqnda5l4zlo7r2ty5hsu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3999,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiekqq3xjqk55ie3xqadfejvhl4xof62ray27nl4vhajbyt4v3t3zm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiekqq3xjqk55ie3xqadfejvhl4xof62ray27nl4vhajbyt4v3t3zm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3999,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiaio2atoh3y5qhalpamo2jqufnqtjybdj5fxdapb5lnxqc43hsy4e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiaio2atoh3y5qhalpamo2jqufnqtjybdj5fxdapb5lnxqc43hsy4e",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3598,
+            "width": 2406
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigj4uw2de4rqii3tuqld537k5inos7dacmhqd5mnahyv6cg5wfdmi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigj4uw2de4rqii3tuqld537k5inos7dacmhqd5mnahyv6cg5wfdmi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3999,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-10T18:17:32.364Z",
+    "labels": []
+  }
+}
