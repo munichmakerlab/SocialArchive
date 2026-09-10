@@ -38,8 +38,10 @@ real repo and confirmed working (fetch, normalize, build, auto-commit).
   show up as two separate entries.
 - No `state.json`/incremental sync: `sync` re-fetches the latest 20 posts per
   platform every time, there is no "new posts only" mode yet.
-- Media is not mirrored locally yet; `media.url` currently points at the
-  platforms' original CDN URLs.
+- Images are mirrored into `public/media/<post-id>/`; `media.url` points at
+  the repo-hosted copy and `media.original_url` keeps the platform's CDN URL.
+  Video is not mirrored yet (Bluesky serves it as an HLS playlist, Mastodon
+  as a direct MP4 -- both still just link out to the original URL).
 
 ## Project structure
 
@@ -48,12 +50,13 @@ archive/
 ├── importers/{mastodon,bluesky,tumblr}.py  # fetch -> raw/<platform>/*.json
 ├── models.py       # canonical Post schema (pydantic)
 ├── normalize.py     # raw/*.json -> Post
+├── media.py          # mirrors post images into public/media/<post-id>/
 ├── feed.py          # RSS 2.0 generator
-└── build.py          # normalize_all() -> data/posts.json + public/*
+└── build.py          # normalize_all() -> mirror_images() -> data/posts.json + public/*
 
 raw/<platform>/       # unmodified raw data per platform
 data/posts.json       # generated, canonical data set
-public/               # static output (posts.json, latest.json, feed.xml)
+public/               # static output (posts.json, latest.json, feed.xml, media/)
 
 poc/                  # frozen PoC experiment, see FINDINGS.md
 ```
