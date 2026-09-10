@@ -1,13 +1,13 @@
 # MuMaLab Social Archive
 
-Zentrales, plattformunabhängiges Archiv der Munich-Maker-Lab-Social-Media-Posts
-(Mastodon, Tumblr, Instagram, Twitter/X, Bluesky, ...). Ziel: die Historie
-unabhängig von den externen Plattformen dauerhaft sichern und als
-`posts.json`/RSS bereitstellen.
+Central, platform-independent archive of Munich Maker Lab's social media posts
+(Mastodon, Tumblr, Instagram, Twitter/X, Bluesky, ...). Goal: preserve the
+history independently of the external platforms and serve it as
+`posts.json`/RSS.
 
-## Stand
+## Status
 
-Erste End-to-End-Pipeline für die drei Quellen, die ohne Login funktionieren
+First end-to-end pipeline for the three sources that work without login
 (Mastodon, Bluesky, Tumblr):
 
 ```
@@ -15,7 +15,7 @@ external platform -> archive/importers/*.py -> raw/<platform>/*.json
                                                       |
                                              archive/normalize.py
                                                       v
-                                       data/posts.json (kanonisch)
+                                       data/posts.json (canonical)
                                                       |
                               archive/build.py -> public/{posts,latest}.json, feed.xml
 ```
@@ -25,45 +25,46 @@ uv run python -m archive sync   # fetch raw posts from each source into raw/
 uv run python -m archive build  # normalize raw/ -> data/posts.json + public/*
 ```
 
-Instagram und Twitter/X haben (noch) keinen Importer: der PoC hat gezeigt,
-dass ohne Login/Session aktuell keine echten Posts erreichbar sind (siehe
-[`FINDINGS.md`](FINDINGS.md)).
+Instagram and Twitter/X don't have an importer yet: the PoC showed that no
+real posts are reachable without login/session on either platform right now
+(see [`FINDINGS.md`](FINDINGS.md)).
 
-**Bewusste Lücken in diesem Stand:**
-- Keine Cross-Platform-Deduplizierung: ein Raw-Post = ein kanonischer Post.
-  Crossposts (z. B. derselbe Inhalt auf Mastodon und Bluesky) erscheinen
-  aktuell noch als zwei separate Einträge.
-- Kein `state.json`/inkrementeller Sync: `sync` holt jedes Mal die letzten
-  20 Posts pro Plattform neu, es gibt noch keinen "nur neue Posts"-Modus.
-- Medien werden noch nicht lokal gespiegelt, `media.url` zeigt aktuell auf
-  die Original-CDN-URLs der Plattformen.
-- `.github/workflows/sync.yml` existiert, wurde aber noch nicht in einem
-  echten Repo/Actions-Lauf getestet.
+The `sync.yml` GitHub Actions workflow has been triggered manually against the
+real repo and confirmed working (fetch, normalize, build, auto-commit).
 
-## Projektstruktur
+**Known gaps at this stage:**
+- No cross-platform deduplication: one raw post = one canonical post.
+  Crossposts (e.g. the same content on Mastodon and Bluesky) currently still
+  show up as two separate entries.
+- No `state.json`/incremental sync: `sync` re-fetches the latest 20 posts per
+  platform every time, there is no "new posts only" mode yet.
+- Media is not mirrored locally yet; `media.url` currently points at the
+  platforms' original CDN URLs.
+
+## Project structure
 
 ```
 archive/
 ├── importers/{mastodon,bluesky,tumblr}.py  # fetch -> raw/<platform>/*.json
-├── models.py       # kanonisches Post-Schema (pydantic)
+├── models.py       # canonical Post schema (pydantic)
 ├── normalize.py     # raw/*.json -> Post
-├── feed.py          # RSS 2.0 Generator
+├── feed.py          # RSS 2.0 generator
 └── build.py          # normalize_all() -> data/posts.json + public/*
 
-raw/<platform>/       # unveränderte Rohdaten je Plattform
-data/posts.json       # generierter, kanonischer Datenbestand
-public/               # statischer Output (posts.json, latest.json, feed.xml)
+raw/<platform>/       # unmodified raw data per platform
+data/posts.json       # generated, canonical data set
+public/               # static output (posts.json, latest.json, feed.xml)
 
-poc/                  # eingefrorenes PoC-Experiment, siehe FINDINGS.md
+poc/                  # frozen PoC experiment, see FINDINGS.md
 ```
 
 ## Setup
 
-Dependencies und `.venv` werden mit [uv](https://docs.astral.sh/uv/) verwaltet
+Dependencies and the `.venv` are managed with [uv](https://docs.astral.sh/uv/)
 (`pyproject.toml` + `uv.lock`).
 
 ```bash
-uv sync              # erstellt/aktualisiert .venv aus uv.lock
-uv run <script.py>   # führt ein Script im .venv aus
-uv add <package>      # neue Abhängigkeit hinzufügen
+uv sync              # creates/updates .venv from uv.lock
+uv run <script.py>   # runs a script inside the .venv
+uv add <package>      # add a new dependency
 ```
