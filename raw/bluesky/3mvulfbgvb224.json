@@ -1,0 +1,154 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mvulfbgvb224",
+    "cid": "bafyreic2gpvscethas2esenf5vjbi6qeivf463wxazscp2pgr4uo2l4ohm",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-19T11:30:02.041Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2170,
+              "width": 3456
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreignrxdeeh27pwz4i4q2rss2m5czscfkwacpl7t6y75pjnfaglyxqa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1763982
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigwsgeghricmmqqe725xgt6dzfoku2qwifuuh2cpovclaixd3djye"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1961876
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic5oe3olmi77qqvsqumhffddpwqp6njxyrsqprrwd4cfan6ypejhy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1987809
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiacuo6joxysfk7l4wixkzwa4p6awmqhghkd34ai67on4pb65553jq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1567522
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://codeberg.org/simmarith/dxfdesign"
+            }
+          ],
+          "index": {
+            "byteEnd": 264,
+            "byteStart": 236
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Not happy with the available box generators for the laser cutter? Build your own. One of our members vibe coded a custom version and used it right away to make a proper enclosure for one of our button machines.\nSoftware available here: codeberg.org/simmarith/dx..."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreignrxdeeh27pwz4i4q2rss2m5czscfkwacpl7t6y75pjnfaglyxqa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreignrxdeeh27pwz4i4q2rss2m5czscfkwacpl7t6y75pjnfaglyxqa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2170,
+            "width": 3456
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigwsgeghricmmqqe725xgt6dzfoku2qwifuuh2cpovclaixd3djye",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigwsgeghricmmqqe725xgt6dzfoku2qwifuuh2cpovclaixd3djye",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic5oe3olmi77qqvsqumhffddpwqp6njxyrsqprrwd4cfan6ypejhy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic5oe3olmi77qqvsqumhffddpwqp6njxyrsqprrwd4cfan6ypejhy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiacuo6joxysfk7l4wixkzwa4p6awmqhghkd34ai67on4pb65553jq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiacuo6joxysfk7l4wixkzwa4p6awmqhghkd34ai67on4pb65553jq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-19T11:30:24.961Z",
+    "labels": []
+  }
+}

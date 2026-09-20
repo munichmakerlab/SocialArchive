@@ -1,5 +1,63 @@
 [
   {
+    "id": "mastodon-117297468415974014",
+    "published_at": "2026-09-19T11:28:48.127000Z",
+    "updated_at": "2026-09-19T11:30:02.041000Z",
+    "text": "Not happy with the available box generators for the laser cutter? Build your own. One of our members vibe coded a custom version and used it right away to make a proper enclosure for one of our button machines.Software available here: https://codeberg.org/simmarith/dxfdesign\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #lasercutter #vibecoding #boxmaker",
+    "html": "<p>Not happy with the available box generators for the laser cutter? Build your own. One of our members vibe coded a custom version and used it right away to make a proper enclosure for one of our button machines.<br />Software available here: <a href=\"https://codeberg.org/simmarith/dxfdesign\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/simmarith/dxfdesi</span><span class=\"invisible\">gn</span></a></p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/lasercutter\" class=\"mention hashtag\" rel=\"tag\">#<span>lasercutter</span></a> <a href=\"https://chaos.social/tags/vibecoding\" class=\"mention hashtag\" rel=\"tag\">#<span>vibecoding</span></a> <a href=\"https://chaos.social/tags/boxmaker\" class=\"mention hashtag\" rel=\"tag\">#<span>boxmaker</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117297468415974014",
+        "url": "https://chaos.social/@munichmakerlab/117297468415974014"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mvulfbgvb224",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mvulfbgvb224"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117297468415974014/00.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/297/467/897/293/764/original/612a7ea6b2795319.png",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117297468415974014/01.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/297/468/160/638/420/original/d494b409660a3918.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117297468415974014/02.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/297/468/165/475/950/original/0c7569fffe8091f8.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117297468415974014/03.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/297/468/169/436/404/original/b7f6a6e0e4a5279a.jpg",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "lasercutter",
+      "vibecoding",
+      "boxmaker"
+    ]
+  },
+  {
     "id": "mastodon-117248110375493670",
     "published_at": "2026-09-10T18:16:24.201000Z",
     "updated_at": "2026-09-10T18:16:37.124000Z",
