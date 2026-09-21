@@ -1,29 +1,29 @@
 {
   "mastodon": {
     "status": "ok",
-    "last_attempt": "2026-09-20T08:36:03.181371+00:00",
-    "last_success": "2026-09-20T08:36:03.181371+00:00",
-    "new_posts_last_run": 1,
+    "last_attempt": "2026-09-21T08:57:41.786504+00:00",
+    "last_success": "2026-09-21T08:57:41.786504+00:00",
+    "new_posts_last_run": 0,
     "known_count": 22,
     "error": null,
     "warning": null
   },
   "bluesky": {
     "status": "ok",
-    "last_attempt": "2026-09-20T08:36:03.629401+00:00",
-    "last_success": "2026-09-20T08:36:03.629401+00:00",
-    "new_posts_last_run": 1,
+    "last_attempt": "2026-09-21T08:57:42.231282+00:00",
+    "last_success": "2026-09-21T08:57:42.231282+00:00",
+    "new_posts_last_run": 0,
     "known_count": 22,
     "error": null,
     "warning": null
   },
   "tumblr": {
-    "status": "error",
-    "last_attempt": "2026-09-20T08:36:03.947184+00:00",
-    "last_success": "2026-09-19T08:03:50.090626+00:00",
+    "status": "ok",
+    "last_attempt": "2026-09-21T08:57:43.152447+00:00",
+    "last_success": "2026-09-21T08:57:43.152447+00:00",
     "new_posts_last_run": 0,
     "known_count": 20,
-    "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://log.munichmakerlab.de/api/read/json?num=20'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "error": null,
     "warning": null
   },
   "instagram": {
