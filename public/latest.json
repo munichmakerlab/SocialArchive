@@ -1,5 +1,69 @@
 [
   {
+    "id": "bluesky-3mw4vltu2yk2g",
+    "published_at": "2026-09-22T18:53:58.019000Z",
+    "updated_at": "2026-09-22T18:53:58.019000Z",
+    "text": "Modded 3D printer plotter in action...",
+    "html": "<p>Modded 3D printer plotter in action...</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mw4vltu2yk2g",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mw4vltu2yk2g"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/playlist.m3u8",
+        "original_url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/playlist.m3u8",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "bluesky-3mw4vgrngfs2g",
+    "published_at": "2026-09-22T18:51:07.921000Z",
+    "updated_at": "2026-09-22T18:51:07.921000Z",
+    "text": "Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and, of course, proper Bavarian language support. Priorities.",
+    "html": "<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and, of course, proper Bavarian language support. Priorities.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mw4vgrngfs2g",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mw4vgrngfs2g"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/00.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidtlicljln4sa2o4silbbfhh2ozsaquyvhwitgn6jqpt4y5643nhe",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/01.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibshypcfxrrywgkpklqbqhcc27c5vybnnb7h7b7u7ibx7mx4s3xry",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/02.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiefusnwgyrufpyitq3oejptzpl7otwbnbz3vwwtf5spfcxjwhgyrm",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/03.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreih23h24w5jwvlhalwnynhqtneellptk7baysrdf2oxucge2bebeiq",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117297468415974014",
     "published_at": "2026-09-19T11:28:48.127000Z",
     "updated_at": "2026-09-19T11:30:02.041000Z",
@@ -845,98 +909,6 @@
       "stainedglass",
       "glassart",
       "handmade"
-    ]
-  },
-  {
-    "id": "mastodon-116930878574180874",
-    "published_at": "2026-07-16T17:40:11.066000Z",
-    "updated_at": "2026-07-16T17:40:17.759000Z",
-    "text": "Some great pieces made in one of our Tiffany stained glass workshops, now on display in our demonstration shelf alongside many other fine things built at the lab.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #stainedglass #tiffany #glassart",
-    "html": "<p>Some great pieces made in one of our Tiffany stained glass workshops, now on display in our demonstration shelf alongside many other fine things built at the lab.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/stainedglass\" class=\"mention hashtag\" rel=\"tag\">#<span>stainedglass</span></a> <a href=\"https://chaos.social/tags/tiffany\" class=\"mention hashtag\" rel=\"tag\">#<span>tiffany</span></a> <a href=\"https://chaos.social/tags/glassart\" class=\"mention hashtag\" rel=\"tag\">#<span>glassart</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "116930878574180874",
-        "url": "https://chaos.social/@munichmakerlab/116930878574180874"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mqrrrj25cc2l",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mqrrrj25cc2l"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116930878574180874/00.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/930/874/152/128/326/original/659bdaa44ea3efa1.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116930878574180874/01.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/930/874/314/135/000/original/64338b60a3489082.jpg",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "stainedglass",
-      "tiffany",
-      "glassart"
-    ]
-  },
-  {
-    "id": "mastodon-116891422602892901",
-    "published_at": "2026-07-09T18:25:39.267000Z",
-    "updated_at": "2026-07-09T18:26:00.719000Z",
-    "text": "One of our members got tired of cutting screws to the right length by hand, so they  printed and built a handy jig for the Dremel to do it precisely.3D model source:: https://cults3d.com/de/modell-3d/werkzeuge/dremel-miter-saw-fixture\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #3dprinting #dremel #diyhacks",
-    "html": "<p>One of our members got tired of cutting screws to the right length by hand, so they  printed and built a handy jig for the Dremel to do it precisely.<br />3D model source:: <a href=\"https://cults3d.com/de/modell-3d/werkzeuge/dremel-miter-saw-fixture\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cults3d.com/de/modell-3d/werkz</span><span class=\"invisible\">euge/dremel-miter-saw-fixture</span></a></p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a> <a href=\"https://chaos.social/tags/dremel\" class=\"mention hashtag\" rel=\"tag\">#<span>dremel</span></a> <a href=\"https://chaos.social/tags/diyhacks\" class=\"mention hashtag\" rel=\"tag\">#<span>diyhacks</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "116891422602892901",
-        "url": "https://chaos.social/@munichmakerlab/116891422602892901"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mqab26a3h22c",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mqab26a3h22c"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116891422602892901/00.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/891/422/215/892/164/original/52a587d9cc3e4848.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116891422602892901/01.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/891/422/215/664/181/original/129e8db7a16c2b7e.jpg",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "3dprinting",
-      "dremel",
-      "diyhacks"
     ]
   }
 ]

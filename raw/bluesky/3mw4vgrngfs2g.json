@@ -1,0 +1,140 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mw4vgrngfs2g",
+    "cid": "bafyreieyadns5ln2rrwilqrkoutdjlnijtwc3pqljefazy3d43b3ipewuq",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-22T18:51:07.921Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidtlicljln4sa2o4silbbfhh2ozsaquyvhwitgn6jqpt4y5643nhe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1890804
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibshypcfxrrywgkpklqbqhcc27c5vybnnb7h7b7u7ibx7mx4s3xry"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1915092
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiefusnwgyrufpyitq3oejptzpl7otwbnbz3vwwtf5spfcxjwhgyrm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 442840
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 155,
+              "width": 115
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih23h24w5jwvlhalwnynhqtneellptk7baysrdf2oxucge2bebeiq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 15309
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and, of course, proper Bavarian language support. Priorities."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidtlicljln4sa2o4silbbfhh2ozsaquyvhwitgn6jqpt4y5643nhe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidtlicljln4sa2o4silbbfhh2ozsaquyvhwitgn6jqpt4y5643nhe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibshypcfxrrywgkpklqbqhcc27c5vybnnb7h7b7u7ibx7mx4s3xry",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibshypcfxrrywgkpklqbqhcc27c5vybnnb7h7b7u7ibx7mx4s3xry",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiefusnwgyrufpyitq3oejptzpl7otwbnbz3vwwtf5spfcxjwhgyrm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiefusnwgyrufpyitq3oejptzpl7otwbnbz3vwwtf5spfcxjwhgyrm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreih23h24w5jwvlhalwnynhqtneellptk7baysrdf2oxucge2bebeiq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreih23h24w5jwvlhalwnynhqtneellptk7baysrdf2oxucge2bebeiq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 155,
+            "width": 115
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-22T18:51:26.860Z",
+    "labels": []
+  }
+}

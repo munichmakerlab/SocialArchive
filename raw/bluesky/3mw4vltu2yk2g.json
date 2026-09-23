@@ -1,0 +1,61 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mw4vltu2yk2g",
+    "cid": "bafyreidkk3v45u7hdly7dvzka3khabsc2diqhpliapquh47jc6gewu76qi",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-22T18:53:58.019Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m"
+          },
+          "mimeType": "video/mp4",
+          "size": 11660343
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Modded 3D printer plotter in action..."
+    },
+    "embed": {
+      "cid": "bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m",
+      "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/playlist.m3u8",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/thumbnail.jpg",
+      "aspectRatio": {
+        "height": 1280,
+        "width": 720
+      },
+      "presentation": "default",
+      "$type": "app.bsky.embed.video#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-22T18:53:59.771Z",
+    "labels": []
+  }
+}

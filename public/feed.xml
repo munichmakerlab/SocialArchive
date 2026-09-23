@@ -6,12 +6,30 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 22 Sep 2026 08:33:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 08:35:49 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>Modded 3D printer plotter in action...</title>
+    <guid isPermaLink="false">bluesky-3mw4vltu2yk2g</guid>
+    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mw4vltu2yk2g</link>
+    <pubDate>Tue, 22 Sep 2026 18:53:58 +0000</pubDate>
+    <description><![CDATA[<p>Modded 3D printer plotter in action...</p>]]></description>
+    
+    <enclosure url="https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/playlist.m3u8" type="video/mp4"/>
+  </item>
+  <item>
+    <title>Sometimes the flu turns into maker time. One of our members spent his sick days…</title>
+    <guid isPermaLink="false">bluesky-3mw4vgrngfs2g</guid>
+    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mw4vgrngfs2g</link>
+    <pubDate>Tue, 22 Sep 2026 18:51:07 +0000</pubDate>
+    <description><![CDATA[<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and, of course, proper Bavarian language support. Priorities.</p>]]></description>
+    
+    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/03.jpg" type="image/jpeg"/>
+  </item>
   <item>
     <title>Not happy with the available box generators for the laser cutter? Build your…</title>
     <guid isPermaLink="false">mastodon-117297468415974014</guid>
