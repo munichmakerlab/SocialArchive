@@ -1,20 +1,20 @@
 {
-  "id": "117248110375493670",
-  "created_at": "2026-09-10T18:16:24.201Z",
+  "id": "117316191896683196",
+  "created_at": "2026-09-22T18:50:25.774Z",
   "in_reply_to_id": null,
   "in_reply_to_account_id": null,
   "sensitive": false,
   "spoiler_text": "",
   "visibility": "public",
   "language": "en",
-  "uri": "https://chaos.social/users/munichmakerlab/statuses/117248110375493670",
-  "url": "https://chaos.social/@munichmakerlab/117248110375493670",
-  "replies_count": 0,
-  "reblogs_count": 3,
-  "favourites_count": 11,
+  "uri": "https://chaos.social/users/munichmakerlab/statuses/117316191896683196",
+  "url": "https://chaos.social/@munichmakerlab/117316191896683196",
+  "replies_count": 1,
+  "reblogs_count": 1,
+  "favourites_count": 5,
   "quotes_count": 0,
   "edited_at": null,
-  "content": "<p>One of our members supports theatre projects with custom technical gadgets. This unusual-looking device recently received an update: it is a remote-controlled vehicle equipped with moving-head LED lights for creating special effects.</p><p>A particularly useful feature is its direct support for DMX, the protocol commonly used to control lighting equipment in theatre productions.</p><p><a href=\"https://chaos.social/tags/theatre\" class=\"mention hashtag\" rel=\"tag\">#<span>theatre</span></a> <a href=\"https://chaos.social/tags/stageeffects\" class=\"mention hashtag\" rel=\"tag\">#<span>stageeffects</span></a> <a href=\"https://chaos.social/tags/dmx\" class=\"mention hashtag\" rel=\"tag\">#<span>dmx</span></a> <a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a></p>",
+  "content": "<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and of course, proper Bavarian language support. Priorities.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a> <a href=\"https://chaos.social/tags/plotter\" class=\"mention hashtag\" rel=\"tag\">#<span>plotter</span></a> <a href=\"https://chaos.social/tags/aitools\" class=\"mention hashtag\" rel=\"tag\">#<span>aitools</span></a></p>",
   "reblog": null,
   "application": {
     "name": "Web",
@@ -73,10 +73,10 @@
   },
   "media_attachments": [
     {
-      "id": "117248105985641413",
+      "id": "117316183094267891",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/248/105/985/641/413/original/cdd18830861f0db9.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/248/105/985/641/413/small/cdd18830861f0db9.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/316/183/094/267/891/original/da12eeb90bcf85f7.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/183/094/267/891/small/da12eeb90bcf85f7.jpg",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
@@ -95,13 +95,13 @@
         }
       },
       "description": null,
-      "blurhash": "UJG[fy_3~Vt7?bjZxvM|~URiNHM|_3t8t7j?"
+      "blurhash": "UMEL?I~AVX-oXUNKkqtSIANIt7nh-:ozROM{"
     },
     {
-      "id": "117248105949189253",
+      "id": "117316183132020871",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/248/105/949/189/253/original/c8f4d867f6250d22.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/248/105/949/189/253/small/c8f4d867f6250d22.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/316/183/132/020/871/original/6ec56e608a74890b.png",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/183/132/020/871/small/6ec56e608a74890b.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
@@ -120,73 +120,61 @@
         }
       },
       "description": null,
-      "blurhash": "UJIhW[4m?bD*?HITE1M|~WIUD*M{RO-p.8t6"
+      "blurhash": "UBK1Uc-;j[-q0JM{Rjof9ExuRjj[IUWBWBWC"
     },
     {
-      "id": "117248105988844152",
+      "id": "117316190820823345",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/248/105/988/844/152/original/99c4fd9107dd4db1.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/248/105/988/844/152/small/99c4fd9107dd4db1.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/316/190/820/823/345/original/46310c10b98be752.jpeg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/190/820/823/345/small/46310c10b98be752.jpeg",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 2494,
-          "height": 3325,
-          "size": "2494x3325",
-          "aspect": 0.7500751879699248
+          "width": 1920,
+          "height": 1080,
+          "size": "1920x1080",
+          "aspect": 1.7777777777777777
         },
         "small": {
-          "width": 416,
-          "height": 554,
-          "size": "416x554",
-          "aspect": 0.7509025270758123
+          "width": 640,
+          "height": 360,
+          "size": "640x360",
+          "aspect": 1.7777777777777777
         }
       },
       "description": null,
-      "blurhash": "UMJk7PR-_NWE#P-pI9j[xv9F%LofNLE4t8oM"
+      "blurhash": "U23+K2%QDgIRt9n$acS%I;N_t8xbW9bbohni"
     },
     {
-      "id": "117248105818032290",
+      "id": "117316183018451823",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/248/105/818/032/290/original/617c6517e2a24a3c.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/248/105/818/032/290/small/617c6517e2a24a3c.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/316/183/018/451/823/original/f62fcc829b4b2536.png",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/183/018/451/823/small/f62fcc829b4b2536.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 2355,
-          "height": 3522,
-          "size": "2355x3522",
-          "aspect": 0.6686541737649063
+          "width": 115,
+          "height": 155,
+          "size": "115x155",
+          "aspect": 0.7419354838709677
         },
         "small": {
-          "width": 392,
-          "height": 587,
-          "size": "392x587",
-          "aspect": 0.6678023850085179
+          "width": 115,
+          "height": 155,
+          "size": "115x155",
+          "aspect": 0.7419354838709677
         }
       },
       "description": null,
-      "blurhash": "UIBf|hWXIn004n-;RPt7xuInt7t7fiM{xvt7"
+      "blurhash": "U26a@wt60000XW%gD$xuJFD$-;oeD-%NMxtQ"
     }
   ],
   "mentions": [],
   "tags": [
-    {
-      "name": "theatre",
-      "url": "https://chaos.social/tags/theatre"
-    },
-    {
-      "name": "stageeffects",
-      "url": "https://chaos.social/tags/stageeffects"
-    },
-    {
-      "name": "dmx",
-      "url": "https://chaos.social/tags/dmx"
-    },
     {
       "name": "hackerspace",
       "url": "https://chaos.social/tags/hackerspace"
@@ -210,6 +198,26 @@
     {
       "name": "kreativquartier",
       "url": "https://chaos.social/tags/kreativquartier"
+    },
+    {
+      "name": "kreativlabor",
+      "url": "https://chaos.social/tags/kreativlabor"
+    },
+    {
+      "name": "diymunich",
+      "url": "https://chaos.social/tags/diymunich"
+    },
+    {
+      "name": "3dprinting",
+      "url": "https://chaos.social/tags/3dprinting"
+    },
+    {
+      "name": "plotter",
+      "url": "https://chaos.social/tags/plotter"
+    },
+    {
+      "name": "aitools",
+      "url": "https://chaos.social/tags/aitools"
     }
   ],
   "emojis": [],

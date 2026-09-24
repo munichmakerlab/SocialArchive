@@ -1,11 +1,16 @@
 [
   {
-    "id": "bluesky-3mw4vltu2yk2g",
+    "id": "mastodon-117316206745193846",
     "published_at": "2026-09-22T18:53:58.019000Z",
-    "updated_at": "2026-09-22T18:53:58.019000Z",
+    "updated_at": "2026-09-22T18:54:12.337000Z",
     "text": "Modded 3D printer plotter in action...",
     "html": "<p>Modded 3D printer plotter in action...</p>",
     "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117316206745193846",
+        "url": "https://chaos.social/@munichmakerlab/117316206745193846"
+      },
       {
         "platform": "bluesky",
         "id": "3mw4vltu2yk2g",
@@ -15,20 +20,25 @@
     "media": [
       {
         "type": "video",
-        "url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/playlist.m3u8",
-        "original_url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/playlist.m3u8",
+        "url": "https://assets.chaos.social/media_attachments/files/117/316/206/313/696/780/original/9d0659db3e66908b.mp4",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/316/206/313/696/780/original/9d0659db3e66908b.mp4",
         "alt": null
       }
     ],
     "tags": []
   },
   {
-    "id": "bluesky-3mw4vgrngfs2g",
-    "published_at": "2026-09-22T18:51:07.921000Z",
+    "id": "mastodon-117316191896683196",
+    "published_at": "2026-09-22T18:50:25.774000Z",
     "updated_at": "2026-09-22T18:51:07.921000Z",
-    "text": "Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and, of course, proper Bavarian language support. Priorities.",
-    "html": "<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and, of course, proper Bavarian language support. Priorities.</p>",
+    "text": "Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and of course, proper Bavarian language support. Priorities.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #3dprinting #plotter #aitools",
+    "html": "<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and of course, proper Bavarian language support. Priorities.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a> <a href=\"https://chaos.social/tags/plotter\" class=\"mention hashtag\" rel=\"tag\">#<span>plotter</span></a> <a href=\"https://chaos.social/tags/aitools\" class=\"mention hashtag\" rel=\"tag\">#<span>aitools</span></a></p>",
     "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117316191896683196",
+        "url": "https://chaos.social/@munichmakerlab/117316191896683196"
+      },
       {
         "platform": "bluesky",
         "id": "3mw4vgrngfs2g",
@@ -38,30 +48,42 @@
     "media": [
       {
         "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/00.jpg",
-        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidtlicljln4sa2o4silbbfhh2ozsaquyvhwitgn6jqpt4y5643nhe",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117316191896683196/00.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/316/183/094/267/891/original/da12eeb90bcf85f7.jpg",
         "alt": null
       },
       {
         "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/01.jpg",
-        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibshypcfxrrywgkpklqbqhcc27c5vybnnb7h7b7u7ibx7mx4s3xry",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117316191896683196/01.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/316/183/132/020/871/original/6ec56e608a74890b.png",
         "alt": null
       },
       {
         "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/02.jpg",
-        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiefusnwgyrufpyitq3oejptzpl7otwbnbz3vwwtf5spfcxjwhgyrm",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117316191896683196/02.jpeg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/316/190/820/823/345/original/46310c10b98be752.jpeg",
         "alt": null
       },
       {
         "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/03.jpg",
-        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreih23h24w5jwvlhalwnynhqtneellptk7baysrdf2oxucge2bebeiq",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117316191896683196/03.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/316/183/018/451/823/original/f62fcc829b4b2536.png",
         "alt": null
       }
     ],
-    "tags": []
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "3dprinting",
+      "plotter",
+      "aitools"
+    ]
   },
   {
     "id": "mastodon-117297468415974014",

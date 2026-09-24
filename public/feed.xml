@@ -6,7 +6,7 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 23 Sep 2026 08:35:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 08:28:22 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
@@ -14,21 +14,21 @@
   </image>
   <item>
     <title>Modded 3D printer plotter in action...</title>
-    <guid isPermaLink="false">bluesky-3mw4vltu2yk2g</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mw4vltu2yk2g</link>
+    <guid isPermaLink="false">mastodon-117316206745193846</guid>
+    <link>https://chaos.social/@munichmakerlab/117316206745193846</link>
     <pubDate>Tue, 22 Sep 2026 18:53:58 +0000</pubDate>
     <description><![CDATA[<p>Modded 3D printer plotter in action...</p>]]></description>
     
-    <enclosure url="https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreier4hnbew4crdd4yob4taf3os3vfho6i7qxsanep2uwwwvyrvbz5m/playlist.m3u8" type="video/mp4"/>
+    <enclosure url="https://assets.chaos.social/media_attachments/files/117/316/206/313/696/780/original/9d0659db3e66908b.mp4" type="video/mp4"/>
   </item>
   <item>
     <title>Sometimes the flu turns into maker time. One of our members spent his sick days…</title>
-    <guid isPermaLink="false">bluesky-3mw4vgrngfs2g</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mw4vgrngfs2g</link>
-    <pubDate>Tue, 22 Sep 2026 18:51:07 +0000</pubDate>
-    <description><![CDATA[<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and, of course, proper Bavarian language support. Priorities.</p>]]></description>
-    
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mw4vgrngfs2g/03.jpg" type="image/jpeg"/>
+    <guid isPermaLink="false">mastodon-117316191896683196</guid>
+    <link>https://chaos.social/@munichmakerlab/117316191896683196</link>
+    <pubDate>Tue, 22 Sep 2026 18:50:25 +0000</pubDate>
+    <description><![CDATA[<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and of course, proper Bavarian language support. Priorities.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/3dprinting" class="mention hashtag" rel="tag">#<span>3dprinting</span></a> <a href="https://chaos.social/tags/plotter" class="mention hashtag" rel="tag">#<span>plotter</span></a> <a href="https://chaos.social/tags/aitools" class="mention hashtag" rel="tag">#<span>aitools</span></a></p>]]></description>
+    <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>3dprinting</category><category>plotter</category><category>aitools</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117316191896683196/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117316191896683196/01.png" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117316191896683196/02.jpeg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117316191896683196/03.png" type="image/jpeg"/>
   </item>
   <item>
     <title>Not happy with the available box generators for the laser cutter? Build your…</title>
