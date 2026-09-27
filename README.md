@@ -10,8 +10,8 @@ history independently of the external platforms and serve it as
 <!-- STATUS:START -->
 | | Mastodon | Bluesky | Tumblr | Instagram | Twitter/X |
 |---|---|---|---|---|---|
-| Status | ✅ | ✅ | ✅ | ⛔ | ⛔ |
-| Last successful sync (UTC) | 2026-09-26 08:36:33 UTC | 2026-09-26 08:36:34 UTC | 2026-09-26 08:36:34 UTC | never | never |
+| Status | ✅ | ✅ | ❌ | ⛔ | ⛔ |
+| Last successful sync (UTC) | 2026-09-27 09:16:30 UTC | 2026-09-27 09:16:30 UTC | 2026-09-26 08:36:34 UTC | never | never |
 | New posts (last run) | +0 | +0 | +0 | – | – |
 | Known posts | 24 | 24 | 20 | – | – |
 <!-- STATUS:END -->
