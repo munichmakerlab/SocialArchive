@@ -1,0 +1,82 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mwofm4dacc2i",
+    "cid": "bafyreihmuqpczqphqyzlvpdtyapzjydafd363suhvndtnugzpp5ajjiuwy",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-29T17:55:42.321Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1254,
+              "width": 1254
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreib4jnl3gfkrel5k5uqu57i2njeammz52lwwegzapgcrgqhh63lkle"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1130461
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://werners.blog/wp/2026/09/20/tschuess-windows-willkommen-linux/"
+            }
+          ],
+          "index": {
+            "byteEnd": 298,
+            "byteStart": 270
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "“Goodbye Windows, welcome Linux”\nLinux Installation Workshop\nTo mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.\nDate: October 04th, 2026\nTime: 14:00 – 18:00\n werners.blog/wp/2026/09/2..."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreib4jnl3gfkrel5k5uqu57i2njeammz52lwwegzapgcrgqhh63lkle",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreib4jnl3gfkrel5k5uqu57i2njeammz52lwwegzapgcrgqhh63lkle",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1254,
+            "width": 1254
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 2,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-29T17:55:45.969Z",
+    "labels": []
+  }
+}

@@ -1,5 +1,33 @@
 [
   {
+    "id": "mastodon-117355610046303070",
+    "published_at": "2026-09-29T17:54:59Z",
+    "updated_at": "2026-09-29T17:55:42.321000Z",
+    "text": "“Goodbye Windows, welcome Linux”Linux Installation WorkshopTo mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.Date: October 04th, 2026Time: 14:00 – 18:00Location: Munich Maker Lab, Dachauer Str. 112h, 80636 MunichMore details: @muenchen",
+    "html": "<p>“Goodbye Windows, welcome Linux”<br />Linux Installation Workshop<br />To mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.<br />Date: October 04th, 2026<br />Time: 14:00 – 18:00<br />Location: Munich Maker Lab, Dachauer Str. 112h, 80636 Munich<br />More details: <span class=\"h-card\" translate=\"no\"><a href=\"https://social.computertruhe.de/@muenchen\" class=\"u-url mention\">@<span>muenchen</span></a></span></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117355610046303070",
+        "url": "https://chaos.social/@munichmakerlab/117355610046303070"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mwofm4dacc2i",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mwofm4dacc2i"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117355610046303070/00.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/355/609/471/696/254/original/583ffe59949a4b22.png",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117316206745193846",
     "published_at": "2026-09-22T18:53:58.019000Z",
     "updated_at": "2026-09-22T18:54:12.337000Z",
@@ -873,64 +901,6 @@
       "opendoorsday",
       "demostuff",
       "communityevent"
-    ]
-  },
-  {
-    "id": "mastodon-116941207640274932",
-    "published_at": "2026-07-18T13:26:40.335000Z",
-    "updated_at": "2026-07-18T13:27:00.099000Z",
-    "text": "One of our members recently joined a stained glass workshop to learn the basics, and quickly turned that knowledge into her own creations.\nShe designed and built two beautiful pieces after the course, each with its own distinct style.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #stainedglass #glassart #handmade",
-    "html": "<p>One of our members recently joined a stained glass workshop to learn the basics, and quickly turned that knowledge into her own creations.</p><p>She designed and built two beautiful pieces after the course, each with its own distinct style.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/stainedglass\" class=\"mention hashtag\" rel=\"tag\">#<span>stainedglass</span></a> <a href=\"https://chaos.social/tags/glassart\" class=\"mention hashtag\" rel=\"tag\">#<span>glassart</span></a> <a href=\"https://chaos.social/tags/handmade\" class=\"mention hashtag\" rel=\"tag\">#<span>handmade</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "116941207640274932",
-        "url": "https://chaos.social/@munichmakerlab/116941207640274932"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mqwejtinps2d",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mqwejtinps2d"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116941207640274932/00.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/941/207/151/264/229/original/4913add19b8c755f.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116941207640274932/01.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/941/207/119/480/034/original/85b91b8fbe80792f.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116941207640274932/02.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/941/207/119/632/929/original/75497800582a824c.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116941207640274932/03.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/941/207/195/123/713/original/9f8c97cb7e46ff73.jpg",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "stainedglass",
-      "glassart",
-      "handmade"
     ]
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "mastodon-117355610046303070",
+    "published_at": "2026-09-29T17:54:59Z",
+    "updated_at": "2026-09-29T17:55:42.321000Z",
+    "text": "“Goodbye Windows, welcome Linux”Linux Installation WorkshopTo mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.Date: October 04th, 2026Time: 14:00 – 18:00Location: Munich Maker Lab, Dachauer Str. 112h, 80636 MunichMore details: @muenchen",
+    "html": "<p>“Goodbye Windows, welcome Linux”<br />Linux Installation Workshop<br />To mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.<br />Date: October 04th, 2026<br />Time: 14:00 – 18:00<br />Location: Munich Maker Lab, Dachauer Str. 112h, 80636 Munich<br />More details: <span class=\"h-card\" translate=\"no\"><a href=\"https://social.computertruhe.de/@muenchen\" class=\"u-url mention\">@<span>muenchen</span></a></span></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117355610046303070",
+        "url": "https://chaos.social/@munichmakerlab/117355610046303070"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mwofm4dacc2i",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mwofm4dacc2i"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117355610046303070/00.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/355/609/471/696/254/original/583ffe59949a4b22.png",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117316206745193846",
     "published_at": "2026-09-22T18:53:58.019000Z",
     "updated_at": "2026-09-22T18:54:12.337000Z",

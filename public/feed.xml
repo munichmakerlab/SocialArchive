@@ -6,12 +6,21 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 29 Sep 2026 09:50:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 09:43:06 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>“Goodbye Windows, welcome Linux”Linux Installation WorkshopTo mark Digital…</title>
+    <guid isPermaLink="false">mastodon-117355610046303070</guid>
+    <link>https://chaos.social/@munichmakerlab/117355610046303070</link>
+    <pubDate>Tue, 29 Sep 2026 17:54:59 +0000</pubDate>
+    <description><![CDATA[<p>“Goodbye Windows, welcome Linux”<br />Linux Installation Workshop<br />To mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.<br />Date: October 04th, 2026<br />Time: 14:00 – 18:00<br />Location: Munich Maker Lab, Dachauer Str. 112h, 80636 Munich<br />More details: <span class="h-card" translate="no"><a href="https://social.computertruhe.de/@muenchen" class="u-url mention">@<span>muenchen</span></a></span></p>]]></description>
+    
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117355610046303070/00.png" type="image/jpeg"/>
+  </item>
   <item>
     <title>Modded 3D printer plotter in action...</title>
     <guid isPermaLink="false">mastodon-117316206745193846</guid>
