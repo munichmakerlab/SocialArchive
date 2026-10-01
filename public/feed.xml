@@ -6,12 +6,21 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 30 Sep 2026 09:43:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 10:09:03 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>During the hot summer months, some of our members renovated these garden seats…</title>
+    <guid isPermaLink="false">mastodon-117360100167008164</guid>
+    <link>https://chaos.social/@munichmakerlab/117360100167008164</link>
+    <pubDate>Wed, 30 Sep 2026 12:56:52 +0000</pubDate>
+    <description><![CDATA[<p>During the hot summer months, some of our members renovated these garden seats and replaced our old, broken benches with them. It took quite some effort, but the result is very nice!</p><p><a href="https://chaos.social/tags/DIY" class="mention hashtag" rel="tag">#<span>DIY</span></a> <a href="https://chaos.social/tags/renovation" class="mention hashtag" rel="tag">#<span>renovation</span></a> <a href="https://chaos.social/tags/community" class="mention hashtag" rel="tag">#<span>community</span></a> <a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a></p>]]></description>
+    <category>diy</category><category>renovation</category><category>community</category><category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117360100167008164/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117360100167008164/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117360100167008164/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117360100167008164/03.jpg" type="image/jpeg"/>
+  </item>
   <item>
     <title>“Goodbye Windows, welcome Linux”Linux Installation WorkshopTo mark Digital…</title>
     <guid isPermaLink="false">mastodon-117355610046303070</guid>

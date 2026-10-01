@@ -1,20 +1,20 @@
 {
-  "id": "117316191896683196",
-  "created_at": "2026-09-22T18:50:25.774Z",
+  "id": "117360100167008164",
+  "created_at": "2026-09-30T12:56:52.806Z",
   "in_reply_to_id": null,
   "in_reply_to_account_id": null,
   "sensitive": false,
   "spoiler_text": "",
   "visibility": "public",
   "language": "en",
-  "uri": "https://chaos.social/users/munichmakerlab/statuses/117316191896683196",
-  "url": "https://chaos.social/@munichmakerlab/117316191896683196",
+  "uri": "https://chaos.social/users/munichmakerlab/statuses/117360100167008164",
+  "url": "https://chaos.social/@munichmakerlab/117360100167008164",
   "replies_count": 0,
-  "reblogs_count": 1,
-  "favourites_count": 5,
+  "reblogs_count": 2,
+  "favourites_count": 7,
   "quotes_count": 0,
   "edited_at": null,
-  "content": "<p>Sometimes the flu turns into maker time. One of our members spent his sick days modding his 3D printer to hold a pen and writing custom plotter software, with help from one of the latest AI models. It has presets for paper games and of course, proper Bavarian language support. Priorities.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a> <a href=\"https://chaos.social/tags/plotter\" class=\"mention hashtag\" rel=\"tag\">#<span>plotter</span></a> <a href=\"https://chaos.social/tags/aitools\" class=\"mention hashtag\" rel=\"tag\">#<span>aitools</span></a></p>",
+  "content": "<p>During the hot summer months, some of our members renovated these garden seats and replaced our old, broken benches with them. It took quite some effort, but the result is very nice!</p><p><a href=\"https://chaos.social/tags/DIY\" class=\"mention hashtag\" rel=\"tag\">#<span>DIY</span></a> <a href=\"https://chaos.social/tags/renovation\" class=\"mention hashtag\" rel=\"tag\">#<span>renovation</span></a> <a href=\"https://chaos.social/tags/community\" class=\"mention hashtag\" rel=\"tag\">#<span>community</span></a> <a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a></p>",
   "reblog": null,
   "application": {
     "name": "Web",
@@ -73,68 +73,18 @@
   },
   "media_attachments": [
     {
-      "id": "117316183094267891",
+      "id": "117360097894472649",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/316/183/094/267/891/original/da12eeb90bcf85f7.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/183/094/267/891/small/da12eeb90bcf85f7.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/894/472/649/original/420c3332be035fa6.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/894/472/649/small/420c3332be035fa6.jpg",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 2494,
-          "height": 3325,
-          "size": "2494x3325",
-          "aspect": 0.7500751879699248
-        },
-        "small": {
-          "width": 416,
-          "height": 554,
-          "size": "416x554",
-          "aspect": 0.7509025270758123
-        }
-      },
-      "description": null,
-      "blurhash": "UMEL?I~AVX-oXUNKkqtSIANIt7nh-:ozROM{"
-    },
-    {
-      "id": "117316183132020871",
-      "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/316/183/132/020/871/original/6ec56e608a74890b.png",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/183/132/020/871/small/6ec56e608a74890b.png",
-      "remote_url": null,
-      "preview_remote_url": null,
-      "text_url": null,
-      "meta": {
-        "original": {
-          "width": 2494,
-          "height": 3325,
-          "size": "2494x3325",
-          "aspect": 0.7500751879699248
-        },
-        "small": {
-          "width": 416,
-          "height": 554,
-          "size": "416x554",
-          "aspect": 0.7509025270758123
-        }
-      },
-      "description": null,
-      "blurhash": "UBK1Uc-;j[-q0JM{Rjof9ExuRjj[IUWBWBWC"
-    },
-    {
-      "id": "117316190820823345",
-      "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/316/190/820/823/345/original/46310c10b98be752.jpeg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/190/820/823/345/small/46310c10b98be752.jpeg",
-      "remote_url": null,
-      "preview_remote_url": null,
-      "text_url": null,
-      "meta": {
-        "original": {
-          "width": 1920,
-          "height": 1080,
-          "size": "1920x1080",
+          "width": 3840,
+          "height": 2160,
+          "size": "3840x2160",
           "aspect": 1.7777777777777777
         },
         "small": {
@@ -145,36 +95,98 @@
         }
       },
       "description": null,
-      "blurhash": "U23+K2%QDgIRt9n$acS%I;N_t8xbW9bbohni"
+      "blurhash": "UXEV$x01adozM{xuWBofM{oet8Rjaeayofay"
     },
     {
-      "id": "117316183018451823",
+      "id": "117360097907240516",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/316/183/018/451/823/original/f62fcc829b4b2536.png",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/183/018/451/823/small/f62fcc829b4b2536.png",
+      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/907/240/516/original/4d148ee4baf8fde9.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/907/240/516/small/4d148ee4baf8fde9.jpg",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 115,
-          "height": 155,
-          "size": "115x155",
-          "aspect": 0.7419354838709677
+          "width": 3325,
+          "height": 2494,
+          "size": "3325x2494",
+          "aspect": 1.3331996792301524
         },
         "small": {
-          "width": 115,
-          "height": 155,
-          "size": "115x155",
-          "aspect": 0.7419354838709677
+          "width": 554,
+          "height": 416,
+          "size": "554x416",
+          "aspect": 1.3317307692307692
         }
       },
       "description": null,
-      "blurhash": "U26a@wt60000XW%gD$xuJFD$-;oeD-%NMxtQ"
+      "blurhash": "UMFO.I9bX3M{_MIqs*RjOZWq$|fSROxaozog"
+    },
+    {
+      "id": "117360097918778755",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/918/778/755/original/6ed086059347e2a8.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/918/778/755/small/6ed086059347e2a8.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 3840,
+          "height": 2160,
+          "size": "3840x2160",
+          "aspect": 1.7777777777777777
+        },
+        "small": {
+          "width": 640,
+          "height": 360,
+          "size": "640x360",
+          "aspect": 1.7777777777777777
+        }
+      },
+      "description": null,
+      "blurhash": "UGH_b,0M?IRl57s+IVIobukCaN?a4:Rk%2oz"
+    },
+    {
+      "id": "117360097790524006",
+      "type": "image",
+      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/790/524/006/original/79de4ad0f13c7c4c.jpg",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/790/524/006/small/79de4ad0f13c7c4c.jpg",
+      "remote_url": null,
+      "preview_remote_url": null,
+      "text_url": null,
+      "meta": {
+        "original": {
+          "width": 3325,
+          "height": 2494,
+          "size": "3325x2494",
+          "aspect": 1.3331996792301524
+        },
+        "small": {
+          "width": 554,
+          "height": 416,
+          "size": "554x416",
+          "aspect": 1.3317307692307692
+        }
+      },
+      "description": null,
+      "blurhash": "UBHB*xHq%Nxu%VX9xvnMyXX.xtxb-M%Kx[f."
     }
   ],
   "mentions": [],
   "tags": [
+    {
+      "name": "diy",
+      "url": "https://chaos.social/tags/diy"
+    },
+    {
+      "name": "renovation",
+      "url": "https://chaos.social/tags/renovation"
+    },
+    {
+      "name": "community",
+      "url": "https://chaos.social/tags/community"
+    },
     {
       "name": "hackerspace",
       "url": "https://chaos.social/tags/hackerspace"
@@ -206,18 +218,6 @@
     {
       "name": "diymunich",
       "url": "https://chaos.social/tags/diymunich"
-    },
-    {
-      "name": "3dprinting",
-      "url": "https://chaos.social/tags/3dprinting"
-    },
-    {
-      "name": "plotter",
-      "url": "https://chaos.social/tags/plotter"
-    },
-    {
-      "name": "aitools",
-      "url": "https://chaos.social/tags/aitools"
     }
   ],
   "emojis": [],

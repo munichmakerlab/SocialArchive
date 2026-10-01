@@ -1,0 +1,140 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mwqfhk3ljs2k",
+    "cid": "bafyreiehh6qdldwmctyk3ylzzh7ph3wmmo64keb4wps4tohlbmmmsfnpxm",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-30T12:58:28.411Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicj4hcibp2w6o6wilxxnocwv5eff33rlecge7qrjerst2frz7gxay"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1987813
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2250,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibe4xz7wlcbd3wcaqywqu52cmzp6kgxeuts52irsomsq2tryqtn6a"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1964193
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicfcmxo3fbrsubdimaxxvj26md5k7pmgd4zmvinwmtmw2fb2inmmi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1997033
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2250,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiczoexmbdejoa4ytetpevs3tadwuqe6ole4th3crpg6nk4fj5gi5y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1988880
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "During the hot summer months, some of our members restored these garden seats to replace our old, broken benches. It was not a small job, but the result was well worth the effort!"
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicj4hcibp2w6o6wilxxnocwv5eff33rlecge7qrjerst2frz7gxay",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicj4hcibp2w6o6wilxxnocwv5eff33rlecge7qrjerst2frz7gxay",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibe4xz7wlcbd3wcaqywqu52cmzp6kgxeuts52irsomsq2tryqtn6a",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibe4xz7wlcbd3wcaqywqu52cmzp6kgxeuts52irsomsq2tryqtn6a",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2250,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicfcmxo3fbrsubdimaxxvj26md5k7pmgd4zmvinwmtmw2fb2inmmi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreicfcmxo3fbrsubdimaxxvj26md5k7pmgd4zmvinwmtmw2fb2inmmi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiczoexmbdejoa4ytetpevs3tadwuqe6ole4th3crpg6nk4fj5gi5y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiczoexmbdejoa4ytetpevs3tadwuqe6ole4th3crpg6nk4fj5gi5y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2250,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-09-30T12:59:03.759Z",
+    "labels": []
+  }
+}
