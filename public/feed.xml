@@ -6,12 +6,21 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 01 Oct 2026 10:09:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 09:47:05 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>Running local AI models made one member's laptop run hot and slow. His…</title>
+    <guid isPermaLink="false">mastodon-117366883836053374</guid>
+    <link>https://chaos.social/@munichmakerlab/117366883836053374</link>
+    <pubDate>Thu, 01 Oct 2026 17:42:03 +0000</pubDate>
+    <description><![CDATA[<p>Running local AI models made one member&#39;s laptop run hot and slow. His solution: a custom fan-based cooling stand, now on version 2. The project also gave him plenty of practice with CAD modelling and splitting a large design for a smaller 3D printer.</p><p><a href="https://chaos.social/tags/localai" class="mention hashtag" rel="tag">#<span>localai</span></a> <a href="https://chaos.social/tags/3dprinting" class="mention hashtag" rel="tag">#<span>3dprinting</span></a> <a href="https://chaos.social/tags/cad" class="mention hashtag" rel="tag">#<span>cad</span></a> <a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a></p>]]></description>
+    <category>localai</category><category>3dprinting</category><category>cad</category><category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117366883836053374/00.png" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117366883836053374/01.png" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117366883836053374/02.png" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117366883836053374/03.png" type="image/jpeg"/>
+  </item>
   <item>
     <title>During the hot summer months, some of our members renovated these garden seats…</title>
     <guid isPermaLink="false">mastodon-117360100167008164</guid>

@@ -1,5 +1,63 @@
 [
   {
+    "id": "mastodon-117366883836053374",
+    "published_at": "2026-10-01T17:42:03.383000Z",
+    "updated_at": "2026-10-01T17:42:56.975000Z",
+    "text": "Running local AI models made one member's laptop run hot and slow. His solution: a custom fan-based cooling stand, now on version 2. The project also gave him plenty of practice with CAD modelling and splitting a large design for a smaller 3D printer.\n#localai #3dprinting #cad #hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich",
+    "html": "<p>Running local AI models made one member&#39;s laptop run hot and slow. His solution: a custom fan-based cooling stand, now on version 2. The project also gave him plenty of practice with CAD modelling and splitting a large design for a smaller 3D printer.</p><p><a href=\"https://chaos.social/tags/localai\" class=\"mention hashtag\" rel=\"tag\">#<span>localai</span></a> <a href=\"https://chaos.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a> <a href=\"https://chaos.social/tags/cad\" class=\"mention hashtag\" rel=\"tag\">#<span>cad</span></a> <a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117366883836053374",
+        "url": "https://chaos.social/@munichmakerlab/117366883836053374"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mwtft5htdc22",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mwtft5htdc22"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117366883836053374/00.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/366/877/566/182/151/original/874e9386dce5a0dd.png",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117366883836053374/01.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/366/883/115/174/999/original/8df205ac8b9a3345.png",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117366883836053374/02.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/366/878/088/914/803/original/f5429c7b817b4cd4.png",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117366883836053374/03.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/366/880/156/594/636/original/df96234839ceab8d.png",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "localai",
+      "3dprinting",
+      "cad",
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich"
+    ]
+  },
+  {
     "id": "mastodon-117360100167008164",
     "published_at": "2026-09-30T12:56:52.806000Z",
     "updated_at": "2026-09-30T12:58:28.411000Z",

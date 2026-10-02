@@ -1,20 +1,20 @@
 {
-  "id": "117360100167008164",
-  "created_at": "2026-09-30T12:56:52.806Z",
+  "id": "117366883836053374",
+  "created_at": "2026-10-01T17:42:03.383Z",
   "in_reply_to_id": null,
   "in_reply_to_account_id": null,
   "sensitive": false,
   "spoiler_text": "",
   "visibility": "public",
   "language": "en",
-  "uri": "https://chaos.social/users/munichmakerlab/statuses/117360100167008164",
-  "url": "https://chaos.social/@munichmakerlab/117360100167008164",
+  "uri": "https://chaos.social/users/munichmakerlab/statuses/117366883836053374",
+  "url": "https://chaos.social/@munichmakerlab/117366883836053374",
   "replies_count": 0,
-  "reblogs_count": 2,
-  "favourites_count": 7,
+  "reblogs_count": 0,
+  "favourites_count": 0,
   "quotes_count": 0,
   "edited_at": null,
-  "content": "<p>During the hot summer months, some of our members renovated these garden seats and replaced our old, broken benches with them. It took quite some effort, but the result is very nice!</p><p><a href=\"https://chaos.social/tags/DIY\" class=\"mention hashtag\" rel=\"tag\">#<span>DIY</span></a> <a href=\"https://chaos.social/tags/renovation\" class=\"mention hashtag\" rel=\"tag\">#<span>renovation</span></a> <a href=\"https://chaos.social/tags/community\" class=\"mention hashtag\" rel=\"tag\">#<span>community</span></a> <a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a></p>",
+  "content": "<p>Running local AI models made one member&#39;s laptop run hot and slow. His solution: a custom fan-based cooling stand, now on version 2. The project also gave him plenty of practice with CAD modelling and splitting a large design for a smaller 3D printer.</p><p><a href=\"https://chaos.social/tags/localai\" class=\"mention hashtag\" rel=\"tag\">#<span>localai</span></a> <a href=\"https://chaos.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a> <a href=\"https://chaos.social/tags/cad\" class=\"mention hashtag\" rel=\"tag\">#<span>cad</span></a> <a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a></p>",
   "reblog": null,
   "application": {
     "name": "Web",
@@ -73,119 +73,119 @@
   },
   "media_attachments": [
     {
-      "id": "117360097894472649",
+      "id": "117366877566182151",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/894/472/649/original/420c3332be035fa6.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/894/472/649/small/420c3332be035fa6.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/366/877/566/182/151/original/874e9386dce5a0dd.png",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/366/877/566/182/151/small/874e9386dce5a0dd.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 3840,
-          "height": 2160,
-          "size": "3840x2160",
-          "aspect": 1.7777777777777777
+          "width": 1366,
+          "height": 980,
+          "size": "1366x980",
+          "aspect": 1.3938775510204082
         },
         "small": {
-          "width": 640,
-          "height": 360,
-          "size": "640x360",
-          "aspect": 1.7777777777777777
+          "width": 567,
+          "height": 407,
+          "size": "567x407",
+          "aspect": 1.393120393120393
         }
       },
       "description": null,
-      "blurhash": "UXEV$x01adozM{xuWBofM{oet8Rjaeayofay"
+      "blurhash": "UJQJfS-:~oxuR*-:IUM|-:-:D*t69G?at6M|"
     },
     {
-      "id": "117360097907240516",
+      "id": "117366883115174999",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/907/240/516/original/4d148ee4baf8fde9.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/907/240/516/small/4d148ee4baf8fde9.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/366/883/115/174/999/original/8df205ac8b9a3345.png",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/366/883/115/174/999/small/8df205ac8b9a3345.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 3325,
-          "height": 2494,
-          "size": "3325x2494",
-          "aspect": 1.3331996792301524
+          "width": 810,
+          "height": 1080,
+          "size": "810x1080",
+          "aspect": 0.75
         },
         "small": {
-          "width": 554,
-          "height": 416,
-          "size": "554x416",
-          "aspect": 1.3317307692307692
+          "width": 416,
+          "height": 554,
+          "size": "416x554",
+          "aspect": 0.7509025270758123
         }
       },
       "description": null,
-      "blurhash": "UMFO.I9bX3M{_MIqs*RjOZWq$|fSROxaozog"
+      "blurhash": "UMIOB~-=-nWTAL%hE2k9-hWTNJt80KM_-ot8"
     },
     {
-      "id": "117360097918778755",
+      "id": "117366878088914803",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/918/778/755/original/6ed086059347e2a8.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/918/778/755/small/6ed086059347e2a8.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/366/878/088/914/803/original/f5429c7b817b4cd4.png",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/366/878/088/914/803/small/f5429c7b817b4cd4.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 3840,
-          "height": 2160,
-          "size": "3840x2160",
-          "aspect": 1.7777777777777777
+          "width": 3627,
+          "height": 2287,
+          "size": "3627x2287",
+          "aspect": 1.5859204197638828
         },
         "small": {
-          "width": 640,
-          "height": 360,
-          "size": "640x360",
-          "aspect": 1.7777777777777777
+          "width": 604,
+          "height": 381,
+          "size": "604x381",
+          "aspect": 1.5853018372703411
         }
       },
       "description": null,
-      "blurhash": "UGH_b,0M?IRl57s+IVIobukCaN?a4:Rk%2oz"
+      "blurhash": "UZHCAtRj-;%NayofxuIU_NRjIToft7jtayWB"
     },
     {
-      "id": "117360097790524006",
+      "id": "117366880156594636",
       "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/360/097/790/524/006/original/79de4ad0f13c7c4c.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/360/097/790/524/006/small/79de4ad0f13c7c4c.jpg",
+      "url": "https://assets.chaos.social/media_attachments/files/117/366/880/156/594/636/original/df96234839ceab8d.png",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/366/880/156/594/636/small/df96234839ceab8d.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 3325,
-          "height": 2494,
-          "size": "3325x2494",
-          "aspect": 1.3331996792301524
+          "width": 3627,
+          "height": 2287,
+          "size": "3627x2287",
+          "aspect": 1.5859204197638828
         },
         "small": {
-          "width": 554,
-          "height": 416,
-          "size": "554x416",
-          "aspect": 1.3317307692307692
+          "width": 604,
+          "height": 381,
+          "size": "604x381",
+          "aspect": 1.5853018372703411
         }
       },
       "description": null,
-      "blurhash": "UBHB*xHq%Nxu%VX9xvnMyXX.xtxb-M%Kx[f."
+      "blurhash": "UZHCAtRj-;%NayofxuIU_NRjIToft7jtayWB"
     }
   ],
   "mentions": [],
   "tags": [
     {
-      "name": "diy",
-      "url": "https://chaos.social/tags/diy"
+      "name": "localai",
+      "url": "https://chaos.social/tags/localai"
     },
     {
-      "name": "renovation",
-      "url": "https://chaos.social/tags/renovation"
+      "name": "3dprinting",
+      "url": "https://chaos.social/tags/3dprinting"
     },
     {
-      "name": "community",
-      "url": "https://chaos.social/tags/community"
+      "name": "cad",
+      "url": "https://chaos.social/tags/cad"
     },
     {
       "name": "hackerspace",
