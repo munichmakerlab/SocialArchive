@@ -1,20 +1,20 @@
 {
-  "id": "117151057855799551",
-  "created_at": "2026-08-24T14:54:40.278Z",
+  "id": "117372696532747679",
+  "created_at": "2026-10-02T18:20:18.095Z",
   "in_reply_to_id": null,
   "in_reply_to_account_id": null,
   "sensitive": false,
   "spoiler_text": "",
   "visibility": "public",
   "language": "en",
-  "uri": "https://chaos.social/users/munichmakerlab/statuses/117151057855799551",
-  "url": "https://chaos.social/@munichmakerlab/117151057855799551",
-  "replies_count": 5,
-  "reblogs_count": 22,
-  "favourites_count": 67,
+  "uri": "https://chaos.social/users/munichmakerlab/statuses/117372696532747679",
+  "url": "https://chaos.social/@munichmakerlab/117372696532747679",
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
   "quotes_count": 0,
   "edited_at": null,
-  "content": "<p>Look who just came around the corner, it&#39;s Wall-E!<br />This little robot is one of our members&#39; projects, and he is currently working on his autonomous capabilities so he can drive around without external help.<br /><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/robotics\" class=\"mention hashtag\" rel=\"tag\">#<span>robotics</span></a> <a href=\"https://chaos.social/tags/autonomy\" class=\"mention hashtag\" rel=\"tag\">#<span>autonomy</span></a> <a href=\"https://chaos.social/tags/makers\" class=\"mention hashtag\" rel=\"tag\">#<span>makers</span></a></p>",
+  "content": "<p>One of our members is turning a Mini 4WD car into a track analyser. A sensor and battery mounted in the car&#39;s body record movement data during a run, helping him compare chassis setups and tune the car for the track.</p><p>The latest version sends live data over Bluetooth. In the video, you can see the car move and watch the sensor readings come in.<br /><a href=\"https://chaos.social/tags/mini4wd\" class=\"mention hashtag\" rel=\"tag\">#<span>mini4wd</span></a> <a href=\"https://chaos.social/tags/sensors\" class=\"mention hashtag\" rel=\"tag\">#<span>sensors</span></a> <a href=\"https://chaos.social/tags/vehicledata\" class=\"mention hashtag\" rel=\"tag\">#<span>vehicledata</span></a> <a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a></p>",
   "reblog": null,
   "application": {
     "name": "Web",
@@ -73,33 +73,46 @@
   },
   "media_attachments": [
     {
-      "id": "117151056391949851",
-      "type": "image",
-      "url": "https://assets.chaos.social/media_attachments/files/117/151/056/391/949/851/original/dbf8faa851218e09.jpg",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/151/056/391/949/851/small/dbf8faa851218e09.jpg",
+      "id": "117372695777460587",
+      "type": "video",
+      "url": "https://assets.chaos.social/media_attachments/files/117/372/695/777/460/587/original/d675484c09522eaf.mp4",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/372/695/777/460/587/small/d675484c09522eaf.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
       "meta": {
         "original": {
-          "width": 2494,
-          "height": 3325,
-          "size": "2494x3325",
-          "aspect": 0.7500751879699248
+          "width": 720,
+          "height": 1280,
+          "frame_rate": "30/1",
+          "duration": 33.889932,
+          "bitrate": 3764160
         },
         "small": {
-          "width": 416,
-          "height": 554,
-          "size": "416x554",
-          "aspect": 0.7509025270758123
+          "width": 360,
+          "height": 640,
+          "size": "360x640",
+          "aspect": 0.5625
         }
       },
       "description": null,
-      "blurhash": "UGHBYmvJIdRV]%wH%JxtN}Iq%JbDs}afIcNH"
+      "blurhash": "UGG8[-~o?E?a4sI9RixtM^s:9aDj,%9dM~j]"
     }
   ],
   "mentions": [],
   "tags": [
+    {
+      "name": "mini4wd",
+      "url": "https://chaos.social/tags/mini4wd"
+    },
+    {
+      "name": "sensors",
+      "url": "https://chaos.social/tags/sensors"
+    },
+    {
+      "name": "VehicleData",
+      "url": "https://chaos.social/tags/VehicleData"
+    },
     {
       "name": "hackerspace",
       "url": "https://chaos.social/tags/hackerspace"
@@ -131,18 +144,6 @@
     {
       "name": "diymunich",
       "url": "https://chaos.social/tags/diymunich"
-    },
-    {
-      "name": "robotics",
-      "url": "https://chaos.social/tags/robotics"
-    },
-    {
-      "name": "autonomy",
-      "url": "https://chaos.social/tags/autonomy"
-    },
-    {
-      "name": "makers",
-      "url": "https://chaos.social/tags/makers"
     }
   ],
   "emojis": [],

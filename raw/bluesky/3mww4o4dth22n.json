@@ -1,0 +1,166 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mww4o4dth22n",
+    "cid": "bafyreiguowqo4gxhz6ebbdkdkrehbpxwb3rao6peynl5jffi5f5cmue3t4",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-02T19:37:03.682Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia4f4utr63wizafemyrohz65hznai72vt25aqpzlog5nba4trexha"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1530320
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "hackerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 186
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "makerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 210,
+            "byteStart": 199
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "openworkshop"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 211
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MunichMakerLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 240,
+            "byteStart": 225
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MuMaLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 249,
+            "byteStart": 241
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DIYMunich"
+            }
+          ],
+          "index": {
+            "byteEnd": 260,
+            "byteStart": 250
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "octoberevents"
+            }
+          ],
+          "index": {
+            "byteEnd": 275,
+            "byteStart": 261
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "munichevents"
+            }
+          ],
+          "index": {
+            "byteEnd": 289,
+            "byteStart": 276
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "October has arrived, bringing spooky season to the lab. Alongside our usual workshops and meetups, we might just have a few tricks up our sleeve.\n\nOpen Community Days: Thursdays @ 18:00\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #DIYMunich #octoberevents #munichevents"
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreia4f4utr63wizafemyrohz65hznai72vt25aqpzlog5nba4trexha",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreia4f4utr63wizafemyrohz65hznai72vt25aqpzlog5nba4trexha",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1920
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-02T19:36:29.561Z",
+    "labels": []
+  }
+}

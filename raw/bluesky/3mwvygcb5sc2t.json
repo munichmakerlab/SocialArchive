@@ -1,0 +1,61 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mwvygcb5sc2t",
+    "cid": "bafyreiafesx7j3mq6jl4ye7fwkth6j5eovfkbnhzwvrsn2sxsc4pgdgc7m",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-02T18:21:06.485Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreiev7ujazygs6sagqblzrmgrwpfgh6juycn4dpolhtcmzkbo5m7ly4"
+          },
+          "mimeType": "video/mp4",
+          "size": 13345859
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "One of our members is turning a Mini 4WD car into a track analyser. A sensor and battery mounted in the car's body record movement data during a run, helping him compare chassis setups and tune the car for the track."
+    },
+    "embed": {
+      "cid": "bafkreiev7ujazygs6sagqblzrmgrwpfgh6juycn4dpolhtcmzkbo5m7ly4",
+      "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiev7ujazygs6sagqblzrmgrwpfgh6juycn4dpolhtcmzkbo5m7ly4/playlist.m3u8",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiev7ujazygs6sagqblzrmgrwpfgh6juycn4dpolhtcmzkbo5m7ly4/thumbnail.jpg",
+      "aspectRatio": {
+        "height": 1280,
+        "width": 720
+      },
+      "presentation": "default",
+      "$type": "app.bsky.embed.video#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-02T18:21:07.066Z",
+    "labels": []
+  }
+}

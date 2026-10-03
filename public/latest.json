@@ -1,5 +1,85 @@
 [
   {
+    "id": "mastodon-117372988505411551",
+    "published_at": "2026-10-02T19:34:33.245000Z",
+    "updated_at": "2026-10-02T19:37:03.682000Z",
+    "text": "October has arrived, which means spooky season is officially here (even if the schedule is a little late😅) Alongside our regular lineup of workshops, meetups, and community sessions, we might just have a few tricks up our sleeve, so keep an eye out. \nFor full details and event registration, visit munichmakerlab.de/events\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #halloween #octoberevents #munichevents",
+    "html": "<p>October has arrived, which means spooky season is officially here (even if the schedule is a little late😅) Alongside our regular lineup of workshops, meetups, and community sessions, we might just have a few tricks up our sleeve, so keep an eye out. </p><p>For full details and event registration, visit munichmakerlab.de/events</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/halloween\" class=\"mention hashtag\" rel=\"tag\">#<span>halloween</span></a> <a href=\"https://chaos.social/tags/octoberevents\" class=\"mention hashtag\" rel=\"tag\">#<span>octoberevents</span></a> <a href=\"https://chaos.social/tags/munichevents\" class=\"mention hashtag\" rel=\"tag\">#<span>munichevents</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117372988505411551",
+        "url": "https://chaos.social/@munichmakerlab/117372988505411551"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mww4o4dth22n",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mww4o4dth22n"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117372988505411551/00.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/372/983/862/328/505/original/286b403188ed5eb4.png",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "halloween",
+      "octoberevents",
+      "munichevents"
+    ]
+  },
+  {
+    "id": "mastodon-117372696532747679",
+    "published_at": "2026-10-02T18:20:18.095000Z",
+    "updated_at": "2026-10-02T18:21:06.485000Z",
+    "text": "One of our members is turning a Mini 4WD car into a track analyser. A sensor and battery mounted in the car's body record movement data during a run, helping him compare chassis setups and tune the car for the track.\nThe latest version sends live data over Bluetooth. In the video, you can see the car move and watch the sensor readings come in.#mini4wd #sensors #vehicledata #hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich",
+    "html": "<p>One of our members is turning a Mini 4WD car into a track analyser. A sensor and battery mounted in the car&#39;s body record movement data during a run, helping him compare chassis setups and tune the car for the track.</p><p>The latest version sends live data over Bluetooth. In the video, you can see the car move and watch the sensor readings come in.<br /><a href=\"https://chaos.social/tags/mini4wd\" class=\"mention hashtag\" rel=\"tag\">#<span>mini4wd</span></a> <a href=\"https://chaos.social/tags/sensors\" class=\"mention hashtag\" rel=\"tag\">#<span>sensors</span></a> <a href=\"https://chaos.social/tags/vehicledata\" class=\"mention hashtag\" rel=\"tag\">#<span>vehicledata</span></a> <a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117372696532747679",
+        "url": "https://chaos.social/@munichmakerlab/117372696532747679"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mwvygcb5sc2t",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mwvygcb5sc2t"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://assets.chaos.social/media_attachments/files/117/372/695/777/460/587/original/d675484c09522eaf.mp4",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/372/695/777/460/587/original/d675484c09522eaf.mp4",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "mini4wd",
+      "sensors",
+      "VehicleData",
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich"
+    ]
+  },
+  {
     "id": "mastodon-117366883836053374",
     "published_at": "2026-10-01T17:42:03.383000Z",
     "updated_at": "2026-10-01T17:42:56.975000Z",
@@ -820,87 +900,6 @@
       "linux",
       "digitalindependence",
       "foss"
-    ]
-  },
-  {
-    "id": "bluesky-3mrxblb57ds2t",
-    "published_at": "2026-07-31T15:31:38.352000Z",
-    "updated_at": "2026-07-31T15:31:38.352000Z",
-    "text": "August is almost here, and so are our\ncommunity events!\n\nWe have plenty of great events coming up this month.\nJoin our Slack or stop by during one of our open days\nto learn more, meet the community and get involved.\n\n#makerspace #openworkshop #MunichMakerLab\n#MuMaLab #community #events #munich",
-    "html": "<p>August is almost here, and so are our</p><p>community events!</p><p>We have plenty of great events coming up this month.</p><p>Join our Slack or stop by during one of our open days</p><p>to learn more, meet the community and get involved.</p><p>#makerspace #openworkshop #MunichMakerLab</p><p>#MuMaLab #community #events #munich</p>",
-    "sources": [
-      {
-        "platform": "bluesky",
-        "id": "3mrxblb57ds2t",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mrxblb57ds2t"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/bluesky-3mrxblb57ds2t/00.jpg",
-        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifvi2t3ouihspqzexr2obrv232emw5reoh6n3hguckwtudcuytjle",
-        "alt": null
-      }
-    ],
-    "tags": []
-  },
-  {
-    "id": "mastodon-116999306653587443",
-    "published_at": "2026-07-28T19:41:34.996000Z",
-    "updated_at": "2026-07-28T19:42:20.694000Z",
-    "text": "One of our members has kindly lent an embroidery machine to the lab.\nHere it is in action...\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #embroidery #textileart #makers",
-    "html": "<p>One of our members has kindly lent an embroidery machine to the lab.</p><p>Here it is in action...</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/embroidery\" class=\"mention hashtag\" rel=\"tag\">#<span>embroidery</span></a> <a href=\"https://chaos.social/tags/textileart\" class=\"mention hashtag\" rel=\"tag\">#<span>textileart</span></a> <a href=\"https://chaos.social/tags/makers\" class=\"mention hashtag\" rel=\"tag\">#<span>makers</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "116999306653587443",
-        "url": "https://chaos.social/@munichmakerlab/116999306653587443"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mrq65gt6ok2q",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mrq65gt6ok2q"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116999306653587443/00.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/999/306/242/930/838/original/68b9aeed23f2b360.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116999306653587443/01.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/999/304/092/768/056/original/7749029b7c8c8db7.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116999306653587443/02.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/999/304/225/739/869/original/f6a19d7ff27fc176.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-116999306653587443/03.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/116/999/304/319/773/548/original/fb24288f84860fda.jpg",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "embroidery",
-      "textileart",
-      "makers"
     ]
   }
 ]

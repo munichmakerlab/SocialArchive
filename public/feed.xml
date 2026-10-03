@@ -6,12 +6,30 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 02 Oct 2026 09:47:05 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 09:09:48 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>October has arrived, which means spooky season is officially here (even if the…</title>
+    <guid isPermaLink="false">mastodon-117372988505411551</guid>
+    <link>https://chaos.social/@munichmakerlab/117372988505411551</link>
+    <pubDate>Fri, 02 Oct 2026 19:34:33 +0000</pubDate>
+    <description><![CDATA[<p>October has arrived, which means spooky season is officially here (even if the schedule is a little late😅) Alongside our regular lineup of workshops, meetups, and community sessions, we might just have a few tricks up our sleeve, so keep an eye out. </p><p>For full details and event registration, visit munichmakerlab.de/events</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/halloween" class="mention hashtag" rel="tag">#<span>halloween</span></a> <a href="https://chaos.social/tags/octoberevents" class="mention hashtag" rel="tag">#<span>octoberevents</span></a> <a href="https://chaos.social/tags/munichevents" class="mention hashtag" rel="tag">#<span>munichevents</span></a></p>]]></description>
+    <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>halloween</category><category>octoberevents</category><category>munichevents</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117372988505411551/00.png" type="image/jpeg"/>
+  </item>
+  <item>
+    <title>One of our members is turning a Mini 4WD car into a track analyser. A sensor…</title>
+    <guid isPermaLink="false">mastodon-117372696532747679</guid>
+    <link>https://chaos.social/@munichmakerlab/117372696532747679</link>
+    <pubDate>Fri, 02 Oct 2026 18:20:18 +0000</pubDate>
+    <description><![CDATA[<p>One of our members is turning a Mini 4WD car into a track analyser. A sensor and battery mounted in the car&#39;s body record movement data during a run, helping him compare chassis setups and tune the car for the track.</p><p>The latest version sends live data over Bluetooth. In the video, you can see the car move and watch the sensor readings come in.<br /><a href="https://chaos.social/tags/mini4wd" class="mention hashtag" rel="tag">#<span>mini4wd</span></a> <a href="https://chaos.social/tags/sensors" class="mention hashtag" rel="tag">#<span>sensors</span></a> <a href="https://chaos.social/tags/vehicledata" class="mention hashtag" rel="tag">#<span>vehicledata</span></a> <a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a></p>]]></description>
+    <category>mini4wd</category><category>sensors</category><category>VehicleData</category><category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category>
+    <enclosure url="https://assets.chaos.social/media_attachments/files/117/372/695/777/460/587/original/d675484c09522eaf.mp4" type="video/mp4"/>
+  </item>
   <item>
     <title>Running local AI models made one member's laptop run hot and slow. His…</title>
     <guid isPermaLink="false">mastodon-117366883836053374</guid>
