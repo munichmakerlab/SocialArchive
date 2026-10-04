@@ -1,0 +1,68 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mwyh2terd22f",
+    "cid": "bafyreigalzwsivlntra7gvavp5efsqhb6vt545wxeajvhptioeicspzjha",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-03T17:48:27.375Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreienp3ydjbq6tjflxy35e5ia7aw3mujq6e7t5yqj2cgjdk4t4jydxy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1880176
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Remember Fluffy Furbies? This little one is in extended surgery mode and might get some new features soon.\n\nOne of our members is currently debugging the controller PCB with a logic analyzer to make it possible to control the little fluff and give it a new soul."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreienp3ydjbq6tjflxy35e5ia7aw3mujq6e7t5yqj2cgjdk4t4jydxy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreienp3ydjbq6tjflxy35e5ia7aw3mujq6e7t5yqj2cgjdk4t4jydxy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-03T17:48:37.669Z",
+    "labels": []
+  }
+}

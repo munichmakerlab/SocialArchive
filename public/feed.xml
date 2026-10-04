@@ -6,12 +6,21 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 03 Oct 2026 09:09:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 09:49:34 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>Remember Fluffy Furbies? This little one is in extended surgery mode and might…</title>
+    <guid isPermaLink="false">mastodon-117378235181572696</guid>
+    <link>https://chaos.social/@munichmakerlab/117378235181572696</link>
+    <pubDate>Sat, 03 Oct 2026 17:48:27 +0000</pubDate>
+    <description><![CDATA[<p>Remember Fluffy Furbies? This little one is in extended surgery mode and might get some new features soon.</p><p>One of our members is currently debugging the controller PCB with a logic analyzer to make it possible to control the little fluff and give it a new soul.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/furby" class="mention hashtag" rel="tag">#<span>furby</span></a> <a href="https://chaos.social/tags/reverseengineering" class="mention hashtag" rel="tag">#<span>reverseengineering</span></a> <a href="https://chaos.social/tags/embedded" class="mention hashtag" rel="tag">#<span>embedded</span></a></p>]]></description>
+    <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>furby</category><category>reverseengineering</category><category>embedded</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117378235181572696/00.jpg" type="image/jpeg"/>
+  </item>
   <item>
     <title>October has arrived, which means spooky season is officially here (even if the…</title>
     <guid isPermaLink="false">mastodon-117372988505411551</guid>

@@ -1,5 +1,45 @@
 [
   {
+    "id": "mastodon-117378235181572696",
+    "published_at": "2026-10-03T17:48:27.375000Z",
+    "updated_at": "2026-10-03T17:48:51.168000Z",
+    "text": "Remember Fluffy Furbies? This little one is in extended surgery mode and might get some new features soon.\nOne of our members is currently debugging the controller PCB with a logic analyzer to make it possible to control the little fluff and give it a new soul.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #furby #reverseengineering #embedded",
+    "html": "<p>Remember Fluffy Furbies? This little one is in extended surgery mode and might get some new features soon.</p><p>One of our members is currently debugging the controller PCB with a logic analyzer to make it possible to control the little fluff and give it a new soul.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/furby\" class=\"mention hashtag\" rel=\"tag\">#<span>furby</span></a> <a href=\"https://chaos.social/tags/reverseengineering\" class=\"mention hashtag\" rel=\"tag\">#<span>reverseengineering</span></a> <a href=\"https://chaos.social/tags/embedded\" class=\"mention hashtag\" rel=\"tag\">#<span>embedded</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117378235181572696",
+        "url": "https://chaos.social/@munichmakerlab/117378235181572696"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mwyh2terd22f",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mwyh2terd22f"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117378235181572696/00.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/378/234/945/068/555/original/d8c4bb4cf59146a6.jpg",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "furby",
+      "reverseengineering",
+      "embedded"
+    ]
+  },
+  {
     "id": "mastodon-117372988505411551",
     "published_at": "2026-10-02T19:34:33.245000Z",
     "updated_at": "2026-10-02T19:37:03.682000Z",
@@ -860,46 +900,6 @@
       "screenprinting",
       "printmaking",
       "makers"
-    ]
-  },
-  {
-    "id": "mastodon-117016549101103313",
-    "published_at": "2026-07-31T20:46:58.962000Z",
-    "updated_at": "2026-07-31T20:47:19.562000Z",
-    "text": "“Goodbye Windows, welcome Linux”Linux Installation Workshop\nTo mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.\nDate: August 2, 2026Time: 14:00 – 18:00Location: Munich Maker Lab, Dachauer Str. 112h, 80636 MunichMore details:  @muenchen \n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #linux #digitalindependence #foss",
-    "html": "<p>“Goodbye Windows, welcome Linux”<br />Linux Installation Workshop</p><p>To mark Digital Independence Day (DI-Day), Computertruhe Munich is hosting a hands-on workshop where volunteers help you install Linux Mint on your laptop.</p><p>Date: August 2, 2026<br />Time: 14:00 – 18:00<br />Location: Munich Maker Lab, Dachauer Str. 112h, 80636 Munich<br />More details:  <span class=\"h-card\" translate=\"no\"><a href=\"https://social.computertruhe.de/@muenchen\" class=\"u-url mention\">@<span>muenchen</span></a></span> </p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/linux\" class=\"mention hashtag\" rel=\"tag\">#<span>linux</span></a> <a href=\"https://chaos.social/tags/digitalindependence\" class=\"mention hashtag\" rel=\"tag\">#<span>digitalindependence</span></a> <a href=\"https://chaos.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "117016549101103313",
-        "url": "https://chaos.social/@munichmakerlab/117016549101103313"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mrxt75alfs2o",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mrxt75alfs2o"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117016549101103313/00.png",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/016/543/230/368/659/original/cf1cc4bd8ea15cbf.png",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "linux",
-      "digitalindependence",
-      "foss"
     ]
   }
 ]
