@@ -6,12 +6,30 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 04 Oct 2026 09:49:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 10:27:41 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>One of our members built a nice miniature TV for theatre.</title>
+    <guid isPermaLink="false">mastodon-117383598379232012</guid>
+    <link>https://chaos.social/@munichmakerlab/117383598379232012</link>
+    <pubDate>Sun, 04 Oct 2026 16:32:47 +0000</pubDate>
+    <description><![CDATA[<p>One of our members built a nice miniature TV for theatre.</p>]]></description>
+    
+    <enclosure url="https://assets.chaos.social/media_attachments/files/117/383/597/895/931/616/original/994c6a5aa5b95e23.mp4" type="video/mp4"/>
+  </item>
+  <item>
+    <title>One of our members built a nice miniature TV for theatre. For a small film set,…</title>
+    <guid isPermaLink="false">mastodon-117383596489851460</guid>
+    <link>https://chaos.social/@munichmakerlab/117383596489851460</link>
+    <pubDate>Sun, 04 Oct 2026 16:32:18 +0000</pubDate>
+    <description><![CDATA[<p>One of our members built a nice miniature TV for theatre.</p><p>For a small film set, they created a tiny television to play back clips during the show. It uses a Wemos D1 Mini (ESP8266) and a 1.44&quot; TFT display. The 3D-printed enclosure was designed in Blender. The device is controlled via OSC (UDP) and can play back small MJPG clips, still slideshows and some test patterns.</p><p>Check out the project on GitHub: <a href="https://github.com/sonarkon/HOPE-TV" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">github.com/sonarkon/HOPE-TV</span><span class="invisible"></span></a></p>]]></description>
+    
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117383596489851460/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117383596489851460/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117383596489851460/02.jpg" type="image/jpeg"/>
+  </item>
   <item>
     <title>Remember Fluffy Furbies? This little one is in extended surgery mode and might…</title>
     <guid isPermaLink="false">mastodon-117378235181572696</guid>

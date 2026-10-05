@@ -1,0 +1,130 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mx2tfjlw7k2z",
+    "cid": "bafyreibp5yimvh44ezsgqxidrhlalogbqqvlaso6pvdpyt43ugjas4jfeq",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-04T16:34:30.556Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiezratlywoc6pce23d7epasmqhw7zsfwvthfvhtpsu4a52k62qere"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1959517
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3999,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidt6br425fmjhjpl3y3kuxtmo635axqkxd6uzwdn7wq3jvalbuyam"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1676916
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3999,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigc42goobfippine5yvzes54k5t6pol3eulbeggbejelrc3nv4yze"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1845552
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/sonarkon/HOPE-TV"
+            }
+          ],
+          "index": {
+            "byteEnd": 268,
+            "byteStart": 242
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "One of our members built a nice miniature TV for theatre.\n\nFor a small film set, they created a tiny television to play back clips during the show. It uses a Wemos D1 Mini (ESP8266) and a 1.44\" TFT display. \n\nCheck out the project on GitHub: github.com/sonarkon/HOP..."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiezratlywoc6pce23d7epasmqhw7zsfwvthfvhtpsu4a52k62qere",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiezratlywoc6pce23d7epasmqhw7zsfwvthfvhtpsu4a52k62qere",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidt6br425fmjhjpl3y3kuxtmo635axqkxd6uzwdn7wq3jvalbuyam",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidt6br425fmjhjpl3y3kuxtmo635axqkxd6uzwdn7wq3jvalbuyam",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3999,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigc42goobfippine5yvzes54k5t6pol3eulbeggbejelrc3nv4yze",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreigc42goobfippine5yvzes54k5t6pol3eulbeggbejelrc3nv4yze",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3999,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-04T16:35:06.064Z",
+    "labels": []
+  }
+}

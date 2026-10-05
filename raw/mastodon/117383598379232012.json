@@ -1,20 +1,20 @@
 {
-  "id": "117316206745193846",
-  "created_at": "2026-09-22T18:54:12.337Z",
+  "id": "117383598379232012",
+  "created_at": "2026-10-04T16:32:47.100Z",
   "in_reply_to_id": null,
   "in_reply_to_account_id": null,
   "sensitive": false,
   "spoiler_text": "",
   "visibility": "public",
   "language": "en",
-  "uri": "https://chaos.social/users/munichmakerlab/statuses/117316206745193846",
-  "url": "https://chaos.social/@munichmakerlab/117316206745193846",
-  "replies_count": 1,
-  "reblogs_count": 0,
-  "favourites_count": 7,
+  "uri": "https://chaos.social/users/munichmakerlab/statuses/117383598379232012",
+  "url": "https://chaos.social/@munichmakerlab/117383598379232012",
+  "replies_count": 0,
+  "reblogs_count": 4,
+  "favourites_count": 9,
   "quotes_count": 0,
   "edited_at": null,
-  "content": "<p>Modded 3D printer plotter in action...</p>",
+  "content": "<p>One of our members built a nice miniature TV for theatre.</p>",
   "reblog": null,
   "application": {
     "name": "Web",
@@ -73,10 +73,10 @@
   },
   "media_attachments": [
     {
-      "id": "117316206313696780",
+      "id": "117383597895931616",
       "type": "video",
-      "url": "https://assets.chaos.social/media_attachments/files/117/316/206/313/696/780/original/9d0659db3e66908b.mp4",
-      "preview_url": "https://assets.chaos.social/media_attachments/files/117/316/206/313/696/780/small/9d0659db3e66908b.png",
+      "url": "https://assets.chaos.social/media_attachments/files/117/383/597/895/931/616/original/994c6a5aa5b95e23.mp4",
+      "preview_url": "https://assets.chaos.social/media_attachments/files/117/383/597/895/931/616/small/994c6a5aa5b95e23.png",
       "remote_url": null,
       "preview_remote_url": null,
       "text_url": null,
@@ -84,9 +84,9 @@
         "original": {
           "width": 720,
           "height": 1280,
-          "frame_rate": "40230000/1343047",
-          "duration": 30.101333,
-          "bitrate": 2565187
+          "frame_rate": "30/1",
+          "duration": 10.966667,
+          "bitrate": 3348022
         },
         "small": {
           "width": 360,
@@ -96,7 +96,7 @@
         }
       },
       "description": null,
-      "blurhash": "UgJHK@IVM{WB0KWVWCWC%2j[j[j[s:j[oLj["
+      "blurhash": "UfE.@MayM{oL01j[fPWBRPayxaof%MaxkCj]"
     }
   ],
   "mentions": [],

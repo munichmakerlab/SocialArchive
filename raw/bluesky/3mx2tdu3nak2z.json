@@ -1,0 +1,61 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mx2tdu3nak2z",
+    "cid": "bafyreig6u6nslzrv7lyv7pbgxu3szx37p5iqxlagbydq33wl4r3hwxueo4",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-04T16:33:34.499Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreibdelwknkprfdifopvxh3xuzua3hv6okokt42y5bd3grw4ntjbmsy"
+          },
+          "mimeType": "video/mp4",
+          "size": 4146555
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "One of our members built a nice miniature TV for theatre."
+    },
+    "embed": {
+      "cid": "bafkreibdelwknkprfdifopvxh3xuzua3hv6okokt42y5bd3grw4ntjbmsy",
+      "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreibdelwknkprfdifopvxh3xuzua3hv6okokt42y5bd3grw4ntjbmsy/playlist.m3u8",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreibdelwknkprfdifopvxh3xuzua3hv6okokt42y5bd3grw4ntjbmsy/thumbnail.jpg",
+      "aspectRatio": {
+        "height": 1280,
+        "width": 720
+      },
+      "presentation": "default",
+      "$type": "app.bsky.embed.video#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-04T16:33:35.261Z",
+    "labels": []
+  }
+}

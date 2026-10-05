@@ -1,5 +1,73 @@
 [
   {
+    "id": "mastodon-117383598379232012",
+    "published_at": "2026-10-04T16:32:47.100000Z",
+    "updated_at": "2026-10-04T16:34:30.556000Z",
+    "text": "One of our members built a nice miniature TV for theatre.",
+    "html": "<p>One of our members built a nice miniature TV for theatre.</p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117383598379232012",
+        "url": "https://chaos.social/@munichmakerlab/117383598379232012"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mx2tfjlw7k2z",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mx2tfjlw7k2z"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://assets.chaos.social/media_attachments/files/117/383/597/895/931/616/original/994c6a5aa5b95e23.mp4",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/597/895/931/616/original/994c6a5aa5b95e23.mp4",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117383596489851460",
+    "published_at": "2026-10-04T16:32:18.235000Z",
+    "updated_at": "2026-10-04T16:33:34.499000Z",
+    "text": "One of our members built a nice miniature TV for theatre.\nFor a small film set, they created a tiny television to play back clips during the show. It uses a Wemos D1 Mini (ESP8266) and a 1.44\" TFT display. The 3D-printed enclosure was designed in Blender. The device is controlled via OSC (UDP) and can play back small MJPG clips, still slideshows and some test patterns.\nCheck out the project on GitHub: https://github.com/sonarkon/HOPE-TV",
+    "html": "<p>One of our members built a nice miniature TV for theatre.</p><p>For a small film set, they created a tiny television to play back clips during the show. It uses a Wemos D1 Mini (ESP8266) and a 1.44&quot; TFT display. The 3D-printed enclosure was designed in Blender. The device is controlled via OSC (UDP) and can play back small MJPG clips, still slideshows and some test patterns.</p><p>Check out the project on GitHub: <a href=\"https://github.com/sonarkon/HOPE-TV\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sonarkon/HOPE-TV</span><span class=\"invisible\"></span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117383596489851460",
+        "url": "https://chaos.social/@munichmakerlab/117383596489851460"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mx2tdu3nak2z",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mx2tdu3nak2z"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117383596489851460/00.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/593/233/007/709/original/d77bf38c4add5e40.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117383596489851460/01.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/593/207/010/128/original/0c69562454cfb635.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117383596489851460/02.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/593/252/069/432/original/38f018195d12f6e2.jpg",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117378235181572696",
     "published_at": "2026-10-03T17:48:27.375000Z",
     "updated_at": "2026-10-03T17:48:51.168000Z",

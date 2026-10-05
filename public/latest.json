@@ -1,5 +1,73 @@
 [
   {
+    "id": "mastodon-117383598379232012",
+    "published_at": "2026-10-04T16:32:47.100000Z",
+    "updated_at": "2026-10-04T16:34:30.556000Z",
+    "text": "One of our members built a nice miniature TV for theatre.",
+    "html": "<p>One of our members built a nice miniature TV for theatre.</p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117383598379232012",
+        "url": "https://chaos.social/@munichmakerlab/117383598379232012"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mx2tfjlw7k2z",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mx2tfjlw7k2z"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://assets.chaos.social/media_attachments/files/117/383/597/895/931/616/original/994c6a5aa5b95e23.mp4",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/597/895/931/616/original/994c6a5aa5b95e23.mp4",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "mastodon-117383596489851460",
+    "published_at": "2026-10-04T16:32:18.235000Z",
+    "updated_at": "2026-10-04T16:33:34.499000Z",
+    "text": "One of our members built a nice miniature TV for theatre.\nFor a small film set, they created a tiny television to play back clips during the show. It uses a Wemos D1 Mini (ESP8266) and a 1.44\" TFT display. The 3D-printed enclosure was designed in Blender. The device is controlled via OSC (UDP) and can play back small MJPG clips, still slideshows and some test patterns.\nCheck out the project on GitHub: https://github.com/sonarkon/HOPE-TV",
+    "html": "<p>One of our members built a nice miniature TV for theatre.</p><p>For a small film set, they created a tiny television to play back clips during the show. It uses a Wemos D1 Mini (ESP8266) and a 1.44&quot; TFT display. The 3D-printed enclosure was designed in Blender. The device is controlled via OSC (UDP) and can play back small MJPG clips, still slideshows and some test patterns.</p><p>Check out the project on GitHub: <a href=\"https://github.com/sonarkon/HOPE-TV\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sonarkon/HOPE-TV</span><span class=\"invisible\"></span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117383596489851460",
+        "url": "https://chaos.social/@munichmakerlab/117383596489851460"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mx2tdu3nak2z",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mx2tdu3nak2z"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117383596489851460/00.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/593/233/007/709/original/d77bf38c4add5e40.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117383596489851460/01.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/593/207/010/128/original/0c69562454cfb635.jpg",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117383596489851460/02.jpg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/383/593/252/069/432/original/38f018195d12f6e2.jpg",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117378235181572696",
     "published_at": "2026-10-03T17:48:27.375000Z",
     "updated_at": "2026-10-03T17:48:51.168000Z",
@@ -784,122 +852,6 @@
       "electronics",
       "soldering",
       "upcycling"
-    ]
-  },
-  {
-    "id": "mastodon-117035995654120260",
-    "published_at": "2026-08-04T07:12:50.675000Z",
-    "updated_at": "2026-08-04T07:13:26.178000Z",
-    "text": "Some impressions from our last hands-on soldering workshop.\nWe do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #soldering #workshop #halloween",
-    "html": "<p>Some impressions from our last hands-on soldering workshop.</p><p>We do not run this workshop regularly, but a new date is planned for fall, including some special Halloween soldering kits. Stay tuned for updates.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/soldering\" class=\"mention hashtag\" rel=\"tag\">#<span>soldering</span></a> <a href=\"https://chaos.social/tags/workshop\" class=\"mention hashtag\" rel=\"tag\">#<span>workshop</span></a> <a href=\"https://chaos.social/tags/halloween\" class=\"mention hashtag\" rel=\"tag\">#<span>halloween</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "117035995654120260",
-        "url": "https://chaos.social/@munichmakerlab/117035995654120260"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3msahm3lqws23",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3msahm3lqws23"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117035995654120260/00.jpeg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/987/477/220/817/original/26b3facaabf0a92c.jpeg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117035995654120260/01.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/989/413/934/020/original/bdb3f814b3785086.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117035995654120260/02.jpeg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/989/460/959/624/original/fe2e33e3de9566bf.jpeg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117035995654120260/03.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/035/989/418/948/508/original/8775b713fc7ad847.jpg",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "soldering",
-      "workshop",
-      "halloween"
-    ]
-  },
-  {
-    "id": "mastodon-117027466560531564",
-    "published_at": "2026-08-02T19:03:46.771000Z",
-    "updated_at": "2026-08-02T19:04:10.628000Z",
-    "text": "Since a while, we have a lent screen printing machine in the lab and one of our members is currently doing a lot of experiments with it.\nHere are some impressions from the first self-made Munich Maker Lab screen and the first prints.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #screenprinting #printmaking #makers",
-    "html": "<p>Since a while, we have a lent screen printing machine in the lab and one of our members is currently doing a lot of experiments with it.</p><p>Here are some impressions from the first self-made Munich Maker Lab screen and the first prints.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/screenprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>screenprinting</span></a> <a href=\"https://chaos.social/tags/printmaking\" class=\"mention hashtag\" rel=\"tag\">#<span>printmaking</span></a> <a href=\"https://chaos.social/tags/makers\" class=\"mention hashtag\" rel=\"tag\">#<span>makers</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "117027466560531564",
-        "url": "https://chaos.social/@munichmakerlab/117027466560531564"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3ms4of5vf4k2k",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3ms4of5vf4k2k"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117027466560531564/00.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/465/466/319/271/original/35cca6b42286b20b.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117027466560531564/01.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/460/127/542/219/original/22229de3dbbea3ec.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117027466560531564/02.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/460/125/279/482/original/d303eaf338988b61.jpg",
-        "alt": null
-      },
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117027466560531564/03.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/027/462/101/208/602/original/fd2c4167cfb410ef.jpg",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "screenprinting",
-      "printmaking",
-      "makers"
     ]
   }
 ]
