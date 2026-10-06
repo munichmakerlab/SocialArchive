@@ -11,7 +11,7 @@
   "url": "https://chaos.social/@munichmakerlab/117383596489851460",
   "replies_count": 0,
   "reblogs_count": 1,
-  "favourites_count": 3,
+  "favourites_count": 4,
   "quotes_count": 0,
   "edited_at": null,
   "content": "<p>One of our members built a nice miniature TV for theatre.</p><p>For a small film set, they created a tiny television to play back clips during the show. It uses a Wemos D1 Mini (ESP8266) and a 1.44&quot; TFT display. The 3D-printed enclosure was designed in Blender. The device is controlled via OSC (UDP) and can play back small MJPG clips, still slideshows and some test patterns.</p><p>Check out the project on GitHub: <a href=\"https://github.com/sonarkon/HOPE-TV\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sonarkon/HOPE-TV</span><span class=\"invisible\"></span></a></p>",
