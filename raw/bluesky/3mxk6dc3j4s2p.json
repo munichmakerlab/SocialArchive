@@ -1,0 +1,154 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mxk6dc3j4s2p",
+    "cid": "bafyreifzwhisuef3bl65hk5qk3xbylt4x6nh34wfqz44litt2m7qgsed3m",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-10T19:00:02.836Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibqidsw5i3qlsmonrxbev7uaplgbdxowpqzu7gntxiijvnqdoiwu4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1966009
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibsx4up4lhfpvcu3naaqyayoafawpsbvvsf7iiez4c2wlyedjhiqe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1951190
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidqwrahhgnlq43j74p7z7sw6qoe6twuqpm44ngme25cz64xh4igbi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1756083
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic72q3td5v2fcehojzoe5wyhvm57727tswkog6fmvwtbgiea5qx4u"
+              },
+              "mimeType": "image/jpeg",
+              "size": 1666349
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://munichmakerlab.de/events"
+            }
+          ],
+          "index": {
+            "byteEnd": 272,
+            "byteStart": 248
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The SO-101 Robot Arm is an open-sourceproject for learning AI robotics.\n\nMembers are building their own arms and training them with LeRobot to pick up cubes automatically. \n\nOur robots and drones meetup works on projects like this regularly. Check munichmakerlab.de/events for dates."
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibqidsw5i3qlsmonrxbev7uaplgbdxowpqzu7gntxiijvnqdoiwu4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibqidsw5i3qlsmonrxbev7uaplgbdxowpqzu7gntxiijvnqdoiwu4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibsx4up4lhfpvcu3naaqyayoafawpsbvvsf7iiez4c2wlyedjhiqe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibsx4up4lhfpvcu3naaqyayoafawpsbvvsf7iiez4c2wlyedjhiqe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidqwrahhgnlq43j74p7z7sw6qoe6twuqpm44ngme25cz64xh4igbi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidqwrahhgnlq43j74p7z7sw6qoe6twuqpm44ngme25cz64xh4igbi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic72q3td5v2fcehojzoe5wyhvm57727tswkog6fmvwtbgiea5qx4u",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic72q3td5v2fcehojzoe5wyhvm57727tswkog6fmvwtbgiea5qx4u",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-10T19:00:21.957Z",
+    "labels": []
+  }
+}

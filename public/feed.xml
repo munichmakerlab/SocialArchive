@@ -6,12 +6,30 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 10 Oct 2026 09:51:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 10:01:15 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>First steps of S0-101 robot arm to recognize cubes and place them on specific…</title>
+    <guid isPermaLink="false">bluesky-3mxk6jh7ljk2p</guid>
+    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mxk6jh7ljk2p</link>
+    <pubDate>Sat, 10 Oct 2026 19:03:29 +0000</pubDate>
+    <description><![CDATA[<p>First steps of S0-101 robot arm to recognize cubes and place them on specific place</p>]]></description>
+    
+    <enclosure url="https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza/playlist.m3u8" type="video/mp4"/>
+  </item>
+  <item>
+    <title>The SO-101 Robot Arm is an open-sourceproject for learning AI robotics. Members…</title>
+    <guid isPermaLink="false">bluesky-3mxk6dc3j4s2p</guid>
+    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mxk6dc3j4s2p</link>
+    <pubDate>Sat, 10 Oct 2026 19:00:02 +0000</pubDate>
+    <description><![CDATA[<p>The SO-101 Robot Arm is an open-sourceproject for learning AI robotics.</p><p>Members are building their own arms and training them with LeRobot to pick up cubes automatically. </p><p>Our robots and drones meetup works on projects like this regularly. Check munichmakerlab.de/events for dates.</p>]]></description>
+    
+    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/03.jpg" type="image/jpeg"/>
+  </item>
   <item>
     <title>One of our members built a nice miniature TV for theatre.</title>
     <guid isPermaLink="false">mastodon-117383598379232012</guid>

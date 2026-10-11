@@ -1,5 +1,69 @@
 [
   {
+    "id": "bluesky-3mxk6jh7ljk2p",
+    "published_at": "2026-10-10T19:03:29.559000Z",
+    "updated_at": "2026-10-10T19:03:29.559000Z",
+    "text": "First steps of S0-101 robot arm to recognize cubes and place them on specific place",
+    "html": "<p>First steps of S0-101 robot arm to recognize cubes and place them on specific place</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mxk6jh7ljk2p",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mxk6jh7ljk2p"
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza/playlist.m3u8",
+        "original_url": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza/playlist.m3u8",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "bluesky-3mxk6dc3j4s2p",
+    "published_at": "2026-10-10T19:00:02.836000Z",
+    "updated_at": "2026-10-10T19:00:02.836000Z",
+    "text": "The SO-101 Robot Arm is an open-sourceproject for learning AI robotics.\n\nMembers are building their own arms and training them with LeRobot to pick up cubes automatically. \n\nOur robots and drones meetup works on projects like this regularly. Check munichmakerlab.de/events for dates.",
+    "html": "<p>The SO-101 Robot Arm is an open-sourceproject for learning AI robotics.</p><p>Members are building their own arms and training them with LeRobot to pick up cubes automatically. </p><p>Our robots and drones meetup works on projects like this regularly. Check munichmakerlab.de/events for dates.</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3mxk6dc3j4s2p",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mxk6dc3j4s2p"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/00.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibqidsw5i3qlsmonrxbev7uaplgbdxowpqzu7gntxiijvnqdoiwu4",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/01.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreibsx4up4lhfpvcu3naaqyayoafawpsbvvsf7iiez4c2wlyedjhiqe",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/02.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreidqwrahhgnlq43j74p7z7sw6qoe6twuqpm44ngme25cz64xh4igbi",
+        "alt": null
+      },
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/03.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreic72q3td5v2fcehojzoe5wyhvm57727tswkog6fmvwtbgiea5qx4u",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117383598379232012",
     "published_at": "2026-10-04T16:32:47.100000Z",
     "updated_at": "2026-10-04T16:34:30.556000Z",

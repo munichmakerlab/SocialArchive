@@ -1,0 +1,61 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mxk6jh7ljk2p",
+    "cid": "bafyreiczhcm62eaj77xnlgplvuvdsad2eegnvt5ah4ubt7pcyetkhks6zy",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-10T19:03:29.559Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        },
+        "presentation": "default",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza"
+          },
+          "mimeType": "video/mp4",
+          "size": 9024558
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "First steps of S0-101 robot arm to recognize cubes and place them on specific place"
+    },
+    "embed": {
+      "cid": "bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza",
+      "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza/playlist.m3u8",
+      "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza/thumbnail.jpg",
+      "aspectRatio": {
+        "height": 1920,
+        "width": 1080
+      },
+      "presentation": "default",
+      "$type": "app.bsky.embed.video#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-10T19:03:28.853Z",
+    "labels": []
+  }
+}
