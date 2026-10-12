@@ -6,7 +6,7 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 11 Oct 2026 10:01:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 10:50:36 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
@@ -14,21 +14,21 @@
   </image>
   <item>
     <title>First steps of S0-101 robot arm to recognize cubes and place them on specific…</title>
-    <guid isPermaLink="false">bluesky-3mxk6jh7ljk2p</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mxk6jh7ljk2p</link>
-    <pubDate>Sat, 10 Oct 2026 19:03:29 +0000</pubDate>
+    <guid isPermaLink="false">mastodon-117418163743823465</guid>
+    <link>https://chaos.social/@munichmakerlab/117418163743823465</link>
+    <pubDate>Sat, 10 Oct 2026 19:03:12 +0000</pubDate>
     <description><![CDATA[<p>First steps of S0-101 robot arm to recognize cubes and place them on specific place</p>]]></description>
     
-    <enclosure url="https://video.bsky.app/watch/did%3Aplc%3A3zzd3bbybpcl53knpuubo23j/bafkreiageon2p3t4nxfw3duhentkqjepp276kedivnf5yzkamysmm5ilza/playlist.m3u8" type="video/mp4"/>
+    <enclosure url="https://assets.chaos.social/media_attachments/files/117/418/163/121/739/675/original/5d883746b95ddd1a.mp4" type="video/mp4"/>
   </item>
   <item>
-    <title>The SO-101 Robot Arm is an open-sourceproject for learning AI robotics. Members…</title>
-    <guid isPermaLink="false">bluesky-3mxk6dc3j4s2p</guid>
-    <link>https://bsky.app/profile/munichmakerlab.bsky.social/post/3mxk6dc3j4s2p</link>
+    <title>The SO-101 Robot Arm is an open-source project for learning AI-driven robotics…</title>
+    <guid isPermaLink="false">mastodon-117418161492951661</guid>
+    <link>https://chaos.social/@munichmakerlab/117418161492951661</link>
     <pubDate>Sat, 10 Oct 2026 19:00:02 +0000</pubDate>
-    <description><![CDATA[<p>The SO-101 Robot Arm is an open-sourceproject for learning AI robotics.</p><p>Members are building their own arms and training them with LeRobot to pick up cubes automatically. </p><p>Our robots and drones meetup works on projects like this regularly. Check munichmakerlab.de/events for dates.</p>]]></description>
+    <description><![CDATA[<p>The SO-101 Robot Arm is an open-source project for learning AI-driven robotics and manipulation tasks.</p><p>One of our members started by ordering the motors and printing the model and soon other members followed to build their own. The first robot arm is already being tuned with trained data to pick up cubes automatically, though there are still some issues to solve. </p><p>Our robots and drones meetup works on projects like this regularly. Check munichmakerlab.de/events for dates.</p>]]></description>
     
-    <enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/bluesky-3mxk6dc3j4s2p/03.jpg" type="image/jpeg"/>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117418161492951661/00.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117418161492951661/01.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117418161492951661/02.jpg" type="image/jpeg"/><enclosure url="https://posts.munichmakerlab.de/media/mastodon-117418161492951661/03.jpg" type="image/jpeg"/>
   </item>
   <item>
     <title>One of our members built a nice miniature TV for theatre.</title>

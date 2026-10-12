@@ -1,26 +1,26 @@
 {
   "mastodon": {
-    "status": "error",
-    "last_attempt": "2026-10-11T10:01:14.181341+00:00",
-    "last_success": "2026-10-10T09:51:21.467398+00:00",
-    "new_posts_last_run": 0,
-    "known_count": 32,
-    "error": "ConnectError: [Errno 101] Network is unreachable",
+    "status": "ok",
+    "last_attempt": "2026-10-12T10:50:33.664953+00:00",
+    "last_success": "2026-10-12T10:50:33.664953+00:00",
+    "new_posts_last_run": 2,
+    "known_count": 34,
+    "error": null,
     "warning": null
   },
   "bluesky": {
     "status": "ok",
-    "last_attempt": "2026-10-11T10:01:14.362792+00:00",
-    "last_success": "2026-10-11T10:01:14.362792+00:00",
-    "new_posts_last_run": 2,
+    "last_attempt": "2026-10-12T10:50:33.871684+00:00",
+    "last_success": "2026-10-12T10:50:33.871684+00:00",
+    "new_posts_last_run": 0,
     "known_count": 34,
     "error": null,
     "warning": null
   },
   "tumblr": {
     "status": "ok",
-    "last_attempt": "2026-10-11T10:01:14.688426+00:00",
-    "last_success": "2026-10-11T10:01:14.688426+00:00",
+    "last_attempt": "2026-10-12T10:50:34.178239+00:00",
+    "last_success": "2026-10-12T10:50:34.178239+00:00",
     "new_posts_last_run": 0,
     "known_count": 20,
     "error": null,
