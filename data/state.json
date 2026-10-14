@@ -1,8 +1,8 @@
 {
   "mastodon": {
     "status": "ok",
-    "last_attempt": "2026-10-13T10:36:45.520535+00:00",
-    "last_success": "2026-10-13T10:36:45.520535+00:00",
+    "last_attempt": "2026-10-14T08:43:54.416541+00:00",
+    "last_success": "2026-10-14T08:43:54.416541+00:00",
     "new_posts_last_run": 0,
     "known_count": 34,
     "error": null,
@@ -10,20 +10,20 @@
   },
   "bluesky": {
     "status": "ok",
-    "last_attempt": "2026-10-13T10:36:45.910805+00:00",
-    "last_success": "2026-10-13T10:36:45.910805+00:00",
+    "last_attempt": "2026-10-14T08:43:54.518611+00:00",
+    "last_success": "2026-10-14T08:43:54.518611+00:00",
     "new_posts_last_run": 0,
     "known_count": 34,
     "error": null,
     "warning": null
   },
   "tumblr": {
-    "status": "error",
-    "last_attempt": "2026-10-13T10:36:46.207618+00:00",
-    "last_success": "2026-10-12T10:50:34.178239+00:00",
+    "status": "ok",
+    "last_attempt": "2026-10-14T08:43:55.293156+00:00",
+    "last_success": "2026-10-14T08:43:55.293156+00:00",
     "new_posts_last_run": 0,
     "known_count": 20,
-    "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://log.munichmakerlab.de/api/read/json?num=20'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "error": null,
     "warning": null
   },
   "instagram": {
