@@ -6,12 +6,21 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 16 Oct 2026 08:11:21 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 07:48:52 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>Trick or Treat!You are invited to our Halloween celebration! Join us at Munich…</title>
+    <guid isPermaLink="false">mastodon-117454960558951836</guid>
+    <link>https://chaos.social/@munichmakerlab/117454960558951836</link>
+    <pubDate>Sat, 17 Oct 2026 07:01:07 +0000</pubDate>
+    <description><![CDATA[<p>Trick or Treat!<br />You are invited to our Halloween celebration! Join us at Munich Maker Lab on October 31st starting at 18:45 after our Cleanup Event and Plenum. </p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/mumahalloween" class="mention hashtag" rel="tag">#<span>mumahalloween</span></a> <a href="https://chaos.social/tags/munichevents" class="mention hashtag" rel="tag">#<span>munichevents</span></a></p>]]></description>
+    <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>mumahalloween</category><category>munichevents</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117454960558951836/00.png" type="image/jpeg"/>
+  </item>
   <item>
     <title>First steps of S0-101 robot arm to recognize cubes and place them on specific…</title>
     <guid isPermaLink="false">mastodon-117418163743823465</guid>
