@@ -1,5 +1,28 @@
 [
   {
+    "id": "bluesky-3my3axk3k772k",
+    "published_at": "2026-10-17T14:02:25.176000Z",
+    "updated_at": "2026-10-17T14:02:25.176000Z",
+    "text": "Trick or Treat!\nYou are invited to our Halloween celebration! Join us at Munich Maker Lab on October 31st starting at 18:45 after our Cleanup Event and Plenum. \n\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #mumahalloween #munichevents",
+    "html": "<p>Trick or Treat!</p><p>You are invited to our Halloween celebration! Join us at Munich Maker Lab on October 31st starting at 18:45 after our Cleanup Event and Plenum. </p><p>#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #mumahalloween #munichevents</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3my3axk3k772k",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3my3axk3k772k"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3my3axk3k772k/00.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiaca6mes2zjt47dddpk3sinmg37satmdy4l6h34vqk4urart66lzq",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117454960558951836",
     "published_at": "2026-10-17T07:01:07.516000Z",
     "updated_at": "2026-10-17T07:01:07.516000Z",

@@ -1,0 +1,187 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3my3axk3k772k",
+    "cid": "bafyreiaziryzz6wlsu45hgdq55dqwb2tiwh647wsvdmhel6jp4kuzclbay",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-17T14:02:25.176Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1350,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaca6mes2zjt47dddpk3sinmg37satmdy4l6h34vqk4urart66lzq"
+              },
+              "mimeType": "image/png",
+              "size": 852495
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "hackerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 174,
+            "byteStart": 162
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "makerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 175
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "openworkshop"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 187
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MunichMakerLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 216,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MuMaLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 225,
+            "byteStart": 217
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Kreativquartier"
+            }
+          ],
+          "index": {
+            "byteEnd": 242,
+            "byteStart": 226
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Kreativlabor"
+            }
+          ],
+          "index": {
+            "byteEnd": 256,
+            "byteStart": 243
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DIYMunich"
+            }
+          ],
+          "index": {
+            "byteEnd": 267,
+            "byteStart": 257
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "mumahalloween"
+            }
+          ],
+          "index": {
+            "byteEnd": 282,
+            "byteStart": 268
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "munichevents"
+            }
+          ],
+          "index": {
+            "byteEnd": 296,
+            "byteStart": 283
+          }
+        }
+      ],
+      "text": "Trick or Treat!\nYou are invited to our Halloween celebration! Join us at Munich Maker Lab on October 31st starting at 18:45 after our Cleanup Event and Plenum. \n\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #mumahalloween #munichevents"
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiaca6mes2zjt47dddpk3sinmg37satmdy4l6h34vqk4urart66lzq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiaca6mes2zjt47dddpk3sinmg37satmdy4l6h34vqk4urart66lzq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1350,
+            "width": 1080
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-17T14:02:26.759Z",
+    "labels": []
+  }
+}

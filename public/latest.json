@@ -1,5 +1,28 @@
 [
   {
+    "id": "bluesky-3my3axk3k772k",
+    "published_at": "2026-10-17T14:02:25.176000Z",
+    "updated_at": "2026-10-17T14:02:25.176000Z",
+    "text": "Trick or Treat!\nYou are invited to our Halloween celebration! Join us at Munich Maker Lab on October 31st starting at 18:45 after our Cleanup Event and Plenum. \n\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #mumahalloween #munichevents",
+    "html": "<p>Trick or Treat!</p><p>You are invited to our Halloween celebration! Join us at Munich Maker Lab on October 31st starting at 18:45 after our Cleanup Event and Plenum. </p><p>#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #mumahalloween #munichevents</p>",
+    "sources": [
+      {
+        "platform": "bluesky",
+        "id": "3my3axk3k772k",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3my3axk3k772k"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/bluesky-3my3axk3k772k/00.jpg",
+        "original_url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreiaca6mes2zjt47dddpk3sinmg37satmdy4l6h34vqk4urart66lzq",
+        "alt": null
+      }
+    ],
+    "tags": []
+  },
+  {
     "id": "mastodon-117454960558951836",
     "published_at": "2026-10-17T07:01:07.516000Z",
     "updated_at": "2026-10-17T07:01:07.516000Z",
@@ -797,46 +820,6 @@
       "robotics",
       "autonomy",
       "makers"
-    ]
-  },
-  {
-    "id": "mastodon-117127770057980489",
-    "published_at": "2026-08-20T12:12:16.681000Z",
-    "updated_at": "2026-08-20T12:12:18.586000Z",
-    "text": "We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.\nNo wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #sawstop #tablesaw #safety",
-    "html": "<p>We got a new table saw and had the chance to test its additional safety feature, which helps prevent injuries from contact with body parts.</p><p>No wiener was seriously harmed in this experiment! We hope to integrate the saw into our current setup soon.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/sawstop\" class=\"mention hashtag\" rel=\"tag\">#<span>sawstop</span></a> <a href=\"https://chaos.social/tags/tablesaw\" class=\"mention hashtag\" rel=\"tag\">#<span>tablesaw</span></a> <a href=\"https://chaos.social/tags/safety\" class=\"mention hashtag\" rel=\"tag\">#<span>safety</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "117127770057980489",
-        "url": "https://chaos.social/@munichmakerlab/117127770057980489"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mtj7ramyhc2f",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mtj7ramyhc2f"
-      }
-    ],
-    "media": [
-      {
-        "type": "video",
-        "url": "https://assets.chaos.social/media_attachments/files/117/127/755/118/365/421/original/23f0505563e3ce17.mp4",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/127/755/118/365/421/original/23f0505563e3ce17.mp4",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "sawstop",
-      "tablesaw",
-      "safety"
     ]
   }
 ]
