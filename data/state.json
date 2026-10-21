@@ -1,29 +1,29 @@
 {
   "mastodon": {
-    "status": "ok",
-    "last_attempt": "2026-10-20T08:33:26.056795+00:00",
+    "status": "error",
+    "last_attempt": "2026-10-21T08:35:21.620843+00:00",
     "last_success": "2026-10-20T08:33:26.056795+00:00",
     "new_posts_last_run": 0,
     "known_count": 35,
-    "error": null,
+    "error": "ConnectError: [Errno 101] Network is unreachable",
     "warning": null
   },
   "bluesky": {
     "status": "ok",
-    "last_attempt": "2026-10-20T08:33:26.299510+00:00",
-    "last_success": "2026-10-20T08:33:26.299510+00:00",
+    "last_attempt": "2026-10-21T08:35:21.721207+00:00",
+    "last_success": "2026-10-21T08:35:21.721207+00:00",
     "new_posts_last_run": 0,
     "known_count": 35,
     "error": null,
     "warning": null
   },
   "tumblr": {
-    "status": "ok",
-    "last_attempt": "2026-10-20T08:33:26.887775+00:00",
+    "status": "error",
+    "last_attempt": "2026-10-21T08:35:22.279382+00:00",
     "last_success": "2026-10-20T08:33:26.887775+00:00",
     "new_posts_last_run": 0,
     "known_count": 20,
-    "error": null,
+    "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://log.munichmakerlab.de/api/read/json?num=20'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
     "warning": null
   },
   "instagram": {
