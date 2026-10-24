@@ -1,0 +1,103 @@
+{
+  "post": {
+    "uri": "at://did:plc:3zzd3bbybpcl53knpuubo23j/app.bsky.feed.post/3mym24bjsju2q",
+    "cid": "bafyreihl2mskjx532bcbt2iev5urkxm2tou7mffqlefiuimmhyg4gbee7a",
+    "author": {
+      "did": "did:plc:3zzd3bbybpcl53knpuubo23j",
+      "handle": "munichmakerlab.bsky.social",
+      "displayName": "Munich Maker Lab",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreifsxci6b4wf23qt6v2ldgv4ka5ol6bkl3t672a3rz4mltl5yqz2jm",
+      "associated": {
+        "activitySubscription": {
+          "allowSubscriptions": "followers"
+        }
+      },
+      "labels": [],
+      "createdAt": "2025-01-27T18:24:50.543Z"
+    },
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-24T06:15:03.319Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "General Assembly postponed to Nov. 7th, 2026 due to unfortunate circumstances, displayed on a corkboard-style announcement with a megaphone pin, a mascot graphic by a machine, and a small note directing viewers to the organization’s Slack for more information.",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih3y4p3xgjhcgl2fs4mgu5mkjde57yfhs6qgt2b3ysjuwgg5tweji"
+              },
+              "mimeType": "image/jpeg",
+              "size": 323265
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "makerspace"
+            }
+          ],
+          "index": {
+            "byteEnd": 269,
+            "byteStart": 258
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MunichMakerLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 286,
+            "byteStart": 271
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MuMaLab"
+            }
+          ],
+          "index": {
+            "byteEnd": 295,
+            "byteStart": 287
+          }
+        }
+      ],
+      "text": "Due to unforeseen circumstances, our General Assembly has been postponed to 7 November 2026 at 15:00.\nWe know many members were planning to attend and appreciate your understanding. Further information and updates will be shared through our Slack workspace.\n#makerspace  #MunichMakerLab #MuMaLab"
+    },
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreih3y4p3xgjhcgl2fs4mgu5mkjde57yfhs6qgt2b3ysjuwgg5tweji",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zzd3bbybpcl53knpuubo23j/bafkreih3y4p3xgjhcgl2fs4mgu5mkjde57yfhs6qgt2b3ysjuwgg5tweji",
+          "alt": "General Assembly postponed to Nov. 7th, 2026 due to unfortunate circumstances, displayed on a corkboard-style announcement with a megaphone pin, a mascot graphic by a machine, and a small note directing viewers to the organization’s Slack for more information.",
+          "aspectRatio": {
+            "height": 1080,
+            "width": 1080
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "bookmarkCount": 0,
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "indexedAt": "2026-10-24T06:15:04.740Z",
+    "labels": []
+  }
+}

@@ -6,12 +6,21 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 23 Oct 2026 08:33:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 08:08:32 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>Due to unforeseen circumstances, our General Assembly has been postponed to 7…</title>
+    <guid isPermaLink="false">mastodon-117494415657851071</guid>
+    <link>https://chaos.social/@munichmakerlab/117494415657851071</link>
+    <pubDate>Sat, 24 Oct 2026 06:15:03 +0000</pubDate>
+    <description><![CDATA[<p>Due to unforeseen circumstances, our General Assembly has been postponed to 7 November 2026 at 15:00.<br />We know many members were planning to attend and appreciate your understanding. Further information and updates will be shared through our Slack workspace.</p><p><a href="https://chaos.social/tags/hackerspace" class="mention hashtag" rel="tag">#<span>hackerspace</span></a> <a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a> <a href="https://chaos.social/tags/Kreativquartier" class="mention hashtag" rel="tag">#<span>Kreativquartier</span></a> <a href="https://chaos.social/tags/Kreativlabor" class="mention hashtag" rel="tag">#<span>Kreativlabor</span></a> <a href="https://chaos.social/tags/DIYMunich" class="mention hashtag" rel="tag">#<span>DIYMunich</span></a> <a href="https://chaos.social/tags/generalassembly" class="mention hashtag" rel="tag">#<span>generalassembly</span></a> <a href="https://chaos.social/tags/verein" class="mention hashtag" rel="tag">#<span>verein</span></a> <a href="https://chaos.social/tags/communitymeeting" class="mention hashtag" rel="tag">#<span>communitymeeting</span></a></p>]]></description>
+    <category>hackerspace</category><category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>kreativquartier</category><category>kreativlabor</category><category>diymunich</category><category>generalassembly</category><category>verein</category><category>CommunityMeeting</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117494415657851071/00.jpeg" type="image/jpeg"/>
+  </item>
   <item>
     <title>Trick or Treat! You are invited to our Halloween celebration! Join us at Munich…</title>
     <guid isPermaLink="false">bluesky-3my3axk3k772k</guid>

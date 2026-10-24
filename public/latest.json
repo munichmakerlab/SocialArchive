@@ -1,5 +1,45 @@
 [
   {
+    "id": "mastodon-117494415657851071",
+    "published_at": "2026-10-24T06:15:03.319000Z",
+    "updated_at": "2026-10-24T06:15:04.550000Z",
+    "text": "Due to unforeseen circumstances, our General Assembly has been postponed to 7 November 2026 at 15:00.We know many members were planning to attend and appreciate your understanding. Further information and updates will be shared through our Slack workspace.\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #generalassembly #verein #communitymeeting",
+    "html": "<p>Due to unforeseen circumstances, our General Assembly has been postponed to 7 November 2026 at 15:00.<br />We know many members were planning to attend and appreciate your understanding. Further information and updates will be shared through our Slack workspace.</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/generalassembly\" class=\"mention hashtag\" rel=\"tag\">#<span>generalassembly</span></a> <a href=\"https://chaos.social/tags/verein\" class=\"mention hashtag\" rel=\"tag\">#<span>verein</span></a> <a href=\"https://chaos.social/tags/communitymeeting\" class=\"mention hashtag\" rel=\"tag\">#<span>communitymeeting</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117494415657851071",
+        "url": "https://chaos.social/@munichmakerlab/117494415657851071"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mym24bjsju2q",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mym24bjsju2q"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117494415657851071/00.jpeg",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/494/415/574/583/861/original/77e15e393c5e03db.jpeg",
+        "alt": "General Assembly postponed to Nov. 7th, 2026 due to unfortunate circumstances, displayed on a corkboard-style announcement with a megaphone pin, a mascot graphic by a machine, and a small note directing viewers to the organization’s Slack for more information."
+      }
+    ],
+    "tags": [
+      "hackerspace",
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "kreativquartier",
+      "kreativlabor",
+      "diymunich",
+      "generalassembly",
+      "verein",
+      "CommunityMeeting"
+    ]
+  },
+  {
     "id": "bluesky-3my3axk3k772k",
     "published_at": "2026-10-17T14:02:25.176000Z",
     "updated_at": "2026-10-17T14:02:25.176000Z",
@@ -780,46 +820,6 @@
       "oktoberfest",
       "septemberevents",
       "munichevents"
-    ]
-  },
-  {
-    "id": "mastodon-117151057855799551",
-    "published_at": "2026-08-24T14:54:00.082000Z",
-    "updated_at": "2026-08-24T14:54:40.278000Z",
-    "text": "Look who just came around the corner, it's Wall-E!This little robot is one of our members' projects, and he is currently working on his autonomous capabilities so he can drive around without external help.#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #robotics #autonomy #makers",
-    "html": "<p>Look who just came around the corner, it&#39;s Wall-E!<br />This little robot is one of our members&#39; projects, and he is currently working on his autonomous capabilities so he can drive around without external help.<br /><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/robotics\" class=\"mention hashtag\" rel=\"tag\">#<span>robotics</span></a> <a href=\"https://chaos.social/tags/autonomy\" class=\"mention hashtag\" rel=\"tag\">#<span>autonomy</span></a> <a href=\"https://chaos.social/tags/makers\" class=\"mention hashtag\" rel=\"tag\">#<span>makers</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "117151057855799551",
-        "url": "https://chaos.social/@munichmakerlab/117151057855799551"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mttko2kei22p",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mttko2kei22p"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117151057855799551/00.jpg",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/151/056/391/949/851/original/dbf8faa851218e09.jpg",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "robotics",
-      "autonomy",
-      "makers"
     ]
   }
 ]
