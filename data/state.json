@@ -1,8 +1,8 @@
 {
   "mastodon": {
     "status": "ok",
-    "last_attempt": "2026-10-27T09:00:26.227853+00:00",
-    "last_success": "2026-10-27T09:00:26.227853+00:00",
+    "last_attempt": "2026-10-28T09:40:34.133102+00:00",
+    "last_success": "2026-10-28T09:40:34.133102+00:00",
     "new_posts_last_run": 0,
     "known_count": 36,
     "error": null,
@@ -10,8 +10,8 @@
   },
   "bluesky": {
     "status": "ok",
-    "last_attempt": "2026-10-27T09:00:26.352474+00:00",
-    "last_success": "2026-10-27T09:00:26.352474+00:00",
+    "last_attempt": "2026-10-28T09:40:36.455585+00:00",
+    "last_success": "2026-10-28T09:40:36.455585+00:00",
     "new_posts_last_run": 0,
     "known_count": 36,
     "error": null,
@@ -19,8 +19,8 @@
   },
   "tumblr": {
     "status": "ok",
-    "last_attempt": "2026-10-27T09:00:26.995007+00:00",
-    "last_success": "2026-10-27T09:00:26.995007+00:00",
+    "last_attempt": "2026-10-28T09:40:36.764798+00:00",
+    "last_success": "2026-10-28T09:40:36.764798+00:00",
     "new_posts_last_run": 0,
     "known_count": 20,
     "error": null,
