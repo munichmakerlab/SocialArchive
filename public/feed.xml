@@ -6,12 +6,21 @@
   <atom:link href="https://posts.munichmakerlab.de/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Archived posts from all MuMaLab social media accounts.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 01 Nov 2026 10:28:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 11:08:38 +0000</lastBuildDate>
   <image>
     <url>https://posts.munichmakerlab.de/logo.png</url>
     <title>Munich Maker Lab -- Social Archive</title>
     <link>https://posts.munichmakerlab.de/</link>
   </image>
+  <item>
+    <title>November is just around the corner, and we've got a full month of workshops,…</title>
+    <guid isPermaLink="false">mastodon-117541898934331993</guid>
+    <link>https://chaos.social/@munichmakerlab/117541898934331993</link>
+    <pubDate>Sun, 01 Nov 2026 15:30:38 +0000</pubDate>
+    <description><![CDATA[<p>November is just around the corner, and we&#39;ve got a full month of workshops, meetups, community events, and our General Assembly coming up at Munich Maker Lab.</p><p>Whether you&#39;re interested in robotics, CNC machining, stained glass, or simply meeting fellow makers, there&#39;s always something happening at the MuMa Lab! Open Community Days are every Thursday at 18:00.</p><p>Please note that events, times, and dates are subject to change. </p><p><a href="https://chaos.social/tags/makerspace" class="mention hashtag" rel="tag">#<span>makerspace</span></a> <a href="https://chaos.social/tags/openworkshop" class="mention hashtag" rel="tag">#<span>openworkshop</span></a> <a href="https://chaos.social/tags/MunichMakerLab" class="mention hashtag" rel="tag">#<span>MunichMakerLab</span></a> <a href="https://chaos.social/tags/MuMaLab" class="mention hashtag" rel="tag">#<span>MuMaLab</span></a>  <a href="https://chaos.social/tags/workshops" class="mention hashtag" rel="tag">#<span>workshops</span></a></p>]]></description>
+    <category>makerspace</category><category>openworkshop</category><category>munichmakerlab</category><category>mumalab</category><category>workshops</category>
+    <enclosure url="https://posts.munichmakerlab.de/media/mastodon-117541898934331993/00.png" type="image/jpeg"/>
+  </item>
   <item>
     <title>Due to unforeseen circumstances, our General Assembly has been postponed to 7…</title>
     <guid isPermaLink="false">mastodon-117494415657851071</guid>

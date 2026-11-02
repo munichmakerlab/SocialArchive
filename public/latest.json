@@ -1,5 +1,39 @@
 [
   {
+    "id": "mastodon-117541898934331993",
+    "published_at": "2026-11-01T15:30:38.475000Z",
+    "updated_at": "2026-11-01T15:30:42.322000Z",
+    "text": "November is just around the corner, and we've got a full month of workshops, meetups, community events, and our General Assembly coming up at Munich Maker Lab.\nWhether you're interested in robotics, CNC machining, stained glass, or simply meeting fellow makers, there's always something happening at the MuMa Lab! Open Community Days are every Thursday at 18:00.\nPlease note that events, times, and dates are subject to change. \n#makerspace #openworkshop #MunichMakerLab #MuMaLab  #workshops",
+    "html": "<p>November is just around the corner, and we&#39;ve got a full month of workshops, meetups, community events, and our General Assembly coming up at Munich Maker Lab.</p><p>Whether you&#39;re interested in robotics, CNC machining, stained glass, or simply meeting fellow makers, there&#39;s always something happening at the MuMa Lab! Open Community Days are every Thursday at 18:00.</p><p>Please note that events, times, and dates are subject to change. </p><p><a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a>  <a href=\"https://chaos.social/tags/workshops\" class=\"mention hashtag\" rel=\"tag\">#<span>workshops</span></a></p>",
+    "sources": [
+      {
+        "platform": "mastodon",
+        "id": "117541898934331993",
+        "url": "https://chaos.social/@munichmakerlab/117541898934331993"
+      },
+      {
+        "platform": "bluesky",
+        "id": "3mzb4v43orh2l",
+        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mzb4v43orh2l"
+      }
+    ],
+    "media": [
+      {
+        "type": "image",
+        "url": "https://posts.munichmakerlab.de/media/mastodon-117541898934331993/00.png",
+        "original_url": "https://assets.chaos.social/media_attachments/files/117/541/898/692/943/191/original/0d0936064050b236.png",
+        "alt": null
+      }
+    ],
+    "tags": [
+      "makerspace",
+      "openworkshop",
+      "munichmakerlab",
+      "mumalab",
+      "workshops"
+    ]
+  },
+  {
     "id": "mastodon-117494415657851071",
     "published_at": "2026-10-24T06:15:03.319000Z",
     "updated_at": "2026-10-24T06:15:04.550000Z",
@@ -780,46 +814,6 @@
       "3dprinting",
       "deathracing",
       "robotcombat"
-    ]
-  },
-  {
-    "id": "mastodon-117190947292518199",
-    "published_at": "2026-08-31T15:55:43.308000Z",
-    "updated_at": "2026-08-31T15:59:04.776000Z",
-    "text": "September is here, which means traditional festivities, delicious food, and plenty of time to work on your latest projects! Check out our lineup of workshops, meetups, and community sessions coming up this month.\nWe also host Open Community Days every Thursday at 18:00.\nFor full details and event registration, visit munichmakerlab.de/events\n#hackerspace #makerspace #openworkshop #MunichMakerLab #MuMaLab #Kreativquartier #Kreativlabor #DIYMunich #oktoberfest #septemberevents #munichevents",
-    "html": "<p>September is here, which means traditional festivities, delicious food, and plenty of time to work on your latest projects! Check out our lineup of workshops, meetups, and community sessions coming up this month.</p><p>We also host Open Community Days every Thursday at 18:00.</p><p>For full details and event registration, visit munichmakerlab.de/events</p><p><a href=\"https://chaos.social/tags/hackerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>hackerspace</span></a> <a href=\"https://chaos.social/tags/makerspace\" class=\"mention hashtag\" rel=\"tag\">#<span>makerspace</span></a> <a href=\"https://chaos.social/tags/openworkshop\" class=\"mention hashtag\" rel=\"tag\">#<span>openworkshop</span></a> <a href=\"https://chaos.social/tags/MunichMakerLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MunichMakerLab</span></a> <a href=\"https://chaos.social/tags/MuMaLab\" class=\"mention hashtag\" rel=\"tag\">#<span>MuMaLab</span></a> <a href=\"https://chaos.social/tags/Kreativquartier\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativquartier</span></a> <a href=\"https://chaos.social/tags/Kreativlabor\" class=\"mention hashtag\" rel=\"tag\">#<span>Kreativlabor</span></a> <a href=\"https://chaos.social/tags/DIYMunich\" class=\"mention hashtag\" rel=\"tag\">#<span>DIYMunich</span></a> <a href=\"https://chaos.social/tags/oktoberfest\" class=\"mention hashtag\" rel=\"tag\">#<span>oktoberfest</span></a> <a href=\"https://chaos.social/tags/septemberevents\" class=\"mention hashtag\" rel=\"tag\">#<span>septemberevents</span></a> <a href=\"https://chaos.social/tags/munichevents\" class=\"mention hashtag\" rel=\"tag\">#<span>munichevents</span></a></p>",
-    "sources": [
-      {
-        "platform": "mastodon",
-        "id": "117190947292518199",
-        "url": "https://chaos.social/@munichmakerlab/117190947292518199"
-      },
-      {
-        "platform": "bluesky",
-        "id": "3mufbeuh6322r",
-        "url": "https://bsky.app/profile/munichmakerlab.bsky.social/post/3mufbeuh6322r"
-      }
-    ],
-    "media": [
-      {
-        "type": "image",
-        "url": "https://posts.munichmakerlab.de/media/mastodon-117190947292518199/00.png",
-        "original_url": "https://assets.chaos.social/media_attachments/files/117/190/945/082/464/083/original/00bb114bebc46646.png",
-        "alt": null
-      }
-    ],
-    "tags": [
-      "hackerspace",
-      "makerspace",
-      "openworkshop",
-      "munichmakerlab",
-      "mumalab",
-      "kreativquartier",
-      "kreativlabor",
-      "diymunich",
-      "oktoberfest",
-      "septemberevents",
-      "munichevents"
     ]
   }
 ]
